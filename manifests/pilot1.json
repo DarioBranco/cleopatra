@@ -1,0 +1,7 @@
+{"@context":"http://iiif.io/api/presentation/2/context.json",
+"@id":"https://iiif.library.parsec2.unicampania.it/v2/collections/cleopatra",
+"@type":"sc:Collection","label":"Cleopatra Pilots",
+"metadata":[{"label":"title","value":["Site 1","via Roma 29"]}],"attribution":"For rights and reproduction information please contact cleopatra@parsec2.unicampania.it",
+"manifests":[
+{"@id":"https://parsec2.unicampania.it/~cleopatra/manifests/manifest_cleo_1.json","@type":"sc:Manifest","label":"Sanniti"}],
+"total":1}

@@ -1,0 +1,251 @@
+<html>
+
+	<head>
+    <script src="lib/mirador.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="css/manifestButton.css" />	
+<script>
+
+  var uid;
+  var accesToken;
+
+  window.fbAsyncInit = function() {
+    FB.init({
+      //appId      : '2897787287216541',  
+      appId : '2750974328537716',
+      cookie     : true,
+      xfbml      : true,
+      version    : 'v12.0'
+    });
+    console.log('ciao');
+    FB.AppEvents.logPageView();   
+FB.Event.subscribe('auth.login', function(response) {
+  console.log('logged');
+});
+
+
+
+    FB.getLoginStatus(function(response) {
+    statusChangeCallback(response);
+    console.log(response.status);
+            
+    if(response.status == 'connected'){
+	    uid = response.authResponse.userID;
+    console.log('uid');
+     console.log(uid);
+    accessToken = response.authResponse.accessToken;
+    start_mirador();
+
+	}
+    else{
+         
+    }
+});   
+  };
+
+  (function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement(s); js.id = id;
+     js.src = "https://connect.facebook.net/en_US/sdk.js";
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));
+
+function statusChangeCallback(response){console.log("changed");}
+function checkLoginState() {
+  FB.getLoginStatus(function(response) {
+    if (response.status === 'connected') {
+    // The user is logged in and has authenticated your
+    // app, and response.authResponse supplies
+    // the user's ID, a valid access token, a signed
+    // request, and the time the access token 
+    // and signed request each expire.
+    uid = response.authResponse.userID;
+    accessToken = response.authResponse.accessToken;
+    start_mirador(); 
+    
+  }
+  });
+}
+
+function trasmetti(event_type)
+{
+
+
+
+}
+
+var miradorInstance;
+function start_mirador()
+{
+
+ miradorInstance = Mirador.viewer({
+       id: 'viewer',
+       language: 'it',
+      selectedTheme: 'dark',
+       openManifestsPage: true,
+      window: {
+		  panels: {
+			layers: true
+		 },
+		  defaultView:'single',
+				views: [
+						{ key: 'single'},
+						{ key: 'book' },
+						{ key: 'scroll'},
+						{ key: 'gallery' }
+						]
+				
+			},
+	  windows: [{
+		 id: 'main_window',
+         manifestId: 'index.json',
+      //manifestId: 'https://iiif.bodleian.ox.ac.uk/iiif/manifest/e32a277e-91e2-4a6d-8ba6-cc4bad230410.json',
+      //   canvasId: 'http://www.dante.unina.it/iiif/ms_jp2/CNMD0000249997/CNMD0000249997_0001.jp1',
+        thumbnailNavigationPosition: 'far-bottom',
+       }],
+       /*
+       workspace: {
+
+    isWorkspaceAddVisible: true, 
+},*/
+       manifestButton: {
+		iconClass: 'fa-file' // Define the icon class of the button
+		},
+		
+     });
+
+
+
+	miradorInstance.store.subscribe( () => {
+		//console.log(miradorInstance.store.getState());
+		var state = miradorInstance.store.getState();
+
+
+		//INTERCETTAZIONE DELL'EVENTO DI CAMBIO PAGINA:
+		if( typeof this.vecchioId === 'undefined' )
+		{
+			this.vecchioId = "";
+		}
+
+		var id = state.windows.main_window.canvasId;
+
+		if( typeof id !== 'undefined' && id !== this.vecchioId )
+		{
+			console.log("--------- Pagina cambiata ------------");
+			console.log("URL precedente: " + this.vecchioId);
+			console.log("URL nuovo: " + id);
+
+			let nome = id.substring(id.lastIndexOf("/") + 1);
+			console.log("Canvas: " + nome);
+
+			this.vecchioId = id;
+
+			trasmetti("page change");
+		}
+
+
+		//INTERCETTAZIONE DELL'EVENTO DI ZOOM/PAN:
+		if( typeof this.vecchiaMainWindow === 'undefined' )
+		{
+			this.vecchiaMainWindow = { zoom: 0, x: 0, y: 0 };
+		}
+
+		var visualizzatore = state.viewers.main_window;
+
+		if( visualizzatore != null )
+		{
+			//Se  uno zoom:
+			if( visualizzatore.zoom != this.vecchiaMainWindow.zoom )
+			{
+				console.log("--------- Zoom avvenuto ------------");
+				console.log("Zoom precedente: " + this.vecchiaMainWindow.zoom + ". x = " + this.vecchiaMainWindow.x + ". y = " + this.vecchiaMainWindow.y);
+				console.log("Zoom nuovo: " + visualizzatore.zoom + ". x = " + visualizzatore.x + ". y = " + visualizzatore.y);
+
+				//trasmetti("user_uttered", "zoom");
+			}
+			//Se  un pan:
+			else if( visualizzatore.x != this.vecchiaMainWindow.x || visualizzatore.y != this.vecchiaMainWindow.y )
+			{
+				console.log("--------- Pan avvenuto ------------");
+				console.log("Centro precedente: x = " + this.vecchiaMainWindow.x + ". y = " + this.vecchiaMainWindow.y);
+				console.log("Centro nuovo: x = " + visualizzatore.x + ". y = " + visualizzatore.y);
+
+				//trasmetti("user_uttered", "pan");
+			}
+
+			this.vecchiaMainWindow = visualizzatore;
+		}
+
+
+		//INTERCETTAZIONE DELL'EVENTO DI SELEZIONE ANNOTAZIONE:
+		if( typeof this.vecchiaAnnotazione === 'undefined' )
+		{
+			this.vecchiaAnnotazione = "";
+		}
+
+		var annotazione = state.windows.main_window.selectedAnnotationId;
+
+		if(typeof annotazione !== 'undefined' && annotazione !== this.vecchiaAnnotazione )
+		{
+			console.log("--------- Annotazione selezionata ------------");
+			console.log("Annotazione precedente: " + this.vecchiaAnnotazione);
+			console.log("Annotazione nuova: " + annotazione);
+
+			let nome = annotazione.substring(annotazione.lastIndexOf("/") + 1);
+			console.log("Id annotazione: " + nome);
+
+			this.vecchiaAnnotazione = annotazione;
+
+			//trasmetti("user_uttered", "annotation");
+		}
+
+	} )
+
+}
+</script>
+	</head>
+	<body>
+<!--		<fb:login-button
+  scope="public_profile,email"
+  onlogin="checkLoginState();">
+</fb:login-button>-->
+    <div id="fb-root"></div>
+    <div id="fb-customer-chat" class="fb-customerchat"></div>
+    
+    <div id="viewer"/>
+
+<!-- Messenger plug-in per la chat Code 
+    <div id="fb-root"></div> -->
+
+    <!-- Your plug-in per la chat code -->
+    <!--<div id="fb-customer-chat" class="fb-customerchat"> -->
+    
+
+    <script>
+      var chatbox = document.getElementById('fb-customer-chat');
+      chatbox.setAttribute("page_id", "111284851145688");
+      chatbox.setAttribute("attribution", "biz_inbox");
+      chatbox.setAttribute("z-index", "4444");
+      chatbox.setAttribute("position","absolute");
+    </script>
+
+    <!-- Your SDK code -->
+    <script>
+/*      window.fbAsyncInit = function() {
+        FB.init({
+          xfbml            : true,
+          version          : 'v12.0'
+        });
+      };
+*/
+      (function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = 'https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js';
+        fjs.parentNode.insertBefore(js, fjs);
+      }(document, 'script', 'facebook-jssdk'));
+    </script>
+    <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js"></script>
+	</body>
+</html>

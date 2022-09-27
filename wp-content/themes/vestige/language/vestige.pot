@@ -1,0 +1,5059 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Vestige\n"
+"POT-Creation-Date: 2021-03-31 17:56+0530\n"
+"PO-Revision-Date: 2021-03-31 17:56+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:11
+msgid "404 Error!"
+msgstr ""
+
+#: 404.php:31
+msgid "404"
+msgstr ""
+
+#: 404.php:33
+msgid "Sorry - Page Not Found!"
+msgstr ""
+
+#: 404.php:34
+msgid "The page you are looking for was moved, removed, renamed"
+msgstr ""
+
+#: 404.php:36
+msgid "or might never existed. You stumbled upon a broken link"
+msgstr ""
+
+#: archive-event.php:56
+#: framework/page-builder/widgets/events-list-widget/tpl/grid-view.php:71
+#: framework/page-builder/widgets/events-list-widget/tpl/list-view.php:45
+#: framework/page-builder/widgets/upcoming-events-widget/tpl/template.php:31
+#: taxonomy-event-category.php:66 taxonomy-event-tag.php:66
+msgid "All Day"
+msgstr ""
+
+#: archive-event.php:69 framework/meta-boxes.php:180
+#: framework/meta-boxes.php:349
+#: framework/page-builder/widgets/events-list-widget/tpl/list-view.php:58
+#: single-event.php:130 single-exhibition.php:137
+#: taxonomy-event-category.php:78 taxonomy-event-tag.php:78
+msgid "Details"
+msgstr ""
+
+#: archive-event.php:73 archive-event.php:75
+#: framework/page-builder/widgets/events-list-widget/tpl/grid-view.php:113
+#: framework/page-builder/widgets/events-list-widget/tpl/grid-view.php:115
+#: framework/page-builder/widgets/events-list-widget/tpl/list-view.php:62
+#: framework/page-builder/widgets/events-list-widget/tpl/list-view.php:64
+#: framework/page-builder/widgets/exhibitions-list-widget/tpl/grid-view.php:123
+#: framework/page-builder/widgets/exhibitions-list-widget/tpl/grid-view.php:125
+#: framework/page-builder/widgets/exhibitions-list-widget/tpl/grid-view.php:218
+#: framework/page-builder/widgets/exhibitions-list-widget/tpl/grid-view.php:220
+#: framework/page-builder/widgets/exhibitions-list-widget/tpl/list-view.php:96
+#: framework/page-builder/widgets/exhibitions-list-widget/tpl/list-view.php:98
+#: framework/page-builder/widgets/exhibitions-list-widget/tpl/list-view.php:171
+#: framework/page-builder/widgets/exhibitions-list-widget/tpl/list-view.php:173
+#: single-event.php:164 single-event.php:166 single-exhibition.php:178
+#: single-exhibition.php:180 taxonomy-event-category.php:95
+#: taxonomy-event-category.php:97 taxonomy-event-tag.php:95
+#: taxonomy-event-tag.php:97 taxonomy-exhibition-category.php:95
+#: taxonomy-exhibition-category.php:97 taxonomy-exhibition-tag.php:95
+#: taxonomy-exhibition-tag.php:97
+msgid "Book Online"
+msgstr ""
+
+#: comments.php:4
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:15
+msgid "No Comments"
+msgstr ""
+
+#: comments.php:15
+msgid "Comment(1)"
+msgstr ""
+
+#: comments.php:15
+msgid "Comments(%)"
+msgstr ""
+
+#: comments.php:70
+#, php-format
+msgid "<h5>%s says:</h5>"
+msgstr ""
+
+#: comments.php:73 functions.php:213
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: comments.php:80
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: comments.php:134
+msgid "Your name"
+msgstr ""
+
+#: comments.php:137 single-event.php:264 single-exhibition.php:278
+msgid "Your email"
+msgstr ""
+
+#: comments.php:140
+msgid "Website (optional)"
+msgstr ""
+
+#: comments.php:153
+msgid "Your comment"
+msgstr ""
+
+#: comments.php:168
+msgid "Post a comment"
+msgstr ""
+
+#: comments.php:170
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: comments.php:171
+msgid "Cancel reply"
+msgstr ""
+
+#: comments.php:172
+msgid "Submit your comment"
+msgstr ""
+
+#: footer.php:88
+msgid "Your ticket for the: "
+msgstr ""
+
+#: footer.php:109
+#: framework/page-builder/widgets/artists-widget/artists-widget.php:28
+#: framework/page-builder/widgets/artworks-list-widget/artworks-list-widget.php:27
+#: framework/page-builder/widgets/carousel-widget/carousel-widget.php:27
+#: framework/page-builder/widgets/custom-grid-list-widget/custom-grid-list-widget.php:27
+#: framework/page-builder/widgets/events-list-widget/events-list-widget.php:27
+#: framework/page-builder/widgets/exhibitions-list-widget/exhibitions-list-widget.php:27
+#: framework/page-builder/widgets/gallery-grid-widget/gallery-grid-widget.php:27
+#: framework/page-builder/widgets/posts-list-widget/posts-list-widget.php:27
+#: framework/page-builder/widgets/progressbar-widget/progressbar-widget.php:27
+#: framework/page-builder/widgets/team-widget/team-widget.php:27
+#: framework/page-builder/widgets/testimonials-widget/testimonials-widget.php:27
+#: framework/page-builder/widgets/upcoming-events-widget/upcoming-events-widget.php:27
+#: framework/page-builder/widgets/upcoming-exhibitions-widget/upcoming-exhibitions-widget.php:27
+#: framework/page-builder/widgets/venues-widget/venues-widget.php:28
+msgid "Title"
+msgstr ""
+
+#: footer.php:141
+msgid "Close"
+msgstr ""
+
+#: footer.php:142
+msgid "Print"
+msgstr ""
+
+#: framework/barebones-config.php:34 framework/barebones-config.php:35
+msgid "Theme Options"
+msgstr ""
+
+#: framework/barebones-config.php:164
+msgid "<p>This is the sidebar content, HTML is allowed.</p>"
+msgstr ""
+
+#: framework/barebones-config.php:181
+msgid "General"
+msgstr ""
+
+#: framework/barebones-config.php:186
+msgid "Enable Maintenance"
+msgstr ""
+
+#: framework/barebones-config.php:187
+msgid "Enable the themes in maintenance mode."
+msgstr ""
+
+#: framework/barebones-config.php:189
+msgid "Enabled"
+msgstr ""
+
+#: framework/barebones-config.php:190
+msgid "Disabled"
+msgstr ""
+
+#: framework/barebones-config.php:195
+msgid "Enable Back To Top"
+msgstr ""
+
+#: framework/barebones-config.php:196
+msgid ""
+"Enable the back to top button that appears in the bottom right corner of the "
+"screen."
+msgstr ""
+
+#: framework/barebones-config.php:202
+msgid "Space before closing head tag"
+msgstr ""
+
+#: framework/barebones-config.php:203
+msgid "Add your code before closing head tag"
+msgstr ""
+
+#: framework/barebones-config.php:209
+msgid "Space before closing body tag"
+msgstr ""
+
+#: framework/barebones-config.php:210
+msgid "Add your code before closing body tag"
+msgstr ""
+
+#: framework/barebones-config.php:217
+msgid "Responsive"
+msgstr ""
+
+#: framework/barebones-config.php:222
+msgid "Enable Responsive"
+msgstr ""
+
+#: framework/barebones-config.php:223
+msgid "Enable/Disable the responsive behaviour of the theme"
+msgstr ""
+
+#: framework/barebones-config.php:229
+msgid "Enable Zoom on mobile devices"
+msgstr ""
+
+#: framework/barebones-config.php:230
+msgid "Enable/Disable zoom pinch behaviour on touch devices"
+msgstr ""
+
+#: framework/barebones-config.php:237
+#: framework/page-builder/widgets/artists-widget/artists-widget.php:107
+#: framework/page-builder/widgets/artworks-list-widget/artworks-list-widget.php:92
+#: framework/page-builder/widgets/events-list-widget/events-list-widget.php:96
+#: framework/page-builder/widgets/exhibitions-list-widget/exhibitions-list-widget.php:87
+#: framework/page-builder/widgets/gallery-grid-widget/gallery-grid-widget.php:74
+#: framework/page-builder/widgets/posts-list-widget/posts-list-widget.php:78
+#: framework/page-builder/widgets/team-widget/team-widget.php:64
+#: framework/page-builder/widgets/venues-widget/venues-widget.php:102
+msgid "Layout"
+msgstr ""
+
+#: framework/barebones-config.php:243
+msgid "Page Layout"
+msgstr ""
+
+#: framework/barebones-config.php:244
+msgid "Select the page layout type"
+msgstr ""
+
+#: framework/barebones-config.php:255
+msgid "Repeatable Background Images"
+msgstr ""
+
+#: framework/barebones-config.php:256
+msgid "Select image to set in background."
+msgstr ""
+
+#: framework/barebones-config.php:296
+msgid "Upload Repeatable Background Image"
+msgstr ""
+
+#: framework/barebones-config.php:304
+msgid "Upload Full Screen Background Image"
+msgstr ""
+
+#: framework/barebones-config.php:310
+msgid "Site width in pixels. DO NOT PUT px HERE"
+msgstr ""
+
+#: framework/barebones-config.php:311
+msgid "Width of the site container."
+msgstr ""
+
+#: framework/barebones-config.php:319
+#: framework/page-builder/widgets/custom-grid-list-widget/custom-grid-list-widget.php:85
+msgid "Content"
+msgstr ""
+
+#: framework/barebones-config.php:326
+msgid "Content area Background"
+msgstr ""
+
+#: framework/barebones-config.php:327
+msgid ""
+"Background color or image for the content area. This works for both boxed or "
+"wide layouts."
+msgstr ""
+
+#: framework/barebones-config.php:340
+msgid "Top and Bottom padding for content area"
+msgstr ""
+
+#: framework/barebones-config.php:341
+msgid "Enter top and bottom padding for content area. Default is 50px/50px"
+msgstr ""
+
+#: framework/barebones-config.php:351
+msgid "Minimum Height for Content area"
+msgstr ""
+
+#: framework/barebones-config.php:352
+msgid ""
+"Enter minimum height for the page content area. DO NOT PUT px HERE. Default "
+"is 400"
+msgstr ""
+
+#: framework/barebones-config.php:359
+msgid "100% Content Width"
+msgstr ""
+
+#: framework/barebones-config.php:360
+#, php-format
+msgid ""
+"Check this box to set the content area to 100% of the browser width. Uncheck "
+"to follow site width. Only works with wide layout mode."
+msgstr ""
+
+#: framework/barebones-config.php:367
+msgid "Header"
+msgstr ""
+
+#: framework/barebones-config.php:368 framework/barebones-config.php:517
+msgid "These are the options for the header."
+msgstr ""
+
+#: framework/barebones-config.php:374
+msgid "Header Layout"
+msgstr ""
+
+#: framework/barebones-config.php:375
+msgid "Select the Header layout"
+msgstr ""
+
+#: framework/barebones-config.php:386
+msgid "Header Translucent Background Color"
+msgstr ""
+
+#: framework/barebones-config.php:409
+msgid "Header Background Image"
+msgstr ""
+
+#: framework/barebones-config.php:410
+msgid "Background image for the header."
+msgstr ""
+
+#: framework/barebones-config.php:415
+msgid "100% Header Width"
+msgstr ""
+
+#: framework/barebones-config.php:416
+#, php-format
+msgid ""
+"Check this box to set header width to 100% of the browser width. Uncheck to "
+"follow site width. Only works with wide layout mode."
+msgstr ""
+
+#: framework/barebones-config.php:423
+msgid "Button1 Label"
+msgstr ""
+
+#: framework/barebones-config.php:424
+msgid ""
+"Enter button text for the first button to show at the right of Header Style 3"
+msgstr ""
+
+#: framework/barebones-config.php:431
+msgid "Button1 URL"
+msgstr ""
+
+#: framework/barebones-config.php:432
+msgid ""
+"Enter button URL for the first button to show at the right of Header Style 3"
+msgstr ""
+
+#: framework/barebones-config.php:439
+msgid "Button1 Style"
+msgstr ""
+
+#: framework/barebones-config.php:440
+msgid "Choose style of the button1 to show at the right of Header Style 3"
+msgstr ""
+
+#: framework/barebones-config.php:442 framework/barebones-config.php:473
+#: framework/barebones-config.php:504
+msgid "Primary Color"
+msgstr ""
+
+#: framework/barebones-config.php:443 framework/barebones-config.php:474
+#: framework/barebones-config.php:505
+msgid "Red"
+msgstr ""
+
+#: framework/barebones-config.php:444 framework/barebones-config.php:475
+#: framework/barebones-config.php:506
+msgid "Blue"
+msgstr ""
+
+#: framework/barebones-config.php:445 framework/barebones-config.php:476
+#: framework/barebones-config.php:507
+msgid "Yellow"
+msgstr ""
+
+#: framework/barebones-config.php:446 framework/barebones-config.php:477
+#: framework/barebones-config.php:508
+msgid "Green"
+msgstr ""
+
+#: framework/barebones-config.php:454
+msgid "Button2 Label"
+msgstr ""
+
+#: framework/barebones-config.php:455
+msgid ""
+"Enter button text for the button2 to show at the right of Header Style 3"
+msgstr ""
+
+#: framework/barebones-config.php:462
+msgid "Button2 URL"
+msgstr ""
+
+#: framework/barebones-config.php:463
+msgid ""
+"Enter button URL for first button2 to show at the right of Header Style 3"
+msgstr ""
+
+#: framework/barebones-config.php:470
+msgid "Button2 Style"
+msgstr ""
+
+#: framework/barebones-config.php:471
+msgid "Choose style of the button2 to show at the right of Header Style 3"
+msgstr ""
+
+#: framework/barebones-config.php:485
+msgid "Button3 Label"
+msgstr ""
+
+#: framework/barebones-config.php:486
+msgid ""
+"Enter button text for the button3 to show at the right of Header Style 3"
+msgstr ""
+
+#: framework/barebones-config.php:493
+msgid "Button3 URL"
+msgstr ""
+
+#: framework/barebones-config.php:494
+msgid "Enter button URL for the button3 to show at the right of Header Style 3"
+msgstr ""
+
+#: framework/barebones-config.php:501
+msgid "Button3 Style"
+msgstr ""
+
+#: framework/barebones-config.php:502
+msgid "Choose style of the button3 to show at the right of Header Style 3"
+msgstr ""
+
+#: framework/barebones-config.php:516
+msgid "Sticky Header"
+msgstr ""
+
+#: framework/barebones-config.php:523
+msgid "Enable Sticky Header"
+msgstr ""
+
+#: framework/barebones-config.php:524
+msgid "Enable/Disable Sticky header behaviour of the theme"
+msgstr ""
+
+#: framework/barebones-config.php:531
+msgid "Enable Sticky Header on Tablets"
+msgstr ""
+
+#: framework/barebones-config.php:532
+msgid "Enable/Disable Sticky header on scroll on Tablets"
+msgstr ""
+
+#: framework/barebones-config.php:539
+msgid "Enable Sticky Header on Mobiles"
+msgstr ""
+
+#: framework/barebones-config.php:540
+msgid "Enable/Disable Sticky header on scroll on Mobiles"
+msgstr ""
+
+#: framework/barebones-config.php:546
+msgid "Sticky Header Translucent Background Color"
+msgstr ""
+
+#: framework/barebones-config.php:569
+msgid "Sticky Header(Logo Area) Background Image"
+msgstr ""
+
+#: framework/barebones-config.php:570
+msgid "Background color or image for the header."
+msgstr ""
+
+#: framework/barebones-config.php:576 framework/barebones-config.php:584
+msgid "Sticky Header Link Color"
+msgstr ""
+
+#: framework/barebones-config.php:577 framework/barebones-config.php:585
+msgid "Set the sticky header/menu links color, hover, active."
+msgstr ""
+
+#: framework/barebones-config.php:592
+msgid "Topbar"
+msgstr ""
+
+#: framework/barebones-config.php:598
+msgid "Enable TopBar"
+msgstr ""
+
+#: framework/barebones-config.php:599
+msgid "Enable the global TopBar for the website."
+msgstr ""
+
+#: framework/barebones-config.php:606
+msgid "Text for the TopBar left column"
+msgstr ""
+
+#: framework/barebones-config.php:607
+msgid "Enter short and sweet text for the TopBar left side."
+msgstr ""
+
+#: framework/barebones-config.php:615 framework/barebones-config.php:1324
+msgid "Social Links"
+msgstr ""
+
+#: framework/barebones-config.php:616
+msgid ""
+"Enter the social links and sort to active and display according to sequence "
+"in Header topBar."
+msgstr ""
+
+#: framework/barebones-config.php:647
+msgid "Inner Page Header"
+msgstr ""
+
+#: framework/barebones-config.php:654
+msgid "Header Image"
+msgstr ""
+
+#: framework/barebones-config.php:655
+msgid "Default header image for post types."
+msgstr ""
+
+#: framework/barebones-config.php:656
+msgid "Set this image as default header image for all Pages/Posts."
+msgstr ""
+
+#: framework/barebones-config.php:662
+msgid "Height of inner pages header"
+msgstr ""
+
+#: framework/barebones-config.php:663
+msgid "This can be overridden by the page/post banner options. Default is 260"
+msgstr ""
+
+#: framework/barebones-config.php:664
+msgid "DO NOT PUT px HERE"
+msgstr ""
+
+#: framework/barebones-config.php:669
+msgid "Show page title in page header"
+msgstr ""
+
+#: framework/barebones-config.php:670
+msgid ""
+"Check this box to show page/post title in the page header area. Uncheck to "
+"hide(This will override the individual page setting for page title)"
+msgstr ""
+
+#: framework/barebones-config.php:692
+msgid "Inner page header title typography"
+msgstr ""
+
+#: framework/barebones-config.php:698
+msgid "Logo"
+msgstr ""
+
+#: framework/barebones-config.php:712
+msgid "Background color for the Logo"
+msgstr ""
+
+#: framework/barebones-config.php:713
+msgid "Background color set for the logo block on Header Style 1"
+msgstr ""
+
+#: framework/barebones-config.php:719
+msgid "Upload Logo"
+msgstr ""
+
+#: framework/barebones-config.php:720 framework/barebones-config.php:732
+msgid "Upload site logo to display in header."
+msgstr ""
+
+#: framework/barebones-config.php:730
+msgid "Upload Logo for Retina Devices"
+msgstr ""
+
+#: framework/barebones-config.php:731
+msgid ""
+"Retina Display is a marketing term developed by Apple to refer to devices "
+"and monitors that have a resolution and pixel density so high – roughly 300 "
+"or more pixels per inch"
+msgstr ""
+
+#: framework/barebones-config.php:740
+msgid "Standard Logo Width for Retina Logo"
+msgstr ""
+
+#: framework/barebones-config.php:741
+msgid ""
+"If retina logo is uploaded, enter the standard logo (1x) version width, do "
+"not enter the retina logo width."
+msgstr ""
+
+#: framework/barebones-config.php:747
+msgid "Standard Logo Height for Retina Logo"
+msgstr ""
+
+#: framework/barebones-config.php:748
+msgid ""
+"If retina logo is uploaded, enter the standard logo (1x) version height, do "
+"not enter the retina logo height."
+msgstr ""
+
+#: framework/barebones-config.php:759
+msgid "Top and Bottom spacing for logo"
+msgstr ""
+
+#: framework/barebones-config.php:760
+msgid "Enter top and bottom spacing for logo. Default is 17px/17px"
+msgstr ""
+
+#: framework/barebones-config.php:771
+msgid "Admin Logo"
+msgstr ""
+
+#: framework/barebones-config.php:778
+msgid "Custom admin login logo"
+msgstr ""
+
+#: framework/barebones-config.php:781
+msgid ""
+"Upload a 254 x 95px image here to replace the default wordpress login logo."
+msgstr ""
+
+#: framework/barebones-config.php:789
+msgid "Favicon Options"
+msgstr ""
+
+#: framework/barebones-config.php:796
+msgid "Custom favicon"
+msgstr ""
+
+#: framework/barebones-config.php:797
+msgid "Upload a image that will represent your website favicon"
+msgstr ""
+
+#: framework/barebones-config.php:804
+msgid "Apple iPhone Icon"
+msgstr ""
+
+#: framework/barebones-config.php:805
+msgid "Upload Favicon for Apple iPhone (57px x 57px)"
+msgstr ""
+
+#: framework/barebones-config.php:812
+msgid "Apple iPhone Retina Icon"
+msgstr ""
+
+#: framework/barebones-config.php:813
+msgid "Upload Favicon for Apple iPhone Retina Version (114px x 114px)"
+msgstr ""
+
+#: framework/barebones-config.php:820
+msgid "Apple iPad Icon"
+msgstr ""
+
+#: framework/barebones-config.php:821
+msgid "Upload Favicon for Apple iPad (72px x 72px)"
+msgstr ""
+
+#: framework/barebones-config.php:828
+msgid "Apple iPad Retina Icon Upload"
+msgstr ""
+
+#: framework/barebones-config.php:829
+msgid "Upload Favicon for Apple iPad Retina Version (144px x 144px)"
+msgstr ""
+
+#: framework/barebones-config.php:836
+msgid "Menu"
+msgstr ""
+
+#: framework/barebones-config.php:837
+msgid "These are the options for the menu."
+msgstr ""
+
+#: framework/barebones-config.php:842
+msgid "Enable search with menu"
+msgstr ""
+
+#: framework/barebones-config.php:843
+msgid "Enable/Disable search icon next to your main menu to open search form"
+msgstr ""
+
+#: framework/barebones-config.php:849
+msgid "Enable cart with menu"
+msgstr ""
+
+#: framework/barebones-config.php:850
+msgid "Enable/Disable cart icon next to your main menu to open cart"
+msgstr ""
+
+#: framework/barebones-config.php:856
+msgid "Direction arrows with menu label"
+msgstr ""
+
+#: framework/barebones-config.php:857
+msgid ""
+"Uncheck to disable arrows that appear with menu text which is having "
+"dropdown. Check to enable."
+msgstr ""
+
+#: framework/barebones-config.php:863
+msgid "Space between nav items"
+msgstr ""
+
+#: framework/barebones-config.php:864
+msgid "Enter space between each nav item. DO NOT PUT px HERE. Default is 30"
+msgstr ""
+
+#: framework/barebones-config.php:873 framework/barebones-config.php:1005
+msgid "Main Navigation Links Typography"
+msgstr ""
+
+#: framework/barebones-config.php:879 framework/barebones-config.php:888
+#: framework/barebones-config.php:896
+msgid "Main Navigation Link Color"
+msgstr ""
+
+#: framework/barebones-config.php:881 framework/barebones-config.php:889
+#: framework/barebones-config.php:897
+msgid "Set the Main Navigation links color, hover, active."
+msgstr ""
+
+#: framework/barebones-config.php:912
+msgid "Background color the navigation bar"
+msgstr ""
+
+#: framework/barebones-config.php:913
+msgid ""
+"Background color set for the full width main navigation in header style 3."
+msgstr ""
+
+#: framework/barebones-config.php:926
+msgid "Background color for dropdown menus"
+msgstr ""
+
+#: framework/barebones-config.php:927
+msgid "Background color set for the dropdowns of main navigation."
+msgstr ""
+
+#: framework/barebones-config.php:932
+msgid "Arrow on Dropdowns"
+msgstr ""
+
+#: framework/barebones-config.php:933
+msgid ""
+"Uncheck to disable arrow that appear in top of DropDown div.  Check to "
+"enable."
+msgstr ""
+
+#: framework/barebones-config.php:939
+msgid "Dropdowns Drop Shadow"
+msgstr ""
+
+#: framework/barebones-config.php:940
+msgid "Uncheck to disable drop shadow on dropdown div. Check to enable."
+msgstr ""
+
+#: framework/barebones-config.php:946
+msgid "Dropdowns Border Radius"
+msgstr ""
+
+#: framework/barebones-config.php:947
+msgid "Enter the value for border radius on dropdowns div bottom."
+msgstr ""
+
+#: framework/barebones-config.php:948
+msgid "DO NOT PUT px HERE. Ex: 4"
+msgstr ""
+
+#: framework/barebones-config.php:953
+msgid "Dropdown links border bottom"
+msgstr ""
+
+#: framework/barebones-config.php:963
+msgid "Dropdown links border left"
+msgstr ""
+
+#: framework/barebones-config.php:973
+msgid "Dropdown links spacing"
+msgstr ""
+
+#: framework/barebones-config.php:996
+msgid "Background color for dropdown menus links hover"
+msgstr ""
+
+#: framework/barebones-config.php:1011
+msgid "Dropdown links color"
+msgstr ""
+
+#: framework/barebones-config.php:1025
+msgid "Megamenu Background color"
+msgstr ""
+
+#: framework/barebones-config.php:1031
+msgid "Megamenu Column Title Typography"
+msgstr ""
+
+#: framework/barebones-config.php:1038
+msgid "Megamenu Content Typography"
+msgstr ""
+
+#: framework/barebones-config.php:1045
+msgid "Mobile Menu"
+msgstr ""
+
+#: framework/barebones-config.php:1058
+msgid "Background color for mobile menu"
+msgstr ""
+
+#: framework/barebones-config.php:1063
+msgid "Mobile menu links color"
+msgstr ""
+
+#: framework/barebones-config.php:1070
+msgid "Width/Height of the sub menu opener"
+msgstr ""
+
+#: framework/barebones-config.php:1086
+msgid "Background color for mobile sub menu opener"
+msgstr ""
+
+#: framework/barebones-config.php:1100 framework/barebones-config.php:1148
+msgid "Mobile sub menu opener icon size"
+msgstr ""
+
+#: framework/barebones-config.php:1110
+msgid "Mobile sub menu opener icon color"
+msgstr ""
+
+#: framework/barebones-config.php:1118
+msgid "Width/Height of the sub sub menu opener"
+msgstr ""
+
+#: framework/barebones-config.php:1134
+msgid "Background color for mobile sub sub menu opener"
+msgstr ""
+
+#: framework/barebones-config.php:1158
+msgid "Mobile sub sub menu opener icon color"
+msgstr ""
+
+#: framework/barebones-config.php:1165
+msgid "Footer"
+msgstr ""
+
+#: framework/barebones-config.php:1166
+msgid "These are the options for the footer."
+msgstr ""
+
+#: framework/barebones-config.php:1171
+msgid "100% Footer Width"
+msgstr ""
+
+#: framework/barebones-config.php:1172
+#, php-format
+msgid ""
+"Check this box to set footer width to 100% of the browser width. Uncheck to "
+"follow site width. Only works with wide layout mode."
+msgstr ""
+
+#: framework/barebones-config.php:1179
+msgid "Footer Widgets Area"
+msgstr ""
+
+#: framework/barebones-config.php:1185
+msgid "Footer Layout"
+msgstr ""
+
+#: framework/barebones-config.php:1186
+msgid "Select the footer layout for widgeted area"
+msgstr ""
+
+#: framework/barebones-config.php:1199
+msgid "Footer widget area background"
+msgstr ""
+
+#: framework/barebones-config.php:1200
+msgid "Default: #F9F8F5"
+msgstr ""
+
+#: framework/barebones-config.php:1208
+msgid "Footer widgets area Top/Bottom padding"
+msgstr ""
+
+#: framework/barebones-config.php:1209
+msgid ""
+"Enter top and bottom spacing for the footer widget area. DO NOT ENTER px "
+"HERE."
+msgstr ""
+
+#: framework/barebones-config.php:1222
+msgid "Footer widgets area border top"
+msgstr ""
+
+#: framework/barebones-config.php:1223
+msgid "Default: 1px solid #eeeeee;"
+msgstr ""
+
+#: framework/barebones-config.php:1234
+msgid "Footer widgets title typography"
+msgstr ""
+
+#: framework/barebones-config.php:1241
+msgid "Footer widgets area text typography"
+msgstr ""
+
+#: framework/barebones-config.php:1247
+msgid "Footer widgets area links color"
+msgstr ""
+
+#: framework/barebones-config.php:1248 framework/barebones-config.php:1316
+msgid "Default: #cccccc"
+msgstr ""
+
+#: framework/barebones-config.php:1255
+msgid "Footer Copyrights Area"
+msgstr ""
+
+#: framework/barebones-config.php:1260
+msgid "Enable Footer copyrights area"
+msgstr ""
+
+#: framework/barebones-config.php:1261
+msgid ""
+"Uncheck to disabled footer copyrights area that shows below the footer "
+"widgets area."
+msgstr ""
+
+#: framework/barebones-config.php:1267
+msgid "Footer Copyright Text"
+msgstr ""
+
+#: framework/barebones-config.php:1268
+msgid " Enter Copyright Text"
+msgstr ""
+
+#: framework/barebones-config.php:1269
+msgid "All Rights Reserved"
+msgstr ""
+
+#: framework/barebones-config.php:1274
+msgid "Footer copyrights area background"
+msgstr ""
+
+#: framework/barebones-config.php:1275
+msgid "Default: #ffffff"
+msgstr ""
+
+#: framework/barebones-config.php:1283
+msgid "Footer copyrights area Top/Bottom padding"
+msgstr ""
+
+#: framework/barebones-config.php:1284
+msgid ""
+"Enter top and bottom spacing for the footer copyrights area. DO NOT ENTER px "
+"HERE."
+msgstr ""
+
+#: framework/barebones-config.php:1297
+msgid "Footer copyrights area border top"
+msgstr ""
+
+#: framework/barebones-config.php:1298
+msgid "Default: 1 solid #eeeeee"
+msgstr ""
+
+#: framework/barebones-config.php:1309
+msgid "Footer copyrights area text typography"
+msgstr ""
+
+#: framework/barebones-config.php:1315
+msgid "Footer copyrights area links color"
+msgstr ""
+
+#: framework/barebones-config.php:1325
+msgid ""
+"Insert Social URL in their respective fields and sort as your desired order."
+msgstr ""
+
+#: framework/barebones-config.php:1370
+msgid "Social icons size and color for Site Footer Bottom Social icons"
+msgstr ""
+
+#: framework/barebones-config.php:1381
+msgid "Link, Hover, Active Color sets for Site Footer Bottom Social icons"
+msgstr ""
+
+#: framework/barebones-config.php:1398
+msgid "Background color for Site Footer Bottom Social icons"
+msgstr ""
+
+#: framework/barebones-config.php:1408
+msgid "Width/Height for Site Footer Bottom Social icons"
+msgstr ""
+
+#: framework/barebones-config.php:1418
+msgid "Sidebars"
+msgstr ""
+
+#: framework/barebones-config.php:1424
+msgid "Sidebar position"
+msgstr ""
+
+#: framework/barebones-config.php:1425
+msgid ""
+"Select the Global Sidebar Position. Can be overridden by page sidebar "
+"settings."
+msgstr ""
+
+#: framework/barebones-config.php:1435
+msgid "Single Post"
+msgstr ""
+
+#: framework/barebones-config.php:1436
+msgid "Default sidebar for single post pages"
+msgstr ""
+
+#: framework/barebones-config.php:1443
+msgid "Page"
+msgstr ""
+
+#: framework/barebones-config.php:1444
+msgid "Default sidebar for all pages"
+msgstr ""
+
+#: framework/barebones-config.php:1451
+msgid "Single Event"
+msgstr ""
+
+#: framework/barebones-config.php:1452
+msgid "Default sidebar for single event pages"
+msgstr ""
+
+#: framework/barebones-config.php:1459
+msgid "Single Exhibition"
+msgstr ""
+
+#: framework/barebones-config.php:1460
+msgid "Default sidebar for single exhibition pages"
+msgstr ""
+
+#: framework/barebones-config.php:1467
+msgid "Single Team Member"
+msgstr ""
+
+#: framework/barebones-config.php:1468
+msgid "Default sidebar for single tem member pages"
+msgstr ""
+
+#: framework/barebones-config.php:1475
+msgid "Single Artwork"
+msgstr ""
+
+#: framework/barebones-config.php:1476
+msgid "Default sidebar for single artwork pages"
+msgstr ""
+
+#: framework/barebones-config.php:1483
+msgid "Single Venue"
+msgstr ""
+
+#: framework/barebones-config.php:1484
+msgid "Single Venue Category Page Sidebar"
+msgstr ""
+
+#: framework/barebones-config.php:1491
+msgid "Single Artist"
+msgstr ""
+
+#: framework/barebones-config.php:1492
+msgid "Single Artist Page Sidebar"
+msgstr ""
+
+#: framework/barebones-config.php:1499
+msgid "Event Archive Sidebar"
+msgstr ""
+
+#: framework/barebones-config.php:1500
+msgid "Select sidebar for archive page of Event."
+msgstr ""
+
+#: framework/barebones-config.php:1507
+msgid "Exhibition Archive Sidebar"
+msgstr ""
+
+#: framework/barebones-config.php:1508
+msgid "Select sidebar for archive page of Exhibition."
+msgstr ""
+
+#: framework/barebones-config.php:1515
+msgid "Artwork Archive Sidebar"
+msgstr ""
+
+#: framework/barebones-config.php:1516
+msgid "Select sidebar for archive page of Artwork."
+msgstr ""
+
+#: framework/barebones-config.php:1523
+msgid "Shop Archive Sidebar"
+msgstr ""
+
+#: framework/barebones-config.php:1524
+msgid "Select sidebar for archive page of Shop."
+msgstr ""
+
+#: framework/barebones-config.php:1531
+msgid "Search Page Sidebar"
+msgstr ""
+
+#: framework/barebones-config.php:1532
+msgid "Select sidebar for search page."
+msgstr ""
+
+#: framework/barebones-config.php:1540
+msgid "Sidebar Widgets"
+msgstr ""
+
+#: framework/barebones-config.php:1554
+msgid "Background color for sidebar widgets"
+msgstr ""
+
+#: framework/barebones-config.php:1560
+msgid "Sidebar widgets border color"
+msgstr ""
+
+#: framework/barebones-config.php:1561
+msgid "Default: 5px solid #F9F8F5"
+msgstr ""
+
+#: framework/barebones-config.php:1580
+msgid "Typography for sidebar widgets"
+msgstr ""
+
+#: framework/barebones-config.php:1586
+msgid "Link colors set for sidebar widgets"
+msgstr ""
+
+#: framework/barebones-config.php:1591
+msgid "Sidebar widgets title typography"
+msgstr ""
+
+#: framework/barebones-config.php:1622
+msgid "Sidebar widget title border bottom"
+msgstr ""
+
+#: framework/barebones-config.php:1637
+msgid "Sidebar widget title half border bottom color"
+msgstr ""
+
+#: framework/barebones-config.php:1643
+msgid "Color Scheme"
+msgstr ""
+
+#: framework/barebones-config.php:1649
+msgid "Color scheme"
+msgstr ""
+
+#: framework/barebones-config.php:1650
+msgid "Select the global color scheme type"
+msgstr ""
+
+#: framework/barebones-config.php:1652
+msgid "Pre-Defined Color Schemes"
+msgstr ""
+
+#: framework/barebones-config.php:1653
+msgid "Custom Color"
+msgstr ""
+
+#: framework/barebones-config.php:1661
+msgid "Predefined Color Schemes"
+msgstr ""
+
+#: framework/barebones-config.php:1662
+msgid "Select your themes alternative color scheme."
+msgstr ""
+
+#: framework/barebones-config.php:1670
+msgid "Custom Theme Color"
+msgstr ""
+
+#: framework/barebones-config.php:1671
+msgid "Pick a global custom color for the template."
+msgstr ""
+
+#: framework/barebones-config.php:1679
+msgid "Share Options"
+msgstr ""
+
+#: framework/barebones-config.php:1684
+msgid "Social Sharing"
+msgstr ""
+
+#: framework/barebones-config.php:1685
+msgid ""
+"Enable/Disable theme default social sharing buttons for posts/events/sermons "
+"single pages"
+msgstr ""
+
+#: framework/barebones-config.php:1693
+msgid "Share Buttons Style"
+msgstr ""
+
+#: framework/barebones-config.php:1694
+msgid "Choose the style of share button icons"
+msgstr ""
+
+#: framework/barebones-config.php:1696
+#: framework/page-builder/widgets/iconbox-widget/iconbox-widget.php:96
+msgid "Rounded"
+msgstr ""
+
+#: framework/barebones-config.php:1697
+msgid "Squared"
+msgstr ""
+
+#: framework/barebones-config.php:1705
+msgid "Share Buttons Color"
+msgstr ""
+
+#: framework/barebones-config.php:1706
+msgid "Choose the color scheme of the share button icons"
+msgstr ""
+
+#: framework/barebones-config.php:1708
+msgid "Brand Colors"
+msgstr ""
+
+#: framework/barebones-config.php:1709
+msgid "Theme Color"
+msgstr ""
+
+#: framework/barebones-config.php:1710
+msgid "GrayScale"
+msgstr ""
+
+#: framework/barebones-config.php:1718
+msgid "Social share options"
+msgstr ""
+
+#: framework/barebones-config.php:1719
+msgid "Click on the buttons to disable/enable share buttons"
+msgstr ""
+
+#: framework/barebones-config.php:1747
+msgid "Select share buttons for post types"
+msgstr ""
+
+#: framework/barebones-config.php:1748
+msgid "Uncheck to disable for any type"
+msgstr ""
+
+#: framework/barebones-config.php:1772
+msgid "Sharing links alt/title text"
+msgstr ""
+
+#: framework/barebones-config.php:1777
+msgid "Tooltip text for Facebook share icon"
+msgstr ""
+
+#: framework/barebones-config.php:1778
+msgid "Text for the Facebook share icon browser tooltip."
+msgstr ""
+
+#: framework/barebones-config.php:1784
+msgid "Tooltip text for Twitter share icon"
+msgstr ""
+
+#: framework/barebones-config.php:1785
+msgid "Text for the Twitter share icon browser tooltip."
+msgstr ""
+
+#: framework/barebones-config.php:1791
+msgid "Tooltip text for Google Plus share icon"
+msgstr ""
+
+#: framework/barebones-config.php:1792
+msgid "Text for the Google Plus share icon browser tooltip."
+msgstr ""
+
+#: framework/barebones-config.php:1798
+msgid "Tooltip text for Tumblr share icon"
+msgstr ""
+
+#: framework/barebones-config.php:1799
+msgid "Text for the Tumblr share icon browser tooltip."
+msgstr ""
+
+#: framework/barebones-config.php:1805
+msgid "Tooltip text for Pinterest share icon"
+msgstr ""
+
+#: framework/barebones-config.php:1806
+msgid "Text for the Pinterest share icon browser tooltip."
+msgstr ""
+
+#: framework/barebones-config.php:1812
+msgid "Tooltip text for Reddit share icon"
+msgstr ""
+
+#: framework/barebones-config.php:1813
+msgid "Text for the Reddit share icon browser tooltip."
+msgstr ""
+
+#: framework/barebones-config.php:1819
+msgid "Tooltip text for Linkedin share icon"
+msgstr ""
+
+#: framework/barebones-config.php:1820
+msgid "Text for the Linkedin share icon browser tooltip."
+msgstr ""
+
+#: framework/barebones-config.php:1826
+msgid "Tooltip text for Email share icon"
+msgstr ""
+
+#: framework/barebones-config.php:1827
+msgid "Text for the Email share icon browser tooltip."
+msgstr ""
+
+#: framework/barebones-config.php:1833
+msgid "Tooltip text for vk share icon"
+msgstr ""
+
+#: framework/barebones-config.php:1834
+msgid "Text for the vk share icon browser tooltip."
+msgstr ""
+
+#: framework/barebones-config.php:1841
+msgid "Sharing icons styling"
+msgstr ""
+
+#: framework/barebones-config.php:1846
+msgid "Show share text and icon. Uncheck to hide."
+msgstr ""
+
+#: framework/barebones-config.php:1852
+msgid "Share icons box size"
+msgstr ""
+
+#: framework/barebones-config.php:1862
+msgid "Share icons font size"
+msgstr ""
+
+#: framework/barebones-config.php:1863
+msgid "Keep line height same as height of icon boxes set above"
+msgstr ""
+
+#: framework/barebones-config.php:1880
+msgid "Lightbox Options"
+msgstr ""
+
+#: framework/barebones-config.php:1885
+msgid "Lightbox Plugin"
+msgstr ""
+
+#: framework/barebones-config.php:1886
+msgid "Choose the plugin for the Lightbox Popup for theme."
+msgstr ""
+
+#: framework/barebones-config.php:1889
+msgid "PrettyPhoto"
+msgstr ""
+
+#: framework/barebones-config.php:1890
+msgid "Magnific Popup"
+msgstr ""
+
+#: framework/barebones-config.php:1898
+msgid "Theme Style"
+msgstr ""
+
+#: framework/barebones-config.php:1899
+msgid "Select style for the prettyPhoto Lightbox"
+msgstr ""
+
+#: framework/barebones-config.php:1901
+#: framework/page-builder/widgets/iconbox-widget/iconbox-widget.php:72
+#: framework/page-builder/widgets/iconbox-widget/iconbox-widget.php:84
+msgid "Default"
+msgstr ""
+
+#: framework/barebones-config.php:1902
+msgid "Light Rounded"
+msgstr ""
+
+#: framework/barebones-config.php:1903
+msgid "Dark Rounded"
+msgstr ""
+
+#: framework/barebones-config.php:1904
+msgid "Light Square"
+msgstr ""
+
+#: framework/barebones-config.php:1905
+msgid "Dark Square"
+msgstr ""
+
+#: framework/barebones-config.php:1906
+msgid "Facebook"
+msgstr ""
+
+#: framework/barebones-config.php:1914
+msgid "Overlay Opacity"
+msgstr ""
+
+#: framework/barebones-config.php:1915
+msgid "Enter values between 0.1 to 1. Default is 0.5"
+msgstr ""
+
+#: framework/barebones-config.php:1927
+msgid "Show Image Title"
+msgstr ""
+
+#: framework/barebones-config.php:1929 framework/meta-boxes.php:358
+#: framework/meta-boxes.php:376 framework/meta-boxes.php:386
+#: framework/meta-boxes.php:516 framework/meta-boxes.php:545
+#: framework/meta-boxes.php:668 framework/meta-boxes.php:679
+#: framework/meta-boxes.php:753 framework/meta-boxes.php:799
+#: framework/page-builder/widgets/carousel-widget/carousel-widget.php:103
+#: framework/page-builder/widgets/carousel-widget/carousel-widget.php:113
+#: framework/page-builder/widgets/carousel-widget/carousel-widget.php:123
+msgid "Yes"
+msgstr ""
+
+#: framework/barebones-config.php:1930 framework/meta-boxes.php:359
+#: framework/meta-boxes.php:377 framework/meta-boxes.php:387
+#: framework/meta-boxes.php:517 framework/meta-boxes.php:546
+#: framework/meta-boxes.php:669 framework/meta-boxes.php:680
+#: framework/meta-boxes.php:754 framework/meta-boxes.php:800
+#: framework/page-builder/widgets/carousel-widget/carousel-widget.php:104
+#: framework/page-builder/widgets/carousel-widget/carousel-widget.php:114
+#: framework/page-builder/widgets/carousel-widget/carousel-widget.php:124
+msgid "No"
+msgstr ""
+
+#: framework/barebones-config.php:1938
+msgid "Page Headers"
+msgstr ""
+
+#: framework/barebones-config.php:1939
+msgid "Header Banners for taxonomies"
+msgstr ""
+
+#: framework/barebones-config.php:1945
+msgid "Upload page header image for Venues Single Taxonomy page"
+msgstr ""
+
+#: framework/barebones-config.php:1952
+msgid "Upload page header image for Events Single Category/Tag page"
+msgstr ""
+
+#: framework/barebones-config.php:1959
+msgid "Upload page header image for Exhibitions Single Category/Tag page"
+msgstr ""
+
+#: framework/barebones-config.php:1966
+msgid "Upload page header image for Artists Single Taxonomy page"
+msgstr ""
+
+#: framework/barebones-config.php:1973
+msgid "Upload page header image for Artworks Single Category/Tag page"
+msgstr ""
+
+#: framework/barebones-config.php:1980
+msgid "Archive Page Titles"
+msgstr ""
+
+#: framework/barebones-config.php:1985
+msgid "Title for Events Archive"
+msgstr ""
+
+#: framework/barebones-config.php:1986
+msgid "Enter title of the page for the Events post type."
+msgstr ""
+
+#: framework/barebones-config.php:1992
+msgid "Title for Blog Archive"
+msgstr ""
+
+#: framework/barebones-config.php:1993
+msgid "Enter title of the page for the Blog post type."
+msgstr ""
+
+#: framework/barebones-config.php:1999
+msgid "Title for Exhibitions Archive"
+msgstr ""
+
+#: framework/barebones-config.php:2000
+msgid "Enter title of the page for the Exhibitions post type."
+msgstr ""
+
+#: framework/barebones-config.php:2006
+msgid "Title for Team Archive"
+msgstr ""
+
+#: framework/barebones-config.php:2007
+msgid "Enter title of the page for the Team post type."
+msgstr ""
+
+#: framework/barebones-config.php:2013
+msgid "Title for Shop Archive"
+msgstr ""
+
+#: framework/barebones-config.php:2014
+msgid "Enter title of the page for the Products/Shop post type."
+msgstr ""
+
+#: framework/barebones-config.php:2020
+msgid "Title for Artworks Archive"
+msgstr ""
+
+#: framework/barebones-config.php:2021
+msgid "Enter title of the page for the Artworks post type."
+msgstr ""
+
+#: framework/barebones-config.php:2028
+msgid "Typography"
+msgstr ""
+
+#: framework/barebones-config.php:2029 framework/barebones-config.php:2105
+msgid ""
+"Make sure you set these options only if you have knowledge about every "
+"property to avoid disturbing the whole layout. If something went wrong just "
+"reset this section to reset all fields in Typography Options or click the "
+"small cross signs in each select field/delete text from input fields to "
+"reset them."
+msgstr ""
+
+#: framework/barebones-config.php:2034
+msgid "Heading/Secondary font"
+msgstr ""
+
+#: framework/barebones-config.php:2048 framework/barebones-config.php:2093
+msgid "Please Enter Heading Font"
+msgstr ""
+
+#: framework/barebones-config.php:2057
+msgid "Body/Primary font"
+msgstr ""
+
+#: framework/barebones-config.php:2071
+msgid "Please Enter Body Font."
+msgstr ""
+
+#: framework/barebones-config.php:2079
+msgid "Buttons/Condensed font"
+msgstr ""
+
+#: framework/barebones-config.php:2103
+msgid "More Typography Options"
+msgstr ""
+
+#: framework/barebones-config.php:2110
+msgid "H1 Tag"
+msgstr ""
+
+#: framework/barebones-config.php:2129
+msgid "H2 Tag"
+msgstr ""
+
+#: framework/barebones-config.php:2148
+msgid "H3 Tag"
+msgstr ""
+
+#: framework/barebones-config.php:2167
+msgid "H4 Tag"
+msgstr ""
+
+#: framework/barebones-config.php:2186
+msgid "H5 Tag"
+msgstr ""
+
+#: framework/barebones-config.php:2205
+msgid "H6 Tag"
+msgstr ""
+
+#: framework/barebones-config.php:2224
+msgid "Body"
+msgstr ""
+
+#: framework/barebones-config.php:2244
+msgid "Events"
+msgstr ""
+
+#: framework/barebones-config.php:2250
+msgid "Enable Event"
+msgstr ""
+
+#: framework/barebones-config.php:2251
+msgid ""
+"Enable or disable event style/scripts loading from theme. This will disabled "
+"loading of stylesheets and javascripts for event functions like calendar "
+"from the theme."
+msgstr ""
+
+#: framework/barebones-config.php:2253 framework/meta-boxes.php:534
+#: framework/meta-boxes.php:657
+msgid "Enable"
+msgstr ""
+
+#: framework/barebones-config.php:2254 framework/meta-boxes.php:535
+#: framework/meta-boxes.php:658
+msgid "Disable"
+msgstr ""
+
+#: framework/barebones-config.php:2262
+msgid "Show Event Time"
+msgstr ""
+
+#: framework/barebones-config.php:2263
+msgid "Show event time of events in listing, grid, calender layouts."
+msgstr ""
+
+#: framework/barebones-config.php:2265 framework/barebones-config.php:2291
+msgid "Start Time"
+msgstr ""
+
+#: framework/barebones-config.php:2266 framework/barebones-config.php:2292
+msgid "End Time"
+msgstr ""
+
+#: framework/barebones-config.php:2267 framework/barebones-config.php:2280
+msgid "Both"
+msgstr ""
+
+#: framework/barebones-config.php:2275
+msgid "Show Event Date"
+msgstr ""
+
+#: framework/barebones-config.php:2276
+msgid "Show event date of events in listing, grid, calender layouts."
+msgstr ""
+
+#: framework/barebones-config.php:2278
+msgid "Start Date"
+msgstr ""
+
+#: framework/barebones-config.php:2279
+msgid "End Date"
+msgstr ""
+
+#: framework/barebones-config.php:2288
+msgid "Show Event Until"
+msgstr ""
+
+#: framework/barebones-config.php:2289
+msgid "Show event until start time or end time."
+msgstr ""
+
+#: framework/barebones-config.php:2300 pages-banner.php:28
+msgid "Exhibitions"
+msgstr ""
+
+#: framework/barebones-config.php:2306
+msgid "Exhibitions View"
+msgstr ""
+
+#: framework/barebones-config.php:2307
+msgid "Select exhibitions view type."
+msgstr ""
+
+#: framework/barebones-config.php:2308
+msgid ""
+"Multiple View option will show multiple instances of individual exhibition "
+"for each day for the active period and Single View will show each exhibition "
+"as a single post block along with start and end date."
+msgstr ""
+
+#: framework/barebones-config.php:2310
+msgid "Multiple View"
+msgstr ""
+
+#: framework/barebones-config.php:2311
+msgid "Single View"
+msgstr ""
+
+#: framework/barebones-config.php:2320
+msgid "Paypal Configuration"
+msgstr ""
+
+#: framework/barebones-config.php:2321
+msgid "These settings are for the events and exhibitions tickets payment."
+msgstr ""
+
+#: framework/barebones-config.php:2326
+msgid "Paypal Email Address"
+msgstr ""
+
+#: framework/barebones-config.php:2327
+msgid "Enter Paypal Business Email Address."
+msgstr ""
+
+#: framework/barebones-config.php:2333
+msgid "Paypal Token"
+msgstr ""
+
+#: framework/barebones-config.php:2334
+msgid "Enter Paypal Token ID."
+msgstr ""
+
+#: framework/barebones-config.php:2340
+msgid "Paypal Site"
+msgstr ""
+
+#: framework/barebones-config.php:2341
+msgid "Select paypal site."
+msgstr ""
+
+#: framework/barebones-config.php:2348
+msgid "Payment Currency"
+msgstr ""
+
+#: framework/barebones-config.php:2349
+msgid "Select payment currency."
+msgstr ""
+
+#: framework/barebones-config.php:2357
+msgid "Calendar"
+msgstr ""
+
+#: framework/barebones-config.php:2363
+msgid "Calendar Month Name"
+msgstr ""
+
+#: framework/barebones-config.php:2364
+msgid ""
+"Insert month name in local language by comma seperated to display on event "
+"calender like: January,February,March,April,May,June,July,August,September,"
+"October,November,December"
+msgstr ""
+
+#: framework/barebones-config.php:2371
+msgid "Calendar Month Name Short"
+msgstr ""
+
+#: framework/barebones-config.php:2372
+msgid ""
+"Insert month name short in local language by comma seperated to display on "
+"event calender like: Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec"
+msgstr ""
+
+#: framework/barebones-config.php:2379
+msgid "Calendar Day Name"
+msgstr ""
+
+#: framework/barebones-config.php:2380
+msgid ""
+"Insert day name in local language by comma seperated to display on event "
+"calender like: Sunday,Monday,Tuesday,Wednesday,Thursday,Friday,Saturday"
+msgstr ""
+
+#: framework/barebones-config.php:2387
+msgid "Calendar Day Name Short"
+msgstr ""
+
+#: framework/barebones-config.php:2388
+msgid ""
+"Insert day name short in local language by comma seperated to display on "
+"event calender like: Sun,Mon,Tue,Wed,Thu,Fri,Sat"
+msgstr ""
+
+#: framework/barebones-config.php:2394
+msgid "Show WP Events"
+msgstr ""
+
+#: framework/barebones-config.php:2395
+msgid "Check if you wants to show WP Events in Calendar."
+msgstr ""
+
+#: framework/barebones-config.php:2401
+msgid "Google Calendar API Key"
+msgstr ""
+
+#: framework/barebones-config.php:2402
+msgid "Enter Google Calendar Feed API Key."
+msgstr ""
+
+#: framework/barebones-config.php:2408
+msgid "Google Calendar ID"
+msgstr ""
+
+#: framework/barebones-config.php:2409
+msgid "Enter Google Calendar ID."
+msgstr ""
+
+#: framework/barebones-config.php:2415
+msgid "Event Color"
+msgstr ""
+
+#: framework/barebones-config.php:2416
+msgid "Pick a default color for Events."
+msgstr ""
+
+#: framework/barebones-config.php:2424
+msgid "Recurring Event Color"
+msgstr ""
+
+#: framework/barebones-config.php:2425
+msgid "Pick a color for recurring Events."
+msgstr ""
+
+#: framework/barebones-config.php:2434
+msgid "Map API"
+msgstr ""
+
+#: framework/barebones-config.php:2439
+msgid "Google Maps API Key"
+msgstr ""
+
+#: framework/barebones-config.php:2440
+msgid ""
+"Enter your Google Maps API key in here. This will be used for all maps in "
+"the theme i.e. Map banner, Event maps. <a href=\"https://support.imithemes."
+"com/forums/topic/how-to-get-google-maps-api/\" target=\"_blank\">See Guide "
+"about how to get your API Key</a>"
+msgstr ""
+
+#: framework/barebones-config.php:2446
+msgid "Custom CSS/JS"
+msgstr ""
+
+#: framework/barebones-config.php:2452
+msgid "CSS Code"
+msgstr ""
+
+#: framework/barebones-config.php:2453
+msgid "Paste your CSS code here."
+msgstr ""
+
+#: framework/barebones-config.php:2463
+msgid "JS Code"
+msgstr ""
+
+#: framework/barebones-config.php:2464
+msgid "Paste your JS code here."
+msgstr ""
+
+#: framework/barebones-config.php:2473
+msgid "Import / Export"
+msgstr ""
+
+#: framework/barebones-config.php:2474
+msgid "Import and Export your Theme Framework settings from file, text or URL."
+msgstr ""
+
+#: framework/barebones-config.php:2480
+msgid "Import Export"
+msgstr ""
+
+#: framework/barebones-config.php:2481
+msgid "Save and restore your Theme options"
+msgstr ""
+
+#: framework/megamenu/edit_custom_walker.php:74
+#, php-format
+msgid "%s (Invalid)"
+msgstr ""
+
+#: framework/megamenu/edit_custom_walker.php:78
+#, php-format
+msgid "%s (Pending)"
+msgstr ""
+
+#: framework/megamenu/edit_custom_walker.php:98
+msgid "Move up"
+msgstr ""
+
+#: framework/megamenu/edit_custom_walker.php:109
+msgid "Move down"
+msgstr ""
+
+#: framework/megamenu/edit_custom_walker.php:111
+msgid "Edit Menu Item"
+msgstr ""
+
+#: framework/megamenu/edit_custom_walker.php:121 framework/meta-boxes.php:53
+msgid "URL"
+msgstr ""
+
+#: framework/megamenu/edit_custom_walker.php:128
+msgid "Navigation Label"
+msgstr ""
+
+#: framework/megamenu/edit_custom_walker.php:134
+msgid "Title Attribute"
+msgstr ""
+
+#: framework/megamenu/edit_custom_walker.php:141
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: framework/megamenu/edit_custom_walker.php:146
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: framework/megamenu/edit_custom_walker.php:152
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: framework/megamenu/edit_custom_walker.php:158
+msgid "Description"
+msgstr ""
+
+#: framework/megamenu/edit_custom_walker.php:160
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr ""
+
+#: framework/megamenu/edit_custom_walker.php:165
+msgid "Move"
+msgstr ""
+
+#: framework/megamenu/edit_custom_walker.php:166
+msgid "Up one"
+msgstr ""
+
+#: framework/megamenu/edit_custom_walker.php:167
+msgid "Down one"
+msgstr ""
+
+#: framework/megamenu/edit_custom_walker.php:170
+msgid "To the top"
+msgstr ""
+
+#: framework/megamenu/edit_custom_walker.php:182
+msgid "Enable Mega Menu"
+msgstr ""
+
+#: framework/megamenu/edit_custom_walker.php:196
+msgid "Select Post Type"
+msgstr ""
+
+#: framework/megamenu/edit_custom_walker.php:208
+msgid "Enter Number of Post Ex-3"
+msgstr ""
+
+#: framework/megamenu/edit_custom_walker.php:213
+msgid "Enter Comma seperated value Ex-1,2,3(for  menu use M like M10)"
+msgstr ""
+
+#: framework/megamenu/edit_custom_walker.php:218
+msgid "Textarea may be used as Text Editor"
+msgstr ""
+
+#: framework/megamenu/edit_custom_walker.php:233
+#, php-format
+msgid "Original: %s"
+msgstr ""
+
+#: framework/megamenu/edit_custom_walker.php:245
+msgid "Remove"
+msgstr ""
+
+#: framework/megamenu/edit_custom_walker.php:246
+msgid "Cancel"
+msgstr ""
+
+#: framework/meta-boxes.php:12
+msgid "Member Details"
+msgstr ""
+
+#: framework/meta-boxes.php:16
+msgid "Position"
+msgstr ""
+
+#: framework/meta-boxes.php:18
+msgid "Enter staff member's job title."
+msgstr ""
+
+#: framework/meta-boxes.php:26 framework/meta-boxes.php:109
+msgid "Email"
+msgstr ""
+
+#: framework/meta-boxes.php:28
+msgid "Enter staff member's Email."
+msgstr ""
+
+#: framework/meta-boxes.php:36
+msgid "Phone no."
+msgstr ""
+
+#: framework/meta-boxes.php:38
+msgid "Enter staff member's Phone number."
+msgstr ""
+
+#: framework/meta-boxes.php:46
+msgid "Social Profiles"
+msgstr ""
+
+#: framework/meta-boxes.php:48
+msgid "Choose Social Icon and enter URL."
+msgstr ""
+
+#: framework/meta-boxes.php:52
+msgid "Social"
+msgstr ""
+
+#: framework/meta-boxes.php:61
+msgid "Artwork Details"
+msgstr ""
+
+#: framework/meta-boxes.php:65
+msgid "Dimensions"
+msgstr ""
+
+#: framework/meta-boxes.php:67
+msgid ""
+"Enter dimension details of the artwork. It can be in any format as you like."
+msgstr ""
+
+#: framework/meta-boxes.php:75 single-event.php:286 single-exhibition.php:320
+msgid "Price"
+msgstr ""
+
+#: framework/meta-boxes.php:77
+msgid "Enter price of the artwork including the currency."
+msgstr ""
+
+#: framework/meta-boxes.php:85
+msgid "additional Images"
+msgstr ""
+
+#: framework/meta-boxes.php:87
+msgid "Upload images for artwork gallery."
+msgstr ""
+
+#: framework/meta-boxes.php:97
+msgid "Registrant Details"
+msgstr ""
+
+#: framework/meta-boxes.php:101 framework/meta-boxes.php:168
+msgid "Time"
+msgstr ""
+
+#: framework/meta-boxes.php:115
+msgid "Phone"
+msgstr ""
+
+#: framework/meta-boxes.php:121
+msgid "Address"
+msgstr ""
+
+#: framework/meta-boxes.php:127
+msgid "Addition Notes"
+msgstr ""
+
+#: framework/meta-boxes.php:133
+msgid "Date"
+msgstr ""
+
+#: framework/meta-boxes.php:139
+msgid "Payment Status"
+msgstr ""
+
+#: framework/meta-boxes.php:141 framework/meta-boxes.php:148
+msgid "Value is verified online."
+msgstr ""
+
+#: framework/meta-boxes.php:146
+msgid "Paid Amount"
+msgstr ""
+
+#: framework/meta-boxes.php:153
+msgid "Registration Number"
+msgstr ""
+
+#: framework/meta-boxes.php:164
+msgid "Exhibition Details"
+msgstr ""
+
+#: framework/meta-boxes.php:184
+msgid "Event Start Date"
+msgstr ""
+
+#: framework/meta-boxes.php:186
+msgid "Insert date of Event start."
+msgstr ""
+
+#: framework/meta-boxes.php:201
+msgid " Event End Date"
+msgstr ""
+
+#: framework/meta-boxes.php:203
+msgid "Insert date of Event end, multiple days Event could not be recur."
+msgstr ""
+
+#: framework/meta-boxes.php:218
+msgid "All Day Event"
+msgstr ""
+
+#: framework/meta-boxes.php:229
+msgid "Registration"
+msgstr ""
+
+#: framework/meta-boxes.php:235
+msgid "Enable Registration"
+msgstr ""
+
+#: framework/meta-boxes.php:241
+msgid "Custom Registration Button URL"
+msgstr ""
+
+#: framework/meta-boxes.php:243
+msgid "For example EventBrite Event page URL of yours."
+msgstr ""
+
+#: framework/meta-boxes.php:248
+msgid "Open custom URL in new Tab/Window"
+msgstr ""
+
+#: framework/meta-boxes.php:259
+msgid "Recurring Options"
+msgstr ""
+
+#: framework/meta-boxes.php:264
+msgid "Event Frequency Type"
+msgstr ""
+
+#: framework/meta-boxes.php:266
+msgid "Select Frequency Type."
+msgstr ""
+
+#: framework/meta-boxes.php:269
+msgid "Not Required"
+msgstr ""
+
+#: framework/meta-boxes.php:270
+msgid "Fixed Date"
+msgstr ""
+
+#: framework/meta-boxes.php:271
+msgid "Week Day"
+msgstr ""
+
+#: framework/meta-boxes.php:279
+msgid "Day of Month"
+msgstr ""
+
+#: framework/meta-boxes.php:281
+msgid "Select Day of Month."
+msgstr ""
+
+#: framework/meta-boxes.php:284 functions.php:118 functions.php:148
+msgid "First"
+msgstr ""
+
+#: framework/meta-boxes.php:285
+msgid "Second"
+msgstr ""
+
+#: framework/meta-boxes.php:286
+msgid "Third"
+msgstr ""
+
+#: framework/meta-boxes.php:287
+msgid "Fourth"
+msgstr ""
+
+#: framework/meta-boxes.php:288 functions.php:124 functions.php:154
+msgid "Last"
+msgstr ""
+
+#: framework/meta-boxes.php:293
+msgid "Event Week Day"
+msgstr ""
+
+#: framework/meta-boxes.php:295
+msgid "Select Week Day."
+msgstr ""
+
+#: framework/meta-boxes.php:298
+msgid "Sunday"
+msgstr ""
+
+#: framework/meta-boxes.php:299
+msgid "Monday"
+msgstr ""
+
+#: framework/meta-boxes.php:300
+msgid "Tuesday"
+msgstr ""
+
+#: framework/meta-boxes.php:301
+msgid "Wednesday"
+msgstr ""
+
+#: framework/meta-boxes.php:302
+msgid "Thursday"
+msgstr ""
+
+#: framework/meta-boxes.php:303
+msgid "Friday"
+msgstr ""
+
+#: framework/meta-boxes.php:304
+msgid "Saturday"
+msgstr ""
+
+#: framework/meta-boxes.php:309
+msgid "Event Frequency"
+msgstr ""
+
+#: framework/meta-boxes.php:311
+msgid "Select Frequency."
+msgstr ""
+
+#: framework/meta-boxes.php:314
+msgid "Select"
+msgstr ""
+
+#: framework/meta-boxes.php:315
+msgid "Every Day"
+msgstr ""
+
+#: framework/meta-boxes.php:316
+msgid "Every Second Day"
+msgstr ""
+
+#: framework/meta-boxes.php:317
+msgid "Every Third Day"
+msgstr ""
+
+#: framework/meta-boxes.php:318
+msgid "Every Fourth Day"
+msgstr ""
+
+#: framework/meta-boxes.php:319
+msgid "Every Fifth Day"
+msgstr ""
+
+#: framework/meta-boxes.php:320
+msgid "Every Sixth Day"
+msgstr ""
+
+#: framework/meta-boxes.php:321
+msgid "Every Week"
+msgstr ""
+
+#: framework/meta-boxes.php:322
+msgid "Every Month"
+msgstr ""
+
+#: framework/meta-boxes.php:328
+msgid "Number of times to repeat event"
+msgstr ""
+
+#: framework/meta-boxes.php:330
+msgid "Enter the number of how many time this event should repeat."
+msgstr ""
+
+#: framework/meta-boxes.php:339
+msgid "Do not change"
+msgstr ""
+
+#: framework/meta-boxes.php:341
+msgid ""
+"If any changes done in this file, may your theme will not work like running "
+"now."
+msgstr ""
+
+#: framework/meta-boxes.php:353
+msgid "Details Tab"
+msgstr ""
+
+#: framework/meta-boxes.php:355
+msgid "Enable Details Tab."
+msgstr ""
+
+#: framework/meta-boxes.php:363
+msgid "Custom Details"
+msgstr ""
+
+#: framework/meta-boxes.php:365
+msgid "Add additional details for the details tab on single page."
+msgstr ""
+
+#: framework/meta-boxes.php:371
+msgid "Venue Tab"
+msgstr ""
+
+#: framework/meta-boxes.php:373
+msgid "Enable Venue Tab."
+msgstr ""
+
+#: framework/meta-boxes.php:381
+msgid "Gallery Tab"
+msgstr ""
+
+#: framework/meta-boxes.php:383
+msgid "Enable Gallery Tab."
+msgstr ""
+
+#: framework/meta-boxes.php:391 framework/meta-boxes.php:503
+msgid "Gallery Images"
+msgstr ""
+
+#: framework/meta-boxes.php:393
+msgid "Upload images for Gallery."
+msgstr ""
+
+#: framework/meta-boxes.php:399
+msgid "Event Manager Email"
+msgstr ""
+
+#: framework/meta-boxes.php:401
+msgid "Enter email of event manager"
+msgstr ""
+
+#: framework/meta-boxes.php:411
+msgid "Custom Registration PopUp Content"
+msgstr ""
+
+#: framework/meta-boxes.php:416
+msgid ""
+"Use these fields to enter your own custom data for the registration popup "
+"box that opens on click of Book Online button when registration is enabled."
+msgstr ""
+
+#: framework/meta-boxes.php:421
+msgid "Popup Modal Header"
+msgstr ""
+
+#: framework/meta-boxes.php:423
+msgid "Enter the title for the popup"
+msgstr ""
+
+#: framework/meta-boxes.php:428
+msgid "Popup Modal Body"
+msgstr ""
+
+#: framework/meta-boxes.php:430
+msgid "Enter the boxy text for the popup"
+msgstr ""
+
+#: framework/meta-boxes.php:434
+msgid "Popup Modal Footer"
+msgstr ""
+
+#: framework/meta-boxes.php:436
+msgid "Enter the footer text/info for the popup"
+msgstr ""
+
+#: framework/meta-boxes.php:446
+msgid "Post Media"
+msgstr ""
+
+#: framework/meta-boxes.php:451
+msgid "Video Options"
+msgstr ""
+
+#: framework/meta-boxes.php:453
+msgid "Select Video Option."
+msgstr ""
+
+#: framework/meta-boxes.php:456
+msgid "Youtube or Vimeo"
+msgstr ""
+
+#: framework/meta-boxes.php:461
+msgid "Video URL"
+msgstr ""
+
+#: framework/meta-boxes.php:463
+msgid "Enter the Youtube or Vimeo URL."
+msgstr ""
+
+#: framework/meta-boxes.php:468
+msgid "MP4 Video"
+msgstr ""
+
+#: framework/meta-boxes.php:470
+msgid "Insert MP4 Video."
+msgstr ""
+
+#: framework/meta-boxes.php:477
+msgid "WEBM Video"
+msgstr ""
+
+#: framework/meta-boxes.php:479
+msgid "Insert WEBM Video."
+msgstr ""
+
+#: framework/meta-boxes.php:486
+msgid "OGG Video"
+msgstr ""
+
+#: framework/meta-boxes.php:488
+msgid "Insert OGG Video."
+msgstr ""
+
+#: framework/meta-boxes.php:496
+msgid "Link URL"
+msgstr ""
+
+#: framework/meta-boxes.php:498
+msgid "Enter the Link URL."
+msgstr ""
+
+#: framework/meta-boxes.php:505
+msgid "Upload images for gallery."
+msgstr ""
+
+#: framework/meta-boxes.php:511 framework/meta-boxes.php:663
+msgid "Slider Autoplay"
+msgstr ""
+
+#: framework/meta-boxes.php:513
+msgid "Select Yes to autoplay the slider."
+msgstr ""
+
+#: framework/meta-boxes.php:522
+msgid "Per Slide Interval"
+msgstr ""
+
+#: framework/meta-boxes.php:524
+msgid "Default per slide interval is 5000. 1000 is equals to 1 second."
+msgstr ""
+
+#: framework/meta-boxes.php:529 framework/meta-boxes.php:652
+msgid "Slider Pagination"
+msgstr ""
+
+#: framework/meta-boxes.php:531 framework/meta-boxes.php:654
+msgid "Enable to show pagination for slider."
+msgstr ""
+
+#: framework/meta-boxes.php:540 framework/meta-boxes.php:674
+msgid "Slider Direction Arrows"
+msgstr ""
+
+#: framework/meta-boxes.php:542 framework/meta-boxes.php:676
+msgid "Select Yes to show slider direction arrows."
+msgstr ""
+
+#: framework/meta-boxes.php:551 framework/meta-boxes.php:685
+#: framework/meta-boxes.php:696
+msgid "Slider Effects"
+msgstr ""
+
+#: framework/meta-boxes.php:553 framework/meta-boxes.php:687
+#: framework/meta-boxes.php:698
+msgid "Select effects for slider."
+msgstr ""
+
+#: framework/meta-boxes.php:556 framework/meta-boxes.php:690
+msgid "Fade"
+msgstr ""
+
+#: framework/meta-boxes.php:557 framework/meta-boxes.php:691
+msgid "Slide"
+msgstr ""
+
+#: framework/meta-boxes.php:563
+msgid "Audio"
+msgstr ""
+
+#: framework/meta-boxes.php:565
+msgid "Soundcloud Audio URL"
+msgstr ""
+
+#: framework/meta-boxes.php:575
+msgid "Page/Post Header Options"
+msgstr ""
+
+#: framework/meta-boxes.php:579
+msgid "Page Header Show/Hide"
+msgstr ""
+
+#: framework/meta-boxes.php:583 framework/meta-boxes.php:594
+#: framework/meta-boxes.php:851 framework/meta-boxes.php:861
+msgid "Show"
+msgstr ""
+
+#: framework/meta-boxes.php:584 framework/meta-boxes.php:595
+#: framework/meta-boxes.php:852 framework/meta-boxes.php:862
+msgid "Hide"
+msgstr ""
+
+#: framework/meta-boxes.php:589
+msgid "Page Title Show/Hide"
+msgstr ""
+
+#: framework/meta-boxes.php:591
+msgid ""
+"This option will override page title setting at Theme Options > Header > "
+"Inner Page Header"
+msgstr ""
+
+#: framework/meta-boxes.php:600
+msgid "Choose Header Type"
+msgstr ""
+
+#: framework/meta-boxes.php:602
+msgid "Select Banner Type."
+msgstr ""
+
+#: framework/meta-boxes.php:605 framework/meta-boxes.php:615
+msgid "Color Banner"
+msgstr ""
+
+#: framework/meta-boxes.php:606 framework/meta-boxes.php:621
+msgid "Image Banner"
+msgstr ""
+
+#: framework/meta-boxes.php:607
+msgid "Flex Slider"
+msgstr ""
+
+#: framework/meta-boxes.php:608
+msgid "Nivo Slider"
+msgstr ""
+
+#: framework/meta-boxes.php:609 framework/tgm/plugin-includes.php:94
+msgid "Revolution Slider"
+msgstr ""
+
+#: framework/meta-boxes.php:623
+msgid "Upload banner image for header for this Page/Post."
+msgstr ""
+
+#: framework/meta-boxes.php:629 framework/meta-boxes.php:631
+msgid "Select Revolution Slider from list"
+msgstr ""
+
+#: framework/meta-boxes.php:638
+msgid "Banner Height"
+msgstr ""
+
+#: framework/meta-boxes.php:640
+msgid "Enter Height for Banner Ex-300"
+msgstr ""
+
+#: framework/meta-boxes.php:645
+msgid "Slider Images"
+msgstr ""
+
+#: framework/meta-boxes.php:647
+msgid "Upload/Select slider images."
+msgstr ""
+
+#: framework/meta-boxes.php:665
+msgid "Select Yes to slide automatically."
+msgstr ""
+
+#: framework/meta-boxes.php:701
+msgid "sliceDown"
+msgstr ""
+
+#: framework/meta-boxes.php:702
+msgid "sliceDownLeft"
+msgstr ""
+
+#: framework/meta-boxes.php:703
+msgid "sliceUp"
+msgstr ""
+
+#: framework/meta-boxes.php:704
+msgid "sliceUpLeft"
+msgstr ""
+
+#: framework/meta-boxes.php:705
+msgid "sliceUpDown"
+msgstr ""
+
+#: framework/meta-boxes.php:706
+msgid "sliceUpDownLeft"
+msgstr ""
+
+#: framework/meta-boxes.php:707
+msgid "fold"
+msgstr ""
+
+#: framework/meta-boxes.php:708
+msgid "fade"
+msgstr ""
+
+#: framework/meta-boxes.php:709
+msgid "random"
+msgstr ""
+
+#: framework/meta-boxes.php:710
+msgid "slideInRight"
+msgstr ""
+
+#: framework/meta-boxes.php:711
+msgid "slideInLeft"
+msgstr ""
+
+#: framework/meta-boxes.php:712
+msgid "boxRandom"
+msgstr ""
+
+#: framework/meta-boxes.php:713
+msgid "boxRain"
+msgstr ""
+
+#: framework/meta-boxes.php:714
+msgid "boxRainReverse"
+msgstr ""
+
+#: framework/meta-boxes.php:715
+msgid "boxRainGrow"
+msgstr ""
+
+#: framework/meta-boxes.php:716
+msgid "boxRainGrowReverse"
+msgstr ""
+
+#: framework/meta-boxes.php:726
+msgid "Background Options"
+msgstr ""
+
+#: framework/meta-boxes.php:730
+msgid "Below options work only in Boxed Layout"
+msgstr ""
+
+#: framework/meta-boxes.php:735 framework/meta-boxes.php:781
+msgid "Background Color"
+msgstr ""
+
+#: framework/meta-boxes.php:737
+msgid "Choose background color for the outer area"
+msgstr ""
+
+#: framework/meta-boxes.php:741 framework/meta-boxes.php:787
+msgid "Background Image"
+msgstr ""
+
+#: framework/meta-boxes.php:743
+msgid "Choose background image for the outer area"
+msgstr ""
+
+#: framework/meta-boxes.php:748 framework/meta-boxes.php:794
+msgid "100% Background Image"
+msgstr ""
+
+#: framework/meta-boxes.php:750 framework/meta-boxes.php:796
+msgid "Choose to have the background image display at 100%."
+msgstr ""
+
+#: framework/meta-boxes.php:759 framework/meta-boxes.php:805
+msgid "Background Repeat"
+msgstr ""
+
+#: framework/meta-boxes.php:761 framework/meta-boxes.php:807
+msgid "Select how the background image repeats."
+msgstr ""
+
+#: framework/meta-boxes.php:764 framework/meta-boxes.php:810
+msgid "Repeat"
+msgstr ""
+
+#: framework/meta-boxes.php:765 framework/meta-boxes.php:811
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: framework/meta-boxes.php:766 framework/meta-boxes.php:812
+msgid "Repeat Vertically"
+msgstr ""
+
+#: framework/meta-boxes.php:767 framework/meta-boxes.php:813
+msgid "No Repeat"
+msgstr ""
+
+#: framework/meta-boxes.php:776
+msgid "Below options work in boxed and wide mode:"
+msgstr ""
+
+#: framework/meta-boxes.php:783
+msgid "Choose background color for the Content area"
+msgstr ""
+
+#: framework/meta-boxes.php:789
+msgid "Choose background image for the Content area"
+msgstr ""
+
+#: framework/meta-boxes.php:823
+msgid "Page Design Options"
+msgstr ""
+
+#: framework/meta-boxes.php:827
+msgid "Content Width"
+msgstr ""
+
+#: framework/meta-boxes.php:828
+msgid "Enter width of content in px or %"
+msgstr ""
+
+#: framework/meta-boxes.php:833
+msgid "Content Padding Top"
+msgstr ""
+
+#: framework/meta-boxes.php:834 framework/meta-boxes.php:841
+msgid "Do not include px or % here"
+msgstr ""
+
+#: framework/meta-boxes.php:840
+msgid "Content Padding Bottom"
+msgstr ""
+
+#: framework/meta-boxes.php:847
+msgid "Show social sharing buttons"
+msgstr ""
+
+#: framework/meta-boxes.php:857
+msgid "Show breadcrumbs"
+msgstr ""
+
+#: framework/page-builder/page-builder.php:10
+msgid "Vestige Theme Widgets"
+msgstr ""
+
+#: framework/page-builder/widgets/alert-widget/alert-widget.php:15
+msgid "imithemes - Alert Box Widget"
+msgstr ""
+
+#: framework/page-builder/widgets/alert-widget/alert-widget.php:17
+msgid "A widget to add Alert Boxes to your pages."
+msgstr ""
+
+#: framework/page-builder/widgets/alert-widget/alert-widget.php:27
+msgid "Alert Box Content"
+msgstr ""
+
+#: framework/page-builder/widgets/alert-widget/alert-widget.php:28
+msgid "HTML tags are allowed in this."
+msgstr ""
+
+#: framework/page-builder/widgets/alert-widget/alert-widget.php:34
+#: framework/page-builder/widgets/alert-widget/alert-widget.php:35
+#: framework/page-builder/widgets/progressbar-widget/progressbar-widget.php:41
+#: framework/page-builder/widgets/progressbar-widget/progressbar-widget.php:42
+msgid "Choose Color Style"
+msgstr ""
+
+#: framework/page-builder/widgets/alert-widget/alert-widget.php:37
+msgid "Standard"
+msgstr ""
+
+#: framework/page-builder/widgets/alert-widget/alert-widget.php:38
+#: framework/page-builder/widgets/progressbar-widget/progressbar-widget.php:45
+msgid "Warning"
+msgstr ""
+
+#: framework/page-builder/widgets/alert-widget/alert-widget.php:39
+msgid "Error"
+msgstr ""
+
+#: framework/page-builder/widgets/alert-widget/alert-widget.php:40
+#: framework/page-builder/widgets/progressbar-widget/progressbar-widget.php:46
+msgid "Info"
+msgstr ""
+
+#: framework/page-builder/widgets/alert-widget/alert-widget.php:41
+#: framework/page-builder/widgets/progressbar-widget/progressbar-widget.php:48
+msgid "Success"
+msgstr ""
+
+#: framework/page-builder/widgets/alert-widget/alert-widget.php:46
+msgid "Custom background color"
+msgstr ""
+
+#: framework/page-builder/widgets/alert-widget/alert-widget.php:51
+msgid "Custom border color"
+msgstr ""
+
+#: framework/page-builder/widgets/alert-widget/alert-widget.php:56
+msgid "Custom text color"
+msgstr ""
+
+#: framework/page-builder/widgets/alert-widget/alert-widget.php:61
+msgid "Show close button"
+msgstr ""
+
+#: framework/page-builder/widgets/alert-widget/alert-widget.php:67
+#: framework/page-builder/widgets/alert-widget/alert-widget.php:68
+#: framework/page-builder/widgets/iconbox-widget/iconbox-widget.php:112
+#: framework/page-builder/widgets/iconbox-widget/iconbox-widget.php:113
+msgid "Choose animation"
+msgstr ""
+
+#: framework/page-builder/widgets/alert-widget/alert-widget.php:70
+#: framework/page-builder/widgets/iconbox-widget/iconbox-widget.php:115
+msgid "Flash"
+msgstr ""
+
+#: framework/page-builder/widgets/alert-widget/alert-widget.php:71
+#: framework/page-builder/widgets/iconbox-widget/iconbox-widget.php:116
+msgid "Shake"
+msgstr ""
+
+#: framework/page-builder/widgets/alert-widget/alert-widget.php:72
+#: framework/page-builder/widgets/iconbox-widget/iconbox-widget.php:117
+msgid "Bounce"
+msgstr ""
+
+#: framework/page-builder/widgets/alert-widget/alert-widget.php:73
+#: framework/page-builder/widgets/iconbox-widget/iconbox-widget.php:118
+msgid "Tada"
+msgstr ""
+
+#: framework/page-builder/widgets/alert-widget/alert-widget.php:74
+#: framework/page-builder/widgets/iconbox-widget/iconbox-widget.php:119
+msgid "Swing"
+msgstr ""
+
+#: framework/page-builder/widgets/alert-widget/alert-widget.php:75
+#: framework/page-builder/widgets/iconbox-widget/iconbox-widget.php:120
+msgid "Wobble"
+msgstr ""
+
+#: framework/page-builder/widgets/alert-widget/alert-widget.php:76
+#: framework/page-builder/widgets/iconbox-widget/iconbox-widget.php:121
+msgid "Wiggle"
+msgstr ""
+
+#: framework/page-builder/widgets/alert-widget/alert-widget.php:77
+#: framework/page-builder/widgets/iconbox-widget/iconbox-widget.php:122
+msgid "Pulse"
+msgstr ""
+
+#: framework/page-builder/widgets/alert-widget/alert-widget.php:78
+#: framework/page-builder/widgets/iconbox-widget/iconbox-widget.php:123
+msgid "FadeIn"
+msgstr ""
+
+#: framework/page-builder/widgets/alert-widget/alert-widget.php:79
+#: framework/page-builder/widgets/iconbox-widget/iconbox-widget.php:124
+msgid "FadeInUp"
+msgstr ""
+
+#: framework/page-builder/widgets/alert-widget/alert-widget.php:80
+#: framework/page-builder/widgets/iconbox-widget/iconbox-widget.php:125
+msgid "FadeInLeft"
+msgstr ""
+
+#: framework/page-builder/widgets/alert-widget/alert-widget.php:81
+#: framework/page-builder/widgets/iconbox-widget/iconbox-widget.php:126
+msgid "FadeInRight"
+msgstr ""
+
+#: framework/page-builder/widgets/alert-widget/alert-widget.php:82
+#: framework/page-builder/widgets/iconbox-widget/iconbox-widget.php:127
+msgid "FadeInUpBig"
+msgstr ""
+
+#: framework/page-builder/widgets/alert-widget/alert-widget.php:83
+#: framework/page-builder/widgets/alert-widget/alert-widget.php:84
+#: framework/page-builder/widgets/iconbox-widget/iconbox-widget.php:128
+#: framework/page-builder/widgets/iconbox-widget/iconbox-widget.php:129
+msgid "FadeInDownBig"
+msgstr ""
+
+#: framework/page-builder/widgets/alert-widget/alert-widget.php:85
+#: framework/page-builder/widgets/iconbox-widget/iconbox-widget.php:130
+msgid "FadeInRightBig"
+msgstr ""
+
+#: framework/page-builder/widgets/alert-widget/alert-widget.php:86
+#: framework/page-builder/widgets/iconbox-widget/iconbox-widget.php:131
+msgid "BounceIn"
+msgstr ""
+
+#: framework/page-builder/widgets/alert-widget/alert-widget.php:87
+#: framework/page-builder/widgets/iconbox-widget/iconbox-widget.php:132
+msgid "BounceInUp"
+msgstr ""
+
+#: framework/page-builder/widgets/alert-widget/alert-widget.php:88
+#: framework/page-builder/widgets/iconbox-widget/iconbox-widget.php:133
+msgid "BounceInDown"
+msgstr ""
+
+#: framework/page-builder/widgets/alert-widget/alert-widget.php:89
+#: framework/page-builder/widgets/iconbox-widget/iconbox-widget.php:134
+msgid "BounceInLeft"
+msgstr ""
+
+#: framework/page-builder/widgets/alert-widget/alert-widget.php:90
+#: framework/page-builder/widgets/iconbox-widget/iconbox-widget.php:135
+msgid "BounceInRight"
+msgstr ""
+
+#: framework/page-builder/widgets/alert-widget/alert-widget.php:91
+#: framework/page-builder/widgets/iconbox-widget/iconbox-widget.php:136
+msgid "RotateIn"
+msgstr ""
+
+#: framework/page-builder/widgets/alert-widget/alert-widget.php:92
+#: framework/page-builder/widgets/iconbox-widget/iconbox-widget.php:137
+msgid "RotateInUpLeft"
+msgstr ""
+
+#: framework/page-builder/widgets/alert-widget/alert-widget.php:93
+#: framework/page-builder/widgets/iconbox-widget/iconbox-widget.php:138
+msgid "RotateInDownLeft"
+msgstr ""
+
+#: framework/page-builder/widgets/alert-widget/alert-widget.php:94
+#: framework/page-builder/widgets/iconbox-widget/iconbox-widget.php:139
+msgid "RotateInUpRight"
+msgstr ""
+
+#: framework/page-builder/widgets/alert-widget/alert-widget.php:95
+#: framework/page-builder/widgets/iconbox-widget/iconbox-widget.php:140
+msgid "RotateInDownRight"
+msgstr ""
+
+#: framework/page-builder/widgets/artists-widget/artists-widget.php:15
+msgid "imithemes - Artists Widget"
+msgstr ""
+
+#: framework/page-builder/widgets/artists-widget/artists-widget.php:17
+msgid "A widget to show Artists Taxonomy in list/grid/carousel layout"
+msgstr ""
+
+#: framework/page-builder/widgets/artists-widget/artists-widget.php:33
+#: framework/page-builder/widgets/venues-widget/venues-widget.php:33
+msgid "Widget title alignment"
+msgstr ""
+
+#: framework/page-builder/widgets/artists-widget/artists-widget.php:35
+#: framework/page-builder/widgets/artworks-list-widget/artworks-list-widget.php:34
+#: framework/page-builder/widgets/carousel-widget/carousel-widget.php:34
+#: framework/page-builder/widgets/custom-grid-list-widget/custom-grid-list-widget.php:34
+#: framework/page-builder/widgets/custom-grid-list-widget/custom-grid-list-widget.php:52
+#: framework/page-builder/widgets/events-list-widget/events-list-widget.php:34
+#: framework/page-builder/widgets/exhibitions-list-widget/exhibitions-list-widget.php:34
+#: framework/page-builder/widgets/gallery-grid-widget/gallery-grid-widget.php:34
+#: framework/page-builder/widgets/posts-list-widget/posts-list-widget.php:34
+#: framework/page-builder/widgets/team-widget/team-widget.php:34
+#: framework/page-builder/widgets/testimonials-widget/testimonials-widget.php:34
+#: framework/page-builder/widgets/upcoming-events-widget/upcoming-events-widget.php:34
+#: framework/page-builder/widgets/venues-widget/venues-widget.php:35
+msgid "Left"
+msgstr ""
+
+#: framework/page-builder/widgets/artists-widget/artists-widget.php:36
+#: framework/page-builder/widgets/artworks-list-widget/artworks-list-widget.php:35
+#: framework/page-builder/widgets/carousel-widget/carousel-widget.php:35
+#: framework/page-builder/widgets/custom-grid-list-widget/custom-grid-list-widget.php:35
+#: framework/page-builder/widgets/custom-grid-list-widget/custom-grid-list-widget.php:53
+#: framework/page-builder/widgets/events-list-widget/events-list-widget.php:35
+#: framework/page-builder/widgets/exhibitions-list-widget/exhibitions-list-widget.php:35
+#: framework/page-builder/widgets/gallery-grid-widget/gallery-grid-widget.php:35
+#: framework/page-builder/widgets/posts-list-widget/posts-list-widget.php:35
+#: framework/page-builder/widgets/team-widget/team-widget.php:35
+#: framework/page-builder/widgets/testimonials-widget/testimonials-widget.php:35
+#: framework/page-builder/widgets/upcoming-events-widget/upcoming-events-widget.php:35
+#: framework/page-builder/widgets/venues-widget/venues-widget.php:36
+msgid "Center"
+msgstr ""
+
+#: framework/page-builder/widgets/artists-widget/artists-widget.php:37
+#: framework/page-builder/widgets/artworks-list-widget/artworks-list-widget.php:36
+#: framework/page-builder/widgets/carousel-widget/carousel-widget.php:36
+#: framework/page-builder/widgets/custom-grid-list-widget/custom-grid-list-widget.php:36
+#: framework/page-builder/widgets/custom-grid-list-widget/custom-grid-list-widget.php:54
+#: framework/page-builder/widgets/events-list-widget/events-list-widget.php:36
+#: framework/page-builder/widgets/exhibitions-list-widget/exhibitions-list-widget.php:36
+#: framework/page-builder/widgets/gallery-grid-widget/gallery-grid-widget.php:36
+#: framework/page-builder/widgets/posts-list-widget/posts-list-widget.php:36
+#: framework/page-builder/widgets/team-widget/team-widget.php:36
+#: framework/page-builder/widgets/testimonials-widget/testimonials-widget.php:36
+#: framework/page-builder/widgets/upcoming-events-widget/upcoming-events-widget.php:36
+#: framework/page-builder/widgets/venues-widget/venues-widget.php:37
+msgid "Right"
+msgstr ""
+
+#: framework/page-builder/widgets/artists-widget/artists-widget.php:42
+#: framework/page-builder/widgets/artworks-list-widget/artworks-list-widget.php:41
+#: framework/page-builder/widgets/carousel-widget/carousel-widget.php:41
+#: framework/page-builder/widgets/events-list-widget/events-list-widget.php:41
+#: framework/page-builder/widgets/exhibitions-list-widget/exhibitions-list-widget.php:41
+#: framework/page-builder/widgets/gallery-grid-widget/gallery-grid-widget.php:41
+#: framework/page-builder/widgets/posts-list-widget/posts-list-widget.php:41
+#: framework/page-builder/widgets/team-widget/team-widget.php:41
+#: framework/page-builder/widgets/testimonials-widget/testimonials-widget.php:41
+#: framework/page-builder/widgets/upcoming-events-widget/upcoming-events-widget.php:41
+#: framework/page-builder/widgets/upcoming-exhibitions-widget/upcoming-exhibitions-widget.php:31
+#: framework/page-builder/widgets/venues-widget/venues-widget.php:42
+msgid "Custom title color"
+msgstr ""
+
+#: framework/page-builder/widgets/artists-widget/artists-widget.php:47
+msgid "Number of artists to show"
+msgstr ""
+
+#: framework/page-builder/widgets/artists-widget/artists-widget.php:56
+msgid ""
+"Show pagination for artists per page? This will work on separate pages only "
+"and not on homepage."
+msgstr ""
+
+#: framework/page-builder/widgets/artists-widget/artists-widget.php:60
+msgid "Include Artists"
+msgstr ""
+
+#: framework/page-builder/widgets/artists-widget/artists-widget.php:61
+msgid ""
+"Artist taxonomy IDs can be inserted in this field to show some selected "
+"artists only. See a little guide here: http://bit.ly/2ascMX0 about how to "
+"get the IDs for your artists category/taxonomy."
+msgstr ""
+
+#: framework/page-builder/widgets/artists-widget/artists-widget.php:65
+msgid "Exclude Artists"
+msgstr ""
+
+#: framework/page-builder/widgets/artists-widget/artists-widget.php:66
+msgid ""
+"Artist taxonomy IDs can be inserted in this field to hide some selected "
+"artists. See a little guide here: http://bit.ly/2ascMX0 about how to get the "
+"IDs for your artists category/taxonomy. If include field is non-empty, "
+"exclude is ignored"
+msgstr ""
+
+#: framework/page-builder/widgets/artists-widget/artists-widget.php:70
+msgid "Order artists by"
+msgstr ""
+
+#: framework/page-builder/widgets/artists-widget/artists-widget.php:73
+#: framework/page-builder/widgets/venues-widget/venues-widget.php:68
+msgid "Name"
+msgstr ""
+
+#: framework/page-builder/widgets/artists-widget/artists-widget.php:74
+#: framework/page-builder/widgets/venues-widget/venues-widget.php:69
+msgid "Slug"
+msgstr ""
+
+#: framework/page-builder/widgets/artists-widget/artists-widget.php:75
+#: framework/page-builder/widgets/venues-widget/venues-widget.php:70
+msgid "Term ID"
+msgstr ""
+
+#: framework/page-builder/widgets/artists-widget/artists-widget.php:76
+#: framework/page-builder/widgets/venues-widget/venues-widget.php:71
+msgid "ID"
+msgstr ""
+
+#: framework/page-builder/widgets/artists-widget/artists-widget.php:77
+#: framework/page-builder/widgets/venues-widget/venues-widget.php:72
+msgid "Count"
+msgstr ""
+
+#: framework/page-builder/widgets/artists-widget/artists-widget.php:82
+msgid "Artists Order"
+msgstr ""
+
+#: framework/page-builder/widgets/artists-widget/artists-widget.php:85
+#: framework/page-builder/widgets/events-list-widget/events-list-widget.php:62
+#: framework/page-builder/widgets/venues-widget/venues-widget.php:80
+msgid "Ascending"
+msgstr ""
+
+#: framework/page-builder/widgets/artists-widget/artists-widget.php:86
+#: framework/page-builder/widgets/events-list-widget/events-list-widget.php:63
+#: framework/page-builder/widgets/venues-widget/venues-widget.php:81
+msgid "Descending"
+msgstr ""
+
+#: framework/page-builder/widgets/artists-widget/artists-widget.php:92
+msgid "Shuffle Artists"
+msgstr ""
+
+#: framework/page-builder/widgets/artists-widget/artists-widget.php:93
+msgid "Shuffle artists list/grid every time page is loaded or refreshed."
+msgstr ""
+
+#: framework/page-builder/widgets/artists-widget/artists-widget.php:98
+msgid ""
+"Show Artist description excerpt. Enter the number of words to show, leave "
+"blank to not show. Default value is: 25"
+msgstr ""
+
+#: framework/page-builder/widgets/artists-widget/artists-widget.php:103
+#: framework/page-builder/widgets/artworks-list-widget/artworks-list-widget.php:88
+#: framework/page-builder/widgets/posts-list-widget/posts-list-widget.php:74
+#: framework/page-builder/widgets/venues-widget/venues-widget.php:98
+msgid ""
+"Full details button text, Leave blank to hide button - Default is Read More"
+msgstr ""
+
+#: framework/page-builder/widgets/artists-widget/artists-widget.php:109
+#: framework/page-builder/widgets/artworks-list-widget/artworks-list-widget.php:94
+#: framework/page-builder/widgets/events-list-widget/events-list-widget.php:98
+#: framework/page-builder/widgets/exhibitions-list-widget/exhibitions-list-widget.php:89
+#: framework/page-builder/widgets/gallery-grid-widget/gallery-grid-widget.php:76
+#: framework/page-builder/widgets/posts-list-widget/posts-list-widget.php:80
+#: framework/page-builder/widgets/team-widget/team-widget.php:66
+#: framework/page-builder/widgets/venues-widget/venues-widget.php:104
+msgid "Choose listing layout."
+msgstr ""
+
+#: framework/page-builder/widgets/artists-widget/artists-widget.php:114
+#: framework/page-builder/widgets/artworks-list-widget/artworks-list-widget.php:99
+#: framework/page-builder/widgets/custom-grid-list-widget/custom-grid-list-widget.php:99
+#: framework/page-builder/widgets/events-list-widget/events-list-widget.php:103
+#: framework/page-builder/widgets/exhibitions-list-widget/exhibitions-list-widget.php:94
+#: framework/page-builder/widgets/posts-list-widget/posts-list-widget.php:85
+#: framework/page-builder/widgets/venues-widget/venues-widget.php:109
+msgid "Layout Type"
+msgstr ""
+
+#: framework/page-builder/widgets/artists-widget/artists-widget.php:116
+#: framework/page-builder/widgets/artworks-list-widget/artworks-list-widget.php:101
+#: framework/page-builder/widgets/custom-grid-list-widget/custom-grid-list-widget.php:102
+#: framework/page-builder/widgets/events-list-widget/events-list-widget.php:105
+#: framework/page-builder/widgets/exhibitions-list-widget/exhibitions-list-widget.php:96
+#: framework/page-builder/widgets/posts-list-widget/posts-list-widget.php:87
+#: framework/page-builder/widgets/venues-widget/venues-widget.php:111
+msgid "List View"
+msgstr ""
+
+#: framework/page-builder/widgets/artists-widget/artists-widget.php:117
+#: framework/page-builder/widgets/artworks-list-widget/artworks-list-widget.php:102
+#: framework/page-builder/widgets/custom-grid-list-widget/custom-grid-list-widget.php:101
+#: framework/page-builder/widgets/events-list-widget/events-list-widget.php:106
+#: framework/page-builder/widgets/exhibitions-list-widget/exhibitions-list-widget.php:97
+#: framework/page-builder/widgets/posts-list-widget/posts-list-widget.php:88
+#: framework/page-builder/widgets/venues-widget/venues-widget.php:112
+msgid "Grid View"
+msgstr ""
+
+#: framework/page-builder/widgets/artists-widget/artists-widget.php:127
+#: framework/page-builder/widgets/artworks-list-widget/artworks-list-widget.php:112
+#: framework/page-builder/widgets/events-list-widget/events-list-widget.php:116
+#: framework/page-builder/widgets/exhibitions-list-widget/exhibitions-list-widget.php:107
+#: framework/page-builder/widgets/posts-list-widget/posts-list-widget.php:98
+#: framework/page-builder/widgets/team-widget/team-widget.php:71
+#: framework/page-builder/widgets/testimonials-widget/testimonials-widget.php:61
+#: framework/page-builder/widgets/venues-widget/venues-widget.php:122
+msgid "Choose Grid View Column"
+msgstr ""
+
+#: framework/page-builder/widgets/artists-widget/artists-widget.php:129
+#: framework/page-builder/widgets/artworks-list-widget/artworks-list-widget.php:114
+#: framework/page-builder/widgets/testimonials-widget/testimonials-widget.php:63
+#: framework/page-builder/widgets/venues-widget/venues-widget.php:124
+msgid "One"
+msgstr ""
+
+#: framework/page-builder/widgets/artists-widget/artists-widget.php:130
+#: framework/page-builder/widgets/artworks-list-widget/artworks-list-widget.php:115
+#: framework/page-builder/widgets/events-list-widget/events-list-widget.php:118
+#: framework/page-builder/widgets/exhibitions-list-widget/exhibitions-list-widget.php:109
+#: framework/page-builder/widgets/gallery-grid-widget/gallery-grid-widget.php:83
+#: framework/page-builder/widgets/posts-list-widget/posts-list-widget.php:100
+#: framework/page-builder/widgets/team-widget/team-widget.php:73
+#: framework/page-builder/widgets/testimonials-widget/testimonials-widget.php:64
+#: framework/page-builder/widgets/venues-widget/venues-widget.php:125
+msgid "Two"
+msgstr ""
+
+#: framework/page-builder/widgets/artists-widget/artists-widget.php:131
+#: framework/page-builder/widgets/artworks-list-widget/artworks-list-widget.php:116
+#: framework/page-builder/widgets/events-list-widget/events-list-widget.php:119
+#: framework/page-builder/widgets/exhibitions-list-widget/exhibitions-list-widget.php:110
+#: framework/page-builder/widgets/gallery-grid-widget/gallery-grid-widget.php:84
+#: framework/page-builder/widgets/posts-list-widget/posts-list-widget.php:101
+#: framework/page-builder/widgets/team-widget/team-widget.php:74
+#: framework/page-builder/widgets/testimonials-widget/testimonials-widget.php:65
+#: framework/page-builder/widgets/venues-widget/venues-widget.php:126
+msgid "Three"
+msgstr ""
+
+#: framework/page-builder/widgets/artists-widget/artists-widget.php:132
+#: framework/page-builder/widgets/artworks-list-widget/artworks-list-widget.php:117
+#: framework/page-builder/widgets/events-list-widget/events-list-widget.php:120
+#: framework/page-builder/widgets/exhibitions-list-widget/exhibitions-list-widget.php:111
+#: framework/page-builder/widgets/gallery-grid-widget/gallery-grid-widget.php:85
+#: framework/page-builder/widgets/posts-list-widget/posts-list-widget.php:102
+#: framework/page-builder/widgets/team-widget/team-widget.php:75
+#: framework/page-builder/widgets/testimonials-widget/testimonials-widget.php:66
+#: framework/page-builder/widgets/venues-widget/venues-widget.php:127
+msgid "Four"
+msgstr ""
+
+#: framework/page-builder/widgets/artists-widget/artists-widget.php:141
+#: framework/page-builder/widgets/artworks-list-widget/artworks-list-widget.php:126
+#: framework/page-builder/widgets/events-list-widget/events-list-widget.php:129
+#: framework/page-builder/widgets/exhibitions-list-widget/exhibitions-list-widget.php:120
+#: framework/page-builder/widgets/posts-list-widget/posts-list-widget.php:111
+#: framework/page-builder/widgets/venues-widget/venues-widget.php:136
+msgid "Show as carousel (Only for Grid View)"
+msgstr ""
+
+#: framework/page-builder/widgets/artists-widget/artists-widget.php:150
+#: framework/page-builder/widgets/events-list-widget/events-list-widget.php:138
+#: framework/page-builder/widgets/exhibitions-list-widget/exhibitions-list-widget.php:129
+#: framework/page-builder/widgets/posts-list-widget/posts-list-widget.php:120
+#: framework/page-builder/widgets/team-widget/team-widget.php:85
+#: framework/page-builder/widgets/venues-widget/venues-widget.php:145
+msgid "Enbale carousel pagination"
+msgstr ""
+
+#: framework/page-builder/widgets/artists-widget/artists-widget.php:159
+#: framework/page-builder/widgets/events-list-widget/events-list-widget.php:147
+#: framework/page-builder/widgets/exhibitions-list-widget/exhibitions-list-widget.php:138
+#: framework/page-builder/widgets/posts-list-widget/posts-list-widget.php:129
+#: framework/page-builder/widgets/team-widget/team-widget.php:90
+#: framework/page-builder/widgets/venues-widget/venues-widget.php:154
+msgid "Enbale carousel Next/prev arrows"
+msgstr ""
+
+#: framework/page-builder/widgets/artists-widget/artists-widget.php:168
+#: framework/page-builder/widgets/artworks-list-widget/artworks-list-widget.php:153
+#: framework/page-builder/widgets/events-list-widget/events-list-widget.php:156
+#: framework/page-builder/widgets/exhibitions-list-widget/exhibitions-list-widget.php:147
+#: framework/page-builder/widgets/gallery-grid-widget/gallery-grid-widget.php:105
+#: framework/page-builder/widgets/posts-list-widget/posts-list-widget.php:138
+#: framework/page-builder/widgets/team-widget/team-widget.php:95
+#: framework/page-builder/widgets/testimonials-widget/testimonials-widget.php:90
+#: framework/page-builder/widgets/venues-widget/venues-widget.php:163
+msgid ""
+"Enter time interval for Auto Carousel. 1000 = 1 second. Leave blank for no "
+"AutoPlay."
+msgstr ""
+
+#: framework/page-builder/widgets/artworks-list-widget/artworks-list-widget.php:15
+msgid "imithemes - Artworks List/Grid Widget"
+msgstr ""
+
+#: framework/page-builder/widgets/artworks-list-widget/artworks-list-widget.php:17
+msgid "A widget to show artworks list/grid view."
+msgstr ""
+
+#: framework/page-builder/widgets/artworks-list-widget/artworks-list-widget.php:32
+#: framework/page-builder/widgets/carousel-widget/carousel-widget.php:32
+#: framework/page-builder/widgets/events-list-widget/events-list-widget.php:32
+#: framework/page-builder/widgets/exhibitions-list-widget/exhibitions-list-widget.php:32
+#: framework/page-builder/widgets/gallery-grid-widget/gallery-grid-widget.php:32
+#: framework/page-builder/widgets/posts-list-widget/posts-list-widget.php:32
+#: framework/page-builder/widgets/team-widget/team-widget.php:32
+#: framework/page-builder/widgets/testimonials-widget/testimonials-widget.php:32
+#: framework/page-builder/widgets/upcoming-events-widget/upcoming-events-widget.php:32
+msgid "Widget Title Alignment"
+msgstr ""
+
+#: framework/page-builder/widgets/artworks-list-widget/artworks-list-widget.php:46
+msgid ""
+"Categories (Enter comma separated artwork category slugs to filter artworks)"
+msgstr ""
+
+#: framework/page-builder/widgets/artworks-list-widget/artworks-list-widget.php:50
+msgid ""
+"Artists (Enter comma separated artwork artists slugs to filter artworks)"
+msgstr ""
+
+#: framework/page-builder/widgets/artworks-list-widget/artworks-list-widget.php:54
+msgid "Number of Artworks to show per page"
+msgstr ""
+
+#: framework/page-builder/widgets/artworks-list-widget/artworks-list-widget.php:63
+msgid ""
+"Show pagination for artworks per page? This will work on separate pages only "
+"and not on homepages."
+msgstr ""
+
+#: framework/page-builder/widgets/artworks-list-widget/artworks-list-widget.php:68
+msgid "Show post meta like comments count?"
+msgstr ""
+
+#: framework/page-builder/widgets/artworks-list-widget/artworks-list-widget.php:73
+msgid "Show artwork price?"
+msgstr ""
+
+#: framework/page-builder/widgets/artworks-list-widget/artworks-list-widget.php:78
+msgid "Show artwork dimensions?"
+msgstr ""
+
+#: framework/page-builder/widgets/artworks-list-widget/artworks-list-widget.php:83
+#: framework/page-builder/widgets/events-list-widget/events-list-widget.php:87
+#: framework/page-builder/widgets/exhibitions-list-widget/exhibitions-list-widget.php:78
+#: framework/page-builder/widgets/posts-list-widget/posts-list-widget.php:69
+msgid ""
+"Show content excerpt. Enter the number of words to show, leave blank to not "
+"show. Default value is: 25"
+msgstr ""
+
+#: framework/page-builder/widgets/artworks-list-widget/artworks-list-widget.php:135
+#: framework/page-builder/widgets/gallery-grid-widget/gallery-grid-widget.php:95
+#: framework/page-builder/widgets/testimonials-widget/testimonials-widget.php:72
+msgid "Enable carousel pagination"
+msgstr ""
+
+#: framework/page-builder/widgets/artworks-list-widget/artworks-list-widget.php:144
+#: framework/page-builder/widgets/gallery-grid-widget/gallery-grid-widget.php:100
+#: framework/page-builder/widgets/testimonials-widget/testimonials-widget.php:81
+msgid "Enable carousel Next/prev arrows"
+msgstr ""
+
+#: framework/page-builder/widgets/artworks-list-widget/tpl/grid-view.php:67
+#: framework/page-builder/widgets/artworks-list-widget/tpl/list-view.php:44
+#: single-artwork.php:113 single-artwork.php:195
+#: taxonomy-artwork-artists.php:75 taxonomy-artwork-category.php:81
+#: taxonomy-artwork-tags.php:81
+msgid "By "
+msgstr ""
+
+#: framework/page-builder/widgets/artworks-list-widget/tpl/grid-view.php:92
+#: framework/page-builder/widgets/posts-list-widget/tpl/grid-view.php:67
+msgid "0"
+msgstr ""
+
+#: framework/page-builder/widgets/artworks-list-widget/tpl/grid-view.php:92
+#: framework/page-builder/widgets/posts-list-widget/tpl/grid-view.php:67
+msgid "Comments off"
+msgstr ""
+
+#: framework/page-builder/widgets/artworks-list-widget/tpl/grid-view.php:109
+#: framework/page-builder/widgets/artworks-list-widget/tpl/list-view.php:74
+#: framework/page-builder/widgets/events-list-widget/tpl/grid-view.php:141
+#: framework/page-builder/widgets/events-list-widget/tpl/list-view.php:98
+#: framework/page-builder/widgets/gallery-grid-widget/tpl/grid-view.php:155
+#: framework/page-builder/widgets/posts-list-widget/tpl/grid-view.php:84
+#: framework/page-builder/widgets/posts-list-widget/tpl/list-view.php:52
+#: index.php:72 page.php:53 single.php:66
+msgid "Pages:"
+msgstr ""
+
+#: framework/page-builder/widgets/carousel-widget/carousel-widget.php:15
+msgid "imithemes - Image Carousel Widget"
+msgstr ""
+
+#: framework/page-builder/widgets/carousel-widget/carousel-widget.php:17
+msgid "A widget to show a carousel or list of images/logos."
+msgstr ""
+
+#: framework/page-builder/widgets/carousel-widget/carousel-widget.php:46
+msgid "Button Text"
+msgstr ""
+
+#: framework/page-builder/widgets/carousel-widget/carousel-widget.php:47
+msgid "Button"
+msgstr ""
+
+#: framework/page-builder/widgets/carousel-widget/carousel-widget.php:48
+#: framework/page-builder/widgets/carousel-widget/carousel-widget.php:54
+msgid "This button will be displayed only if the widget has title."
+msgstr ""
+
+#: framework/page-builder/widgets/carousel-widget/carousel-widget.php:53
+msgid "Button URL"
+msgstr ""
+
+#: framework/page-builder/widgets/carousel-widget/carousel-widget.php:58
+msgid "Images"
+msgstr ""
+
+#: framework/page-builder/widgets/carousel-widget/carousel-widget.php:59
+msgid "Image"
+msgstr ""
+
+#: framework/page-builder/widgets/carousel-widget/carousel-widget.php:70
+msgid "Upload image"
+msgstr ""
+
+#: framework/page-builder/widgets/carousel-widget/carousel-widget.php:75
+msgid "Title text to show under the image"
+msgstr ""
+
+#: framework/page-builder/widgets/carousel-widget/carousel-widget.php:80
+msgid "Image URL"
+msgstr ""
+
+#: framework/page-builder/widgets/carousel-widget/carousel-widget.php:84
+msgid "Open URL in a new window"
+msgstr ""
+
+#: framework/page-builder/widgets/carousel-widget/carousel-widget.php:91
+msgid "Number of images/logos to show in a row"
+msgstr ""
+
+#: framework/page-builder/widgets/carousel-widget/carousel-widget.php:100
+#: framework/page-builder/widgets/carousel-widget/carousel-widget.php:101
+msgid "Autoplay Carousel"
+msgstr ""
+
+#: framework/page-builder/widgets/carousel-widget/carousel-widget.php:110
+msgid "Carousel Navigation"
+msgstr ""
+
+#: framework/page-builder/widgets/carousel-widget/carousel-widget.php:111
+msgid "Show Carousel Navigation"
+msgstr ""
+
+#: framework/page-builder/widgets/carousel-widget/carousel-widget.php:120
+msgid "Carousel Pagination"
+msgstr ""
+
+#: framework/page-builder/widgets/carousel-widget/carousel-widget.php:121
+msgid "Show Carousel Pagination"
+msgstr ""
+
+#: framework/page-builder/widgets/counter-widget/counter-widget.php:15
+msgid "imithemes - Animated Counter Widget"
+msgstr ""
+
+#: framework/page-builder/widgets/counter-widget/counter-widget.php:17
+msgid "A widget to add Animated Numbers Counter to your pages."
+msgstr ""
+
+#: framework/page-builder/widgets/counter-widget/counter-widget.php:27
+#: framework/page-builder/widgets/iconbox-widget/iconbox-widget.php:27
+msgid "Icon"
+msgstr ""
+
+#: framework/page-builder/widgets/counter-widget/counter-widget.php:31
+msgid "Icon color"
+msgstr ""
+
+#: framework/page-builder/widgets/counter-widget/counter-widget.php:36
+msgid "Icon size"
+msgstr ""
+
+#: framework/page-builder/widgets/counter-widget/counter-widget.php:42
+#: framework/page-builder/widgets/iconbox-widget/iconbox-widget.php:32
+msgid "Icon image"
+msgstr ""
+
+#: framework/page-builder/widgets/counter-widget/counter-widget.php:43
+#: framework/page-builder/widgets/iconbox-widget/iconbox-widget.php:33
+msgid "Use your own icon image."
+msgstr ""
+
+#: framework/page-builder/widgets/counter-widget/counter-widget.php:47
+msgid "Number (To count to)"
+msgstr ""
+
+#: framework/page-builder/widgets/counter-widget/counter-widget.php:51
+msgid "Number Color"
+msgstr ""
+
+#: framework/page-builder/widgets/counter-widget/counter-widget.php:56
+msgid "Text to show below number"
+msgstr ""
+
+#: framework/page-builder/widgets/counter-widget/counter-widget.php:60
+msgid "Text Color"
+msgstr ""
+
+#: framework/page-builder/widgets/custom-grid-list-widget/custom-grid-list-widget.php:15
+msgid "imithemes - Custom Grid/List Widget"
+msgstr ""
+
+#: framework/page-builder/widgets/custom-grid-list-widget/custom-grid-list-widget.php:17
+msgid "A widget to show custom content in Grid/List style"
+msgstr ""
+
+#: framework/page-builder/widgets/custom-grid-list-widget/custom-grid-list-widget.php:32
+msgid "Title Alignment"
+msgstr ""
+
+#: framework/page-builder/widgets/custom-grid-list-widget/custom-grid-list-widget.php:41
+msgid "Title URL"
+msgstr ""
+
+#: framework/page-builder/widgets/custom-grid-list-widget/custom-grid-list-widget.php:45
+msgid "Sub Title"
+msgstr ""
+
+#: framework/page-builder/widgets/custom-grid-list-widget/custom-grid-list-widget.php:50
+msgid "Sub Title Alignment"
+msgstr ""
+
+#: framework/page-builder/widgets/custom-grid-list-widget/custom-grid-list-widget.php:59
+msgid "Sub Title URL"
+msgstr ""
+
+#: framework/page-builder/widgets/custom-grid-list-widget/custom-grid-list-widget.php:63
+#: framework/page-builder/widgets/featured-block-widget/featured-block-widget.php:27
+msgid "Image file"
+msgstr ""
+
+#: framework/page-builder/widgets/custom-grid-list-widget/custom-grid-list-widget.php:70
+#: framework/page-builder/widgets/featured-block-widget/featured-block-widget.php:34
+msgid "Image size"
+msgstr ""
+
+#: framework/page-builder/widgets/custom-grid-list-widget/custom-grid-list-widget.php:72
+#: framework/page-builder/widgets/featured-block-widget/featured-block-widget.php:36
+msgid "Full"
+msgstr ""
+
+#: framework/page-builder/widgets/custom-grid-list-widget/custom-grid-list-widget.php:73
+#: framework/page-builder/widgets/featured-block-widget/featured-block-widget.php:37
+msgid "Large"
+msgstr ""
+
+#: framework/page-builder/widgets/custom-grid-list-widget/custom-grid-list-widget.php:74
+#: framework/page-builder/widgets/featured-block-widget/featured-block-widget.php:38
+msgid "Medium"
+msgstr ""
+
+#: framework/page-builder/widgets/custom-grid-list-widget/custom-grid-list-widget.php:75
+#: framework/page-builder/widgets/featured-block-widget/featured-block-widget.php:39
+msgid "Thumbnail"
+msgstr ""
+
+#: framework/page-builder/widgets/custom-grid-list-widget/custom-grid-list-widget.php:81
+msgid "Open full size image in lighbox"
+msgstr ""
+
+#: framework/page-builder/widgets/custom-grid-list-widget/custom-grid-list-widget.php:89
+msgid "Footer text"
+msgstr ""
+
+#: framework/page-builder/widgets/custom-grid-list-widget/custom-grid-list-widget.php:94
+msgid ""
+"Read More button text, Leave blank to hide button - Default is Read More "
+"will be linked to URL that is for Title URL"
+msgstr ""
+
+#: framework/page-builder/widgets/events-list-widget/events-list-widget.php:15
+msgid "imithemes - Events List/Grid Widget"
+msgstr ""
+
+#: framework/page-builder/widgets/events-list-widget/events-list-widget.php:17
+msgid "A widget to show special events list/grid view."
+msgstr ""
+
+#: framework/page-builder/widgets/events-list-widget/events-list-widget.php:46
+#: framework/page-builder/widgets/upcoming-events-widget/upcoming-events-widget.php:46
+msgid "Categories (Enter comma separated events category slugs)"
+msgstr ""
+
+#: framework/page-builder/widgets/events-list-widget/events-list-widget.php:51
+msgid "Event Type"
+msgstr ""
+
+#: framework/page-builder/widgets/events-list-widget/events-list-widget.php:53
+msgid "Future Events"
+msgstr ""
+
+#: framework/page-builder/widgets/events-list-widget/events-list-widget.php:54
+msgid "Past Events"
+msgstr ""
+
+#: framework/page-builder/widgets/events-list-widget/events-list-widget.php:60
+msgid "Order"
+msgstr ""
+
+#: framework/page-builder/widgets/events-list-widget/events-list-widget.php:68
+#: framework/page-builder/widgets/exhibitions-list-widget/exhibitions-list-widget.php:59
+msgid "Number of events to show per page"
+msgstr ""
+
+#: framework/page-builder/widgets/events-list-widget/events-list-widget.php:77
+msgid ""
+"Show pagination for events per page? This will work on separate pages only "
+"and not on homepages."
+msgstr ""
+
+#: framework/page-builder/widgets/events-list-widget/events-list-widget.php:82
+msgid "Show post meta like event date/time, venue?"
+msgstr ""
+
+#: framework/page-builder/widgets/events-list-widget/events-list-widget.php:92
+#: framework/page-builder/widgets/exhibitions-list-widget/exhibitions-list-widget.php:83
+msgid ""
+"Full details button text, Leave blank to hide button - Default is Details"
+msgstr ""
+
+#: framework/page-builder/widgets/events-list-widget/tpl/grid-view.php:38
+msgid "Upcoming"
+msgstr ""
+
+#: framework/page-builder/widgets/events-list-widget/tpl/grid-view.php:47
+#: framework/page-builder/widgets/exhibitions-list-widget/exhibitions-list-widget.php:54
+msgid "Past"
+msgstr ""
+
+#: framework/page-builder/widgets/exhibitions-list-widget/exhibitions-list-widget.php:15
+msgid "imithemes - Exhibitions List/Grid Widget"
+msgstr ""
+
+#: framework/page-builder/widgets/exhibitions-list-widget/exhibitions-list-widget.php:17
+msgid "A widget to show Exhibitions list/grid view."
+msgstr ""
+
+#: framework/page-builder/widgets/exhibitions-list-widget/exhibitions-list-widget.php:46
+#: framework/page-builder/widgets/upcoming-exhibitions-widget/upcoming-exhibitions-widget.php:36
+msgid "Categories (Enter comma separated exhibitions category slugs)"
+msgstr ""
+
+#: framework/page-builder/widgets/exhibitions-list-widget/exhibitions-list-widget.php:51
+msgid "Exhibition Status"
+msgstr ""
+
+#: framework/page-builder/widgets/exhibitions-list-widget/exhibitions-list-widget.php:53
+msgid "Future"
+msgstr ""
+
+#: framework/page-builder/widgets/exhibitions-list-widget/exhibitions-list-widget.php:68
+msgid ""
+"Show pagination for exhibitions per page? This will work on separate pages "
+"only and not on homepage."
+msgstr ""
+
+#: framework/page-builder/widgets/exhibitions-list-widget/exhibitions-list-widget.php:73
+msgid "Show post meta like exhibitions date/time, venue?"
+msgstr ""
+
+#: framework/page-builder/widgets/exhibitions-list-widget/tpl/list-view.php:100
+#: framework/page-builder/widgets/exhibitions-list-widget/tpl/list-view.php:175
+#: taxonomy-exhibition-category.php:98 taxonomy-exhibition-tag.php:98
+msgid "Members Free"
+msgstr ""
+
+#: framework/page-builder/widgets/featured-block-widget/featured-block-widget.php:15
+msgid "imithemes - Featured Block Widget"
+msgstr ""
+
+#: framework/page-builder/widgets/featured-block-widget/featured-block-widget.php:17
+msgid "A widget to show featured block to redirect users to some page."
+msgstr ""
+
+#: framework/page-builder/widgets/featured-block-widget/featured-block-widget.php:45
+msgid "Title text"
+msgstr ""
+
+#: framework/page-builder/widgets/featured-block-widget/featured-block-widget.php:49
+msgid "Featured Box Text"
+msgstr ""
+
+#: framework/page-builder/widgets/featured-block-widget/featured-block-widget.php:53
+msgid "Featured Box Link Text"
+msgstr ""
+
+#: framework/page-builder/widgets/featured-block-widget/featured-block-widget.php:57
+msgid "Destination URL"
+msgstr ""
+
+#: framework/page-builder/widgets/featured-block-widget/featured-block-widget.php:62
+#: framework/page-builder/widgets/iconbox-widget/iconbox-widget.php:54
+msgid "Open in new window"
+msgstr ""
+
+#: framework/page-builder/widgets/featured-block-widget/featured-block-widget.php:67
+msgid "Zoom Hover Effect on Images"
+msgstr ""
+
+#: framework/page-builder/widgets/featured-block-widget/featured-block-widget.php:73
+msgid "Bound"
+msgstr ""
+
+#: framework/page-builder/widgets/featured-block-widget/featured-block-widget.php:74
+msgid "Make sure the image doesn't extend beyond its container."
+msgstr ""
+
+#: framework/page-builder/widgets/featured-block-widget/featured-block-widget.php:79
+msgid "Full Width"
+msgstr ""
+
+#: framework/page-builder/widgets/featured-block-widget/featured-block-widget.php:80
+msgid "Resize image to fit its container."
+msgstr ""
+
+#: framework/page-builder/widgets/gallery-grid-widget/gallery-grid-widget.php:15
+msgid "imithemes - Gallery Grid Widget"
+msgstr ""
+
+#: framework/page-builder/widgets/gallery-grid-widget/gallery-grid-widget.php:17
+msgid "A widget to show Gallery items grid view."
+msgstr ""
+
+#: framework/page-builder/widgets/gallery-grid-widget/gallery-grid-widget.php:47
+msgid "Categories (Enter comma separated gallery category slugs)"
+msgstr ""
+
+#: framework/page-builder/widgets/gallery-grid-widget/gallery-grid-widget.php:51
+msgid "Number of Gallery Items to show"
+msgstr ""
+
+#: framework/page-builder/widgets/gallery-grid-widget/gallery-grid-widget.php:60
+#: framework/page-builder/widgets/posts-list-widget/posts-list-widget.php:59
+msgid ""
+"Show pagination for posts per page? This will work on separate pages only "
+"and not on homepages."
+msgstr ""
+
+#: framework/page-builder/widgets/gallery-grid-widget/gallery-grid-widget.php:65
+msgid "Show gallery item titles"
+msgstr ""
+
+#: framework/page-builder/widgets/gallery-grid-widget/gallery-grid-widget.php:70
+msgid "Show categories filter"
+msgstr ""
+
+#: framework/page-builder/widgets/gallery-grid-widget/gallery-grid-widget.php:81
+msgid "Choose Column"
+msgstr ""
+
+#: framework/page-builder/widgets/gallery-grid-widget/gallery-grid-widget.php:90
+#: framework/page-builder/widgets/team-widget/team-widget.php:80
+msgid "Show as carousel"
+msgstr ""
+
+#: framework/page-builder/widgets/gallery-grid-widget/tpl/grid-view.php:35
+msgid "Show All"
+msgstr ""
+
+#: framework/page-builder/widgets/hr-widget/hr-widget.php:15
+msgid "imithemes - Horizontal Line Widget"
+msgstr ""
+
+#: framework/page-builder/widgets/hr-widget/hr-widget.php:17
+msgid "A widget to add full width horizontal line"
+msgstr ""
+
+#: framework/page-builder/widgets/hr-widget/hr-widget.php:28
+msgid "Border width. Example: 1px"
+msgstr ""
+
+#: framework/page-builder/widgets/hr-widget/hr-widget.php:32
+msgid "Border color"
+msgstr ""
+
+#: framework/page-builder/widgets/hr-widget/hr-widget.php:38
+msgid "Margin from Top. Example: 30px"
+msgstr ""
+
+#: framework/page-builder/widgets/hr-widget/hr-widget.php:43
+msgid "Margin from Bottom. Example: 30px"
+msgstr ""
+
+#: framework/page-builder/widgets/iconbox-widget/iconbox-widget.php:15
+msgid "imithemes - Icon Box Widget"
+msgstr ""
+
+#: framework/page-builder/widgets/iconbox-widget/iconbox-widget.php:17
+msgid "A widget for multiple type Icon Box Styles"
+msgstr ""
+
+#: framework/page-builder/widgets/iconbox-widget/iconbox-widget.php:37
+msgid "Icon Box Title"
+msgstr ""
+
+#: framework/page-builder/widgets/iconbox-widget/iconbox-widget.php:38
+msgid "Enter Icon Box Title"
+msgstr ""
+
+#: framework/page-builder/widgets/iconbox-widget/iconbox-widget.php:43
+msgid "Icon Box Content"
+msgstr ""
+
+#: framework/page-builder/widgets/iconbox-widget/iconbox-widget.php:44
+msgid "Enter Icon Box Content"
+msgstr ""
+
+#: framework/page-builder/widgets/iconbox-widget/iconbox-widget.php:49
+msgid "Icon Box Destination URL"
+msgstr ""
+
+#: framework/page-builder/widgets/iconbox-widget/iconbox-widget.php:59
+msgid "Icon Box Align"
+msgstr ""
+
+#: framework/page-builder/widgets/iconbox-widget/iconbox-widget.php:60
+msgid "Choose Alignment"
+msgstr ""
+
+#: framework/page-builder/widgets/iconbox-widget/iconbox-widget.php:62
+msgid "Default(Left)"
+msgstr ""
+
+#: framework/page-builder/widgets/iconbox-widget/iconbox-widget.php:63
+msgid "Centered"
+msgstr ""
+
+#: framework/page-builder/widgets/iconbox-widget/iconbox-widget.php:69
+msgid "Icon Box Type"
+msgstr ""
+
+#: framework/page-builder/widgets/iconbox-widget/iconbox-widget.php:70
+#: framework/page-builder/widgets/toggle-widget/toggle-widget.php:57
+#: framework/page-builder/widgets/toggle-widget/toggle-widget.php:58
+msgid "Choose Type"
+msgstr ""
+
+#: framework/page-builder/widgets/iconbox-widget/iconbox-widget.php:73
+msgid "Outline"
+msgstr ""
+
+#: framework/page-builder/widgets/iconbox-widget/iconbox-widget.php:74
+msgid "Thin Border"
+msgstr ""
+
+#: framework/page-builder/widgets/iconbox-widget/iconbox-widget.php:75
+msgid "Plain"
+msgstr ""
+
+#: framework/page-builder/widgets/iconbox-widget/iconbox-widget.php:81
+msgid "Icon Box Theme"
+msgstr ""
+
+#: framework/page-builder/widgets/iconbox-widget/iconbox-widget.php:82
+msgid "Choose Theme"
+msgstr ""
+
+#: framework/page-builder/widgets/iconbox-widget/iconbox-widget.php:85
+msgid "Light"
+msgstr ""
+
+#: framework/page-builder/widgets/iconbox-widget/iconbox-widget.php:86
+msgid "Dark"
+msgstr ""
+
+#: framework/page-builder/widgets/iconbox-widget/iconbox-widget.php:92
+msgid "Icon Box Style"
+msgstr ""
+
+#: framework/page-builder/widgets/iconbox-widget/iconbox-widget.php:93
+msgid "Choose Style"
+msgstr ""
+
+#: framework/page-builder/widgets/iconbox-widget/iconbox-widget.php:95
+msgid "Default(Circle)"
+msgstr ""
+
+#: framework/page-builder/widgets/iconbox-widget/iconbox-widget.php:101
+msgid "Custom background & border color"
+msgstr ""
+
+#: framework/page-builder/widgets/iconbox-widget/iconbox-widget.php:106
+msgid "Custom icon color"
+msgstr ""
+
+#: framework/page-builder/widgets/posts-list-widget/posts-list-widget.php:15
+msgid "imithemes - Posts List/Grid Widget"
+msgstr ""
+
+#: framework/page-builder/widgets/posts-list-widget/posts-list-widget.php:17
+msgid "A widget to show posts list/grid view."
+msgstr ""
+
+#: framework/page-builder/widgets/posts-list-widget/posts-list-widget.php:46
+msgid "Categories (Enter comma separated post category slugs)"
+msgstr ""
+
+#: framework/page-builder/widgets/posts-list-widget/posts-list-widget.php:50
+msgid "Number of Posts to show per page"
+msgstr ""
+
+#: framework/page-builder/widgets/posts-list-widget/posts-list-widget.php:64
+msgid "Show post meta like post date, author, categories, comments?"
+msgstr ""
+
+#: framework/page-builder/widgets/progressbar-widget/progressbar-widget.php:15
+msgid "imithemes - Progress Bar Widget"
+msgstr ""
+
+#: framework/page-builder/widgets/progressbar-widget/progressbar-widget.php:17
+msgid "A widget to add Progress bar to your pages."
+msgstr ""
+
+#: framework/page-builder/widgets/progressbar-widget/progressbar-widget.php:28
+msgid "Title to show above the progress bar."
+msgstr ""
+
+#: framework/page-builder/widgets/progressbar-widget/progressbar-widget.php:33
+msgid "Progress Percentile"
+msgstr ""
+
+#: framework/page-builder/widgets/progressbar-widget/progressbar-widget.php:34
+msgid "Enter the progress percentile without %. For ex: 90"
+msgstr ""
+
+#: framework/page-builder/widgets/progressbar-widget/progressbar-widget.php:44
+msgid "Primary"
+msgstr ""
+
+#: framework/page-builder/widgets/progressbar-widget/progressbar-widget.php:47
+msgid "Danger"
+msgstr ""
+
+#: framework/page-builder/widgets/progressbar-widget/progressbar-widget.php:53
+msgid "Custom progress bar color"
+msgstr ""
+
+#: framework/page-builder/widgets/progressbar-widget/progressbar-widget.php:58
+msgid "Use stripped background animation"
+msgstr ""
+
+#: framework/page-builder/widgets/progressbar-widget/progressbar-widget.php:63
+msgid "Show progress percentile tooltip"
+msgstr ""
+
+#: framework/page-builder/widgets/progressbar-widget/progressbar-widget.php:69
+msgid "Delay animation"
+msgstr ""
+
+#: framework/page-builder/widgets/progressbar-widget/progressbar-widget.php:70
+msgid ""
+"Enter the delay animation time. 100 means 1 sec. Leave blank for no animation"
+msgstr ""
+
+#: framework/page-builder/widgets/skewed-title-widget/skewed-title-widget.php:15
+msgid "imithemes - Skewed Title Widget"
+msgstr ""
+
+#: framework/page-builder/widgets/skewed-title-widget/skewed-title-widget.php:17
+msgid "A widget to add a skewed title bar"
+msgstr ""
+
+#: framework/page-builder/widgets/skewed-title-widget/skewed-title-widget.php:28
+msgid "Enter title"
+msgstr ""
+
+#: framework/page-builder/widgets/skewed-title-widget/skewed-title-widget.php:32
+msgid "Custom background color for title"
+msgstr ""
+
+#: framework/page-builder/widgets/skewed-title-widget/skewed-title-widget.php:37
+msgid "Custom text color for title"
+msgstr ""
+
+#: framework/page-builder/widgets/spacer-widget/spacer-widget.php:15
+msgid "imithemes - Spacer Widget"
+msgstr ""
+
+#: framework/page-builder/widgets/spacer-widget/spacer-widget.php:17
+msgid "A widget to add blank spaces in between widgets."
+msgstr ""
+
+#: framework/page-builder/widgets/spacer-widget/spacer-widget.php:28
+msgid "Spacer height in pixels. Example: 30px"
+msgstr ""
+
+#: framework/page-builder/widgets/tabs-widget/tabs-widget.php:15
+msgid "imithemes - Tabs Widget"
+msgstr ""
+
+#: framework/page-builder/widgets/tabs-widget/tabs-widget.php:17
+msgid "A widget to add tabs to your pages."
+msgstr ""
+
+#: framework/page-builder/widgets/tabs-widget/tabs-widget.php:27
+msgid "Tabs ID"
+msgstr ""
+
+#: framework/page-builder/widgets/tabs-widget/tabs-widget.php:28
+msgid "Numeric only. Keep it unique if adding multiple tabs in a single page."
+msgstr ""
+
+#: framework/page-builder/widgets/tabs-widget/tabs-widget.php:33
+msgid "Tabs"
+msgstr ""
+
+#: framework/page-builder/widgets/tabs-widget/tabs-widget.php:34
+msgid "Tab"
+msgstr ""
+
+#: framework/page-builder/widgets/tabs-widget/tabs-widget.php:44
+msgid "Tab title"
+msgstr ""
+
+#: framework/page-builder/widgets/tabs-widget/tabs-widget.php:49
+msgid "Tab Content"
+msgstr ""
+
+#: framework/page-builder/widgets/tabs-widget/tabs-widget.php:57
+msgid "Choose View"
+msgstr ""
+
+#: framework/page-builder/widgets/tabs-widget/tabs-widget.php:58
+msgid "Choose Display Style"
+msgstr ""
+
+#: framework/page-builder/widgets/tabs-widget/tabs-widget.php:60
+msgid "Horizontal"
+msgstr ""
+
+#: framework/page-builder/widgets/tabs-widget/tabs-widget.php:61
+msgid "Vertical"
+msgstr ""
+
+#: framework/page-builder/widgets/team-widget/team-widget.php:15
+msgid "imithemes - Team Widget"
+msgstr ""
+
+#: framework/page-builder/widgets/team-widget/team-widget.php:17
+msgid "A widget to show team/staff members in a grid or carousel"
+msgstr ""
+
+#: framework/page-builder/widgets/team-widget/team-widget.php:47
+msgid "Categories (Enter comma separated team category slugs)"
+msgstr ""
+
+#: framework/page-builder/widgets/team-widget/team-widget.php:51
+msgid "Number of team members to show"
+msgstr ""
+
+#: framework/page-builder/widgets/team-widget/team-widget.php:59
+msgid "Link thumbnail and title to single team page"
+msgstr ""
+
+#: framework/page-builder/widgets/testimonials-widget/testimonials-widget.php:15
+msgid "imithemes - Testimonials Widget"
+msgstr ""
+
+#: framework/page-builder/widgets/testimonials-widget/testimonials-widget.php:17
+msgid "A widget to show testimonials carousel"
+msgstr ""
+
+#: framework/page-builder/widgets/testimonials-widget/testimonials-widget.php:47
+msgid "Categories (Enter comma separated testimonial category slugs)"
+msgstr ""
+
+#: framework/page-builder/widgets/testimonials-widget/testimonials-widget.php:52
+msgid "Number of testimonials to show"
+msgstr ""
+
+#: framework/page-builder/widgets/toggle-widget/toggle-widget.php:15
+msgid "imithemes - Toggle/Accordion Widget"
+msgstr ""
+
+#: framework/page-builder/widgets/toggle-widget/toggle-widget.php:17
+msgid "A widget to add Toggle/Accordion to your pages."
+msgstr ""
+
+#: framework/page-builder/widgets/toggle-widget/toggle-widget.php:27
+msgid "Toggle Name"
+msgstr ""
+
+#: framework/page-builder/widgets/toggle-widget/toggle-widget.php:28
+msgid ""
+"Keep it unique if adding multiple tabs in a single page.(No spaces in name)"
+msgstr ""
+
+#: framework/page-builder/widgets/toggle-widget/toggle-widget.php:33
+#: framework/page-builder/widgets/toggle-widget/toggle-widget.php:60
+msgid "Toggles"
+msgstr ""
+
+#: framework/page-builder/widgets/toggle-widget/toggle-widget.php:34
+msgid "Toggle"
+msgstr ""
+
+#: framework/page-builder/widgets/toggle-widget/toggle-widget.php:44
+msgid "Toggle title"
+msgstr ""
+
+#: framework/page-builder/widgets/toggle-widget/toggle-widget.php:49
+msgid "Toggle Content"
+msgstr ""
+
+#: framework/page-builder/widgets/toggle-widget/toggle-widget.php:61
+msgid "Accordions"
+msgstr ""
+
+#: framework/page-builder/widgets/upcoming-events-widget/tpl/template.php:46
+#: framework/page-builder/widgets/upcoming-events-widget/tpl/template.php:57
+msgid "View details"
+msgstr ""
+
+#: framework/page-builder/widgets/upcoming-events-widget/upcoming-events-widget.php:15
+msgid "imithemes - Upcoming Events Widget"
+msgstr ""
+
+#: framework/page-builder/widgets/upcoming-events-widget/upcoming-events-widget.php:17
+msgid "A widget to show upcoming events."
+msgstr ""
+
+#: framework/page-builder/widgets/upcoming-events-widget/upcoming-events-widget.php:50
+msgid "Number of events to show"
+msgstr ""
+
+#: framework/page-builder/widgets/upcoming-exhibitions-widget/tpl/template.php:42
+msgid "Now Open"
+msgstr ""
+
+#: framework/page-builder/widgets/upcoming-exhibitions-widget/upcoming-exhibitions-widget.php:15
+msgid "imithemes - Upcoming Exhibitions Widget"
+msgstr ""
+
+#: framework/page-builder/widgets/upcoming-exhibitions-widget/upcoming-exhibitions-widget.php:17
+msgid "A widget to show upcoming exhibitions."
+msgstr ""
+
+#: framework/page-builder/widgets/upcoming-exhibitions-widget/upcoming-exhibitions-widget.php:40
+msgid "Show exhibitions for how many days"
+msgstr ""
+
+#: framework/page-builder/widgets/venues-widget/venues-widget.php:15
+msgid "imithemes - Venues Widget"
+msgstr ""
+
+#: framework/page-builder/widgets/venues-widget/venues-widget.php:17
+msgid "A widget to show Venues Taxonomy in list/grid/carousel layout"
+msgstr ""
+
+#: framework/page-builder/widgets/venues-widget/venues-widget.php:47
+msgid "Number of venues to show"
+msgstr ""
+
+#: framework/page-builder/widgets/venues-widget/venues-widget.php:55
+msgid "Include Venues"
+msgstr ""
+
+#: framework/page-builder/widgets/venues-widget/venues-widget.php:56
+msgid ""
+"Venue taxonomy IDs can be inserted in this field to show some selected "
+"venues only. See a little guide here: https://a.cl.ly/X6uzB80n about how to "
+"get the IDs for your venues category/taxonomy."
+msgstr ""
+
+#: framework/page-builder/widgets/venues-widget/venues-widget.php:60
+msgid "Exclude Venues"
+msgstr ""
+
+#: framework/page-builder/widgets/venues-widget/venues-widget.php:61
+msgid ""
+"Venue taxonomy IDs can be inserted in this field to hide some selected "
+"venues. See a little guide here: https://a.cl.ly/X6uzB80n about how to get "
+"the IDs for your venues category/taxonomy. If include field is non-empty, "
+"exclude is ignored"
+msgstr ""
+
+#: framework/page-builder/widgets/venues-widget/venues-widget.php:65
+msgid "Order venues by"
+msgstr ""
+
+#: framework/page-builder/widgets/venues-widget/venues-widget.php:77
+msgid "Venues Order"
+msgstr ""
+
+#: framework/page-builder/widgets/venues-widget/venues-widget.php:87
+msgid "Shuffle Venues"
+msgstr ""
+
+#: framework/page-builder/widgets/venues-widget/venues-widget.php:88
+msgid "Shuffle venues list/grid every time page is loaded or refreshed."
+msgstr ""
+
+#: framework/page-builder/widgets/venues-widget/venues-widget.php:93
+msgid ""
+"Show Venue description excerpt. Enter the number of words to show, leave "
+"blank to not show. Default value is: 25"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:343
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:349
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:355
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:361
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:367
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:373
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:378
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:383
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:388
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:393
+#: framework/tgm/class-tgm-plugin-activation.php:914
+#: framework/tgm/class-tgm-plugin-activation.php:2628
+#: framework/tgm/class-tgm-plugin-activation.php:3678
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:394
+#: framework/tgm/class-tgm-plugin-activation.php:3257
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:395
+#: framework/tgm/class-tgm-plugin-activation.php:3050
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:1021
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:1021
+#: framework/tgm/class-tgm-plugin-activation.php:1024
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:1024
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:1208
+#: framework/tgm/class-tgm-plugin-activation.php:3046
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2069
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2360
+msgid "Required"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2363
+msgid "Recommended"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2379
+msgid "WordPress Repository"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2382
+msgid "External Source"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2385
+msgid "Pre-Packaged"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2402
+msgid "Not Installed"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2406
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2408
+msgid "Active"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2414
+msgid "Required Update not Available"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2417
+msgid "Requires Update"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2420
+msgid "Update recommended"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2429
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2475
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2479
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2483
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2487
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2577
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2585
+msgid "Installed version:"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2593
+msgid "Minimum required version:"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2605
+msgid "Available version:"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2628
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2642
+msgid "Plugin"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2643
+msgid "Source"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2644 single-event.php:284
+#: single-exhibition.php:318
+msgid "Type"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2648
+msgid "Version"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2649
+msgid "Status"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2699
+#: framework/tgm/class-tgm-plugin-activation.php:2712
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2704
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2706
+#, php-format
+msgid "Deactivate %2$s"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2782
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2815
+msgid "Install"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2821
+msgid "Update"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2824
+msgid "Activate"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2855
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2857
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2898
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:2900
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:3006
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:3032
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:3256
+msgid "Plugin activation failed."
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:3596
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:3599
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:3601
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:3605
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:3607
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:3607
+#: framework/tgm/class-tgm-plugin-activation.php:3615
+msgid "Show Details"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:3607
+#: framework/tgm/class-tgm-plugin-activation.php:3615
+msgid "Hide Details"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:3608
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:3610
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:3613
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:3615
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:3616
+msgid "All installations have been completed."
+msgstr ""
+
+#: framework/tgm/class-tgm-plugin-activation.php:3618
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: framework/tgm/plugin-includes.php:10
+msgid "Breadcrumb NavXT"
+msgstr ""
+
+#: framework/tgm/plugin-includes.php:17
+msgid "Pojo Sidebars"
+msgstr ""
+
+#: framework/tgm/plugin-includes.php:24
+msgid "The GDPR Framework"
+msgstr ""
+
+#: framework/tgm/plugin-includes.php:30
+msgid "Loco Translate"
+msgstr ""
+
+#: framework/tgm/plugin-includes.php:36
+msgid "WooCommerce"
+msgstr ""
+
+#: framework/tgm/plugin-includes.php:42
+msgid "Contact Form 7"
+msgstr ""
+
+#: framework/tgm/plugin-includes.php:49
+msgid "Simple Twitter Tweets"
+msgstr ""
+
+#: framework/tgm/plugin-includes.php:55
+msgid "Give - WordPress Donation Plugin"
+msgstr ""
+
+#: framework/tgm/plugin-includes.php:61
+msgid "Regenerate Thumbnails"
+msgstr ""
+
+#: framework/tgm/plugin-includes.php:67
+msgid "Page Builder by SiteOrigin"
+msgstr ""
+
+#: framework/tgm/plugin-includes.php:74
+msgid "SiteOrigin Widgets Bundle"
+msgstr ""
+
+#: framework/tgm/plugin-includes.php:81
+msgid "Black Studio TinyMCE Widget"
+msgstr ""
+
+#: framework/tgm/plugin-includes.php:88
+msgid "Best Contact Forms"
+msgstr ""
+
+#: framework/tgm/plugin-includes.php:106
+msgid "A Core Plugin"
+msgstr ""
+
+#: framework/theme-functions.php:84
+msgid "We are currently in maintenance mode, please check back shortly."
+msgstr ""
+
+#: framework/theme-functions.php:84
+msgid "Maintenance Mode"
+msgstr ""
+
+#: framework/theme-functions.php:340
+msgid "Post Sidebar"
+msgstr ""
+
+#: framework/theme-functions.php:350
+msgid "Page Sidebar"
+msgstr ""
+
+#: framework/theme-functions.php:360
+msgid "Event Sidebar"
+msgstr ""
+
+#: framework/theme-functions.php:370
+msgid "Product Sidebar"
+msgstr ""
+
+#: framework/theme-functions.php:380
+msgid "Footer Widgets"
+msgstr ""
+
+#: framework/theme-functions.php:422
+msgid "Event"
+msgstr ""
+
+#: framework/theme-functions.php:989
+msgid "Select Sidebar"
+msgstr ""
+
+#: framework/theme-functions.php:996
+msgid ""
+"Select Sidebar from list, if using page builder then please add sidebar from "
+"element only."
+msgstr ""
+
+#: framework/theme-functions.php:1003
+msgid "This will not dishonour page sidebar chosen at Theme Options as well."
+msgstr ""
+
+#: framework/theme-functions.php:1010
+msgid "Select Sidebar Postion"
+msgstr ""
+
+#: framework/theme-functions.php:1019
+msgid "Columns Layout"
+msgstr ""
+
+#: framework/theme-functions.php:1021
+msgid "Select Columns Layout ."
+msgstr ""
+
+#: framework/theme-functions.php:1024
+msgid "One Fourth"
+msgstr ""
+
+#: framework/theme-functions.php:1025
+msgid "One Third"
+msgstr ""
+
+#: framework/theme-functions.php:1026
+msgid "Half"
+msgstr ""
+
+#: framework/theme-functions.php:1112 framework/theme-functions.php:1115
+#: framework/theme-functions.php:1118 framework/theme-functions.php:1123
+#: framework/theme-functions.php:1126 framework/theme-functions.php:1129
+msgid "Share"
+msgstr ""
+
+#: functions.php:49
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:203
+msgid " says"
+msgstr ""
+
+#: functions.php:208
+msgid " at "
+msgstr ""
+
+#: index.php:64 search.php:61
+msgid "Continue reading"
+msgstr ""
+
+#: pages-banner.php:26
+msgid "Special Events"
+msgstr ""
+
+#: pages-banner.php:27
+msgid "Blog"
+msgstr ""
+
+#: pages-banner.php:29
+msgid "Team"
+msgstr ""
+
+#: pages-banner.php:30
+msgid "Artworks"
+msgstr ""
+
+#: pages-banner.php:31
+msgid "Products"
+msgstr ""
+
+#: pages-flex.php:35
+msgid "See details"
+msgstr ""
+
+#: search.php:15
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: search.php:71
+msgid "No Posts to display"
+msgstr ""
+
+#: searchform.php:3
+msgid "Search Posts..."
+msgstr ""
+
+#: single-artwork.php:149
+msgid "About the artist"
+msgstr ""
+
+#: single-artwork.php:164
+msgid "More items from artist"
+msgstr ""
+
+#: single-artwork.php:210
+msgid "No more work to show"
+msgstr ""
+
+#: single-artwork.php:221
+msgid "&larr; Previous"
+msgstr ""
+
+#: single-artwork.php:222
+msgid "Next &rarr;"
+msgstr ""
+
+#: single-event.php:5 single-exhibition.php:5
+msgid "You must enter your name"
+msgstr ""
+
+#: single-event.php:6 single-exhibition.php:6
+msgid "You must enter your email"
+msgstr ""
+
+#: single-event.php:7
+msgid "Sending Information to Event Manager..."
+msgstr ""
+
+#: single-event.php:8 single-exhibition.php:8
+msgid "Please select tickets"
+msgstr ""
+
+#: single-event.php:133 single-exhibition.php:140
+msgid "Venue"
+msgstr ""
+
+#: single-event.php:136 single-exhibition.php:143
+msgid "Gallery"
+msgstr ""
+
+#: single-event.php:178 single-exhibition.php:192
+msgid "Learn more"
+msgstr ""
+
+#: single-event.php:234 single-event.php:338 single-exhibition.php:248
+#: single-exhibition.php:376
+msgid "Register"
+msgstr ""
+
+#: single-event.php:234 single-event.php:340 single-exhibition.php:248
+#: single-exhibition.php:378
+msgid "Proceed to Paypal"
+msgstr ""
+
+#: single-event.php:244
+msgid "Register for Event: "
+msgstr ""
+
+#: single-event.php:254 single-exhibition.php:268
+msgid "First name"
+msgstr ""
+
+#: single-event.php:259 single-exhibition.php:273
+msgid "Last name"
+msgstr ""
+
+#: single-event.php:267 single-exhibition.php:281
+msgid "Your phone"
+msgstr ""
+
+#: single-event.php:273 single-exhibition.php:287
+msgid "Your Address"
+msgstr ""
+
+#: single-event.php:276 single-exhibition.php:290
+msgid "Additional Notes"
+msgstr ""
+
+#: single-event.php:285 single-exhibition.php:319
+msgid "Available "
+msgstr ""
+
+#: single-event.php:287 single-exhibition.php:321
+msgid "Quantity"
+msgstr ""
+
+#: single-event.php:288 single-exhibition.php:322
+msgid "Total"
+msgstr ""
+
+#: single-event.php:300 single-exhibition.php:336
+msgid "Free"
+msgstr ""
+
+#: single-event.php:312 single-exhibition.php:348
+msgid "All Tickets Booked"
+msgstr ""
+
+#: single-event.php:350 single-exhibition.php:388
+msgid "Make sure to copy Registration number after successful submission."
+msgstr ""
+
+#: single-event.php:363 single-exhibition.php:401
+msgid "Registered Successfully"
+msgstr ""
+
+#: single-event.php:367 single-exhibition.php:405
+msgid "Thanks"
+msgstr ""
+
+#: single-event.php:369 single-exhibition.php:407
+msgid "Thank you for payment."
+msgstr ""
+
+#: single-event.php:370 single-exhibition.php:408
+msgid "Your payment is verified online."
+msgstr ""
+
+#: single-event.php:372 single-exhibition.php:410
+msgid "Your payment status showing payment "
+msgstr ""
+
+#: single-event.php:377 single-exhibition.php:415
+msgid "Find Ticket"
+msgstr ""
+
+#: single-exhibition.php:7
+msgid "Sending Information to Exhibition Manager..."
+msgstr ""
+
+#: single-exhibition.php:258
+msgid "Register for Exhibition: "
+msgstr ""
+
+#: single-exhibition.php:293
+msgid "Choose time: "
+msgstr ""
+
+#: single-exhibition.php:297
+msgid "Choose Date: "
+msgstr ""
+
+#: single-exhibition.php:300
+msgid "Select Date"
+msgstr ""
+
+#: single-exhibition.php:354
+msgid "Total: "
+msgstr ""
+
+#: single.php:57
+msgid "No comments yet"
+msgstr ""
+
+#: single.php:57
+msgid "Comments are off for this post"
+msgstr ""
+
+#: single.php:86
+msgid "Author"
+msgstr ""
+
+#: single.php:93
+msgid "&larr; Prev Post"
+msgstr ""
+
+#: single.php:94
+msgid "Next Post &rarr;"
+msgstr ""
+
+#: taxonomy-artwork-artists.php:25
+msgid "Artists"
+msgstr ""
+
+#: taxonomy-artwork-artists.php:56
+msgid "Artist's Artworks"
+msgstr ""
+
+#: taxonomy-venue.php:26
+msgid "Venues"
+msgstr ""
+
+#: taxonomy-venue.php:57
+msgid "Get Directions"
+msgstr ""
+
+#: taxonomy-venue.php:58
+msgid "How to reach"
+msgstr ""
+
+#: taxonomy-venue.php:65
+msgid "Venue Exhibitions"
+msgstr ""
+
+#: taxonomy-venue.php:76
+msgid "Venue Events"
+msgstr ""
+
+#: welcome.php:24
+msgid "Vestige Theme Urgent Message!"
+msgstr ""
+
+#: welcome.php:24
+msgid ""
+"Please install/update the Vestige core plugin now, its mandatory to keep "
+"this plugin always activated to use all features of this theme."
+msgstr ""
+
+#: welcome.php:24
+msgid "Install/Update plugin here"
+msgstr ""
+
+#: welcome.php:44
+msgid "Thanks for using Vestige Theme"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+#: welcome.php:45
+msgid "Vestige"
+msgstr ""
+
+#: welcome.php:45
+msgid ""
+" is now installed and ready to use! Please install/update and activate the "
+"core plugin from below to get all the features of this theme."
+msgstr ""
+
+#: welcome.php:60
+msgid "REQUIRED"
+msgstr ""
+
+#: welcome.php:66 welcome.php:94 welcome.php:99
+msgid "Add core features of theme"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://demo.imithemes.com/vestige-wp"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"<strong>Responsive WordPress Theme designed & developed for Museum, Events, "
+"Charity or Non Profit Websites by imithemes</strong> - <a href=\"http://www."
+"imithemes.com\">www.imithemes.com</a>. Follow us for update notifications:"
+"<br/> <a href='http://twitter.com/imithemes'>Twitter</a><br/> | <a "
+"href='http://www.facebook.com/imithemes'>Facebook</a>"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "imithemes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "www.imithemes.com"
+msgstr ""

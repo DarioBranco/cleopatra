@@ -1,0 +1,12 @@
+{"@context":"http://iiif.io/api/presentation/2/context.json",
+	"@id":"https://iiif.parsec2.unicampania.it/cleopatra/v1/collections/pilots",
+	"@type":"sc:Collection",
+	"label":"Pilot Collection",
+	"metadata":[
+	{"label":"title","value":["Cleopatra Collections"]}],
+	"attribution":"For rights and reproduction information please contact collections@parsec2.unicampania.it",
+	"collections":[{"@id":"https://parsec2.unicampania.it/~cleopatra/manifests/pilot1.json",
+				    "@type":"sc:Collection","label":"Institutions of the Samnites"},
+				   {"@id":"https://iiif.library.utoronto.ca/presentation/v2/collections/samizdat:37_1",
+					"@type":"sc:Collection","label":"Test"}],
+				   "total":2}

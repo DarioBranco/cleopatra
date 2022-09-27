@@ -1,0 +1,617 @@
+{
+  "@context": [
+    "http://www.w3.org/ns/anno.jsonld",
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://parsec2.unicampania.it/cleopatra/cleodemo/montepugliano/index.json",
+  "type": "Manifest",
+  "items": [
+    {
+      "id": "https://parsec2.unicampania.it/cleopatra/cleodemo/montepugliano/index.json/canvas/0",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://parsec2.unicampania.it/cleopatra/cleodemo/montepugliano/index.json/canvas/0/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://parsec2.unicampania.it/cleopatra/cleodemo/montepugliano/index.json/canvas/0/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://parsec2.unicampania.it/cleopatra/cleodemo/montepugliano/_1_map/map.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "label": {
+                  "@none": [
+                    "_1_map"
+                  ]
+                },
+                "width": 5409,
+                "height": 3998
+              },
+              "target": "https://parsec2.unicampania.it/cleopatra/cleodemo/montepugliano/index.json/canvas/0"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "_1_map"
+        ]
+      },
+      "width": 5409,
+      "height": 3998,
+      "thumbnail": [
+        {
+          "id": "https://parsec2.unicampania.it/cleopatra/cleodemo/montepugliano/_1_map/thumb.jpeg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "https://parsec2.unicampania.it/cleopatra/cleodemo/montepugliano/index.json/canvas/1",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://parsec2.unicampania.it/cleopatra/cleodemo/montepugliano/index.json/canvas/1/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://parsec2.unicampania.it/cleopatra/cleodemo/montepugliano/index.json/canvas/1/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://parsec2.unicampania.it/cleopatra/cleodemo/montepugliano/_2_mura/mura.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "label": {
+                  "@none": [
+                    "_2_mura"
+                  ]
+                },
+                "width": 4271,
+                "height": 2678
+              },
+              "target": "https://parsec2.unicampania.it/cleopatra/cleodemo/montepugliano/index.json/canvas/1"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "_2_mura"
+        ]
+      },
+      "width": 4271,
+      "height": 2678,
+      "thumbnail": [
+        {
+          "id": "https://parsec2.unicampania.it/cleopatra/cleodemo/montepugliano/_2_mura/thumb.jpeg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "https://parsec2.unicampania.it/cleopatra/cleodemo/montepugliano/index.json/canvas/2",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://parsec2.unicampania.it/cleopatra/cleodemo/montepugliano/index.json/canvas/2/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://parsec2.unicampania.it/cleopatra/cleodemo/montepugliano/index.json/canvas/2/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://parsec2.unicampania.it/cleopatra/cleodemo/montepugliano/_3_dettaglio_mura/dettaglio_mura.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "label": {
+                  "@none": [
+                    "_3_dettaglio_mura"
+                  ]
+                },
+                "width": 1417,
+                "height": 1065
+              },
+              "target": "https://parsec2.unicampania.it/cleopatra/cleodemo/montepugliano/index.json/canvas/2"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "_3_dettaglio_mura"
+        ]
+      },
+      "width": 1417,
+      "height": 1065,
+      "thumbnail": [
+        {
+          "id": "https://parsec2.unicampania.it/cleopatra/cleodemo/montepugliano/_3_dettaglio_mura/thumb.jpeg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "https://parsec2.unicampania.it/cleopatra/cleodemo/montepugliano/index.json/canvas/3",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://parsec2.unicampania.it/cleopatra/cleodemo/montepugliano/index.json/canvas/3/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://parsec2.unicampania.it/cleopatra/cleodemo/montepugliano/index.json/canvas/3/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://parsec2.unicampania.it/cleopatra/cleodemo/montepugliano/_4_villa/villa.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "label": {
+                  "@none": [
+                    "_4_villa"
+                  ]
+                },
+                "width": 960,
+                "height": 720
+              },
+              "target": "https://parsec2.unicampania.it/cleopatra/cleodemo/montepugliano/index.json/canvas/3"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "_4_villa"
+        ]
+      },
+      "width": 960,
+      "height": 720,
+      "thumbnail": [
+        {
+          "id": "https://parsec2.unicampania.it/cleopatra/cleodemo/montepugliano/_4_villa/thumb.jpeg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "https://parsec2.unicampania.it/cleopatra/cleodemo/montepugliano/index.json/canvas/4",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://parsec2.unicampania.it/cleopatra/cleodemo/montepugliano/index.json/canvas/4/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://parsec2.unicampania.it/cleopatra/cleodemo/montepugliano/index.json/canvas/4/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://parsec2.unicampania.it/cleopatra/cleodemo/montepugliano/_5_villa/villa.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "label": {
+                  "@none": [
+                    "_5_villa"
+                  ]
+                },
+                "width": 960,
+                "height": 720
+              },
+              "target": "https://parsec2.unicampania.it/cleopatra/cleodemo/montepugliano/index.json/canvas/4"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "_5_villa"
+        ]
+      },
+      "width": 960,
+      "height": 720,
+      "thumbnail": [
+        {
+          "id": "https://parsec2.unicampania.it/cleopatra/cleodemo/montepugliano/_5_villa/thumb.jpeg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "https://parsec2.unicampania.it/cleopatra/cleodemo/montepugliano/index.json/canvas/5",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://parsec2.unicampania.it/cleopatra/cleodemo/montepugliano/index.json/canvas/5/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://parsec2.unicampania.it/cleopatra/cleodemo/montepugliano/index.json/canvas/5/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://parsec2.unicampania.it/cleopatra/cleodemo/montepugliano/_6_villa/villa.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "label": {
+                  "@none": [
+                    "_6_villa"
+                  ]
+                },
+                "width": 960,
+                "height": 720
+              },
+              "target": "https://parsec2.unicampania.it/cleopatra/cleodemo/montepugliano/index.json/canvas/5"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "_6_villa"
+        ]
+      },
+      "width": 960,
+      "height": 720,
+      "thumbnail": [
+        {
+          "id": "https://parsec2.unicampania.it/cleopatra/cleodemo/montepugliano/_6_villa/thumb.jpeg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "https://parsec2.unicampania.it/cleopatra/cleodemo/montepugliano/index.json/canvas/6",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://parsec2.unicampania.it/cleopatra/cleodemo/montepugliano/index.json/canvas/6/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://parsec2.unicampania.it/cleopatra/cleodemo/montepugliano/index.json/canvas/6/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://parsec2.unicampania.it/cleopatra/cleodemo/montepugliano/_7_cinta/cinta.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "label": {
+                  "@none": [
+                    "_7_cinta"
+                  ]
+                },
+                "width": 6000,
+                "height": 3239
+              },
+              "target": "https://parsec2.unicampania.it/cleopatra/cleodemo/montepugliano/index.json/canvas/6"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "_7_cinta"
+        ]
+      },
+      "width": 6000,
+      "height": 3239,
+      "thumbnail": [
+        {
+          "id": "https://parsec2.unicampania.it/cleopatra/cleodemo/montepugliano/_7_cinta/thumb.jpeg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "https://parsec2.unicampania.it/cleopatra/cleodemo/montepugliano/index.json/canvas/7",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://parsec2.unicampania.it/cleopatra/cleodemo/montepugliano/index.json/canvas/7/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://parsec2.unicampania.it/cleopatra/cleodemo/montepugliano/index.json/canvas/7/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://parsec2.unicampania.it/cleopatra/cleodemo/montepugliano/_8_siti/siti.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "label": {
+                  "@none": [
+                    "_8_siti"
+                  ]
+                },
+                "width": 960,
+                "height": 720
+              },
+              "target": "https://parsec2.unicampania.it/cleopatra/cleodemo/montepugliano/index.json/canvas/7"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "_8_siti"
+        ]
+      },
+      "width": 960,
+      "height": 720,
+      "thumbnail": [
+        {
+          "id": "https://parsec2.unicampania.it/cleopatra/cleodemo/montepugliano/_8_siti/thumb.jpeg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "https://parsec2.unicampania.it/cleopatra/cleodemo/montepugliano/index.json/canvas/8",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://parsec2.unicampania.it/cleopatra/cleodemo/montepugliano/index.json/canvas/8/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://parsec2.unicampania.it/cleopatra/cleodemo/montepugliano/index.json/canvas/8/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://parsec2.unicampania.it/cleopatra/cleodemo/montepugliano/_9_spasquale/spasquale.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "label": {
+                  "@none": [
+                    "_9_spasquale"
+                  ]
+                },
+                "width": 960,
+                "height": 720
+              },
+              "target": "https://parsec2.unicampania.it/cleopatra/cleodemo/montepugliano/index.json/canvas/8"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "_9_spasquale"
+        ]
+      },
+      "width": 960,
+      "height": 720,
+      "thumbnail": [
+        {
+          "id": "https://parsec2.unicampania.it/cleopatra/cleodemo/montepugliano/_9_spasquale/thumb.jpeg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "https://parsec2.unicampania.it/cleopatra/cleodemo/montepugliano/index.json/canvas/9",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://parsec2.unicampania.it/cleopatra/cleodemo/montepugliano/index.json/canvas/9/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://parsec2.unicampania.it/cleopatra/cleodemo/montepugliano/index.json/canvas/9/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://parsec2.unicampania.it/cleopatra/cleodemo/montepugliano/_10_monteacero/monteacero.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "label": {
+                  "@none": [
+                    "_10_monteacero"
+                  ]
+                },
+                "width": 960,
+                "height": 720
+              },
+              "target": "https://parsec2.unicampania.it/cleopatra/cleodemo/montepugliano/index.json/canvas/9"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "_10_monteacero"
+        ]
+      },
+      "width": 960,
+      "height": 720,
+      "thumbnail": [
+        {
+          "id": "https://parsec2.unicampania.it/cleopatra/cleodemo/montepugliano/_10_monteacero/thumb.jpeg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "https://parsec2.unicampania.it/cleopatra/cleodemo/montepugliano/index.json/canvas/10",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://parsec2.unicampania.it/cleopatra/cleodemo/montepugliano/index.json/canvas/10/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://parsec2.unicampania.it/cleopatra/cleodemo/montepugliano/index.json/canvas/10/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://parsec2.unicampania.it/cleopatra/cleodemo/montepugliano/_11_Rocca/rocca.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "label": {
+                  "@none": [
+                    "_11_Rocca"
+                  ]
+                },
+                "width": 960,
+                "height": 720
+              },
+              "target": "https://parsec2.unicampania.it/cleopatra/cleodemo/montepugliano/index.json/canvas/10"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "_11_Rocca"
+        ]
+      },
+      "width": 960,
+      "height": 720,
+      "thumbnail": [
+        {
+          "id": "https://parsec2.unicampania.it/cleopatra/cleodemo/montepugliano/_11_Rocca/thumb.jpeg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "https://parsec2.unicampania.it/cleopatra/cleodemo/montepugliano/index.json/canvas/11",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://parsec2.unicampania.it/cleopatra/cleodemo/montepugliano/index.json/canvas/11/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://parsec2.unicampania.it/cleopatra/cleodemo/montepugliano/index.json/canvas/11/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://parsec2.unicampania.it/cleopatra/cleodemo/montepugliano/_12_maps_siti/map_siti_fortificati.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "label": {
+                  "@none": [
+                    "_12_maps_siti"
+                  ]
+                },
+                "width": 1537,
+                "height": 1509
+              },
+              "target": "https://parsec2.unicampania.it/cleopatra/cleodemo/montepugliano/index.json/canvas/11"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "_12_maps_siti"
+        ]
+      },
+      "width": 1537,
+      "height": 1509,
+      "thumbnail": [
+        {
+          "id": "https://parsec2.unicampania.it/cleopatra/cleodemo/montepugliano/_12_maps_siti/thumb.jpeg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "https://parsec2.unicampania.it/cleopatra/cleodemo/montepugliano/index.json/canvas/12",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://parsec2.unicampania.it/cleopatra/cleodemo/montepugliano/index.json/canvas/12/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://parsec2.unicampania.it/cleopatra/cleodemo/montepugliano/index.json/canvas/12/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://parsec2.unicampania.it/cleopatra/cleodemo/montepugliano/_13_museo_telesia/museo_telesia.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "label": {
+                  "@none": [
+                    "_13_museo_telesia"
+                  ]
+                },
+                "width": 1424,
+                "height": 1052
+              },
+              "target": "https://parsec2.unicampania.it/cleopatra/cleodemo/montepugliano/index.json/canvas/12"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "_13_museo_telesia"
+        ]
+      },
+      "width": 1424,
+      "height": 1052,
+      "thumbnail": [
+        {
+          "id": "https://parsec2.unicampania.it/cleopatra/cleodemo/montepugliano/_13_museo_telesia/thumb.jpeg",
+          "type": "Image"
+        }
+      ]
+    },
+    {
+      "id": "https://parsec2.unicampania.it/cleopatra/cleodemo/montepugliano/index.json/canvas/13",
+      "type": "Canvas",
+      "items": [
+        {
+          "id": "https://parsec2.unicampania.it/cleopatra/cleodemo/montepugliano/index.json/canvas/13/annotationpage/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://parsec2.unicampania.it/cleopatra/cleodemo/montepugliano/index.json/canvas/13/annotation/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://parsec2.unicampania.it/cleopatra/cleodemo/montepugliano/_14_maps_musei/musei.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "label": {
+                  "@none": [
+                    "_14_maps_musei"
+                  ]
+                },
+                "width": 2070,
+                "height": 1572
+              },
+              "target": "https://parsec2.unicampania.it/cleopatra/cleodemo/montepugliano/index.json/canvas/13"
+            }
+          ]
+        }
+      ],
+      "label": {
+        "@none": [
+          "_14_maps_musei"
+        ]
+      },
+      "width": 2070,
+      "height": 1572,
+      "thumbnail": [
+        {
+          "id": "https://parsec2.unicampania.it/cleopatra/cleodemo/montepugliano/_14_maps_musei/thumb.jpeg",
+          "type": "Image"
+        }
+      ]
+    }
+  ],
+  "label": {
+    "@none": [
+      "montepugliano"
+    ]
+  }
+}

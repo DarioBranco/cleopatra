@@ -1,0 +1,87 @@
+<html>
+
+	<head>
+    <script src="lib/mirador.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="css/manifestButton.css" />	
+<script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId      : '2897787287216541',
+      cookie     : true,
+      xfbml      : true,
+      version    : 'v11.0'
+    });
+      
+    FB.AppEvents.logPageView();   
+      
+  };
+
+  (function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement(s); js.id = id;
+     js.src = "https://connect.facebook.net/en_US/sdk.js";
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));
+
+function statusChangeCallback(response){console.log("changed");}
+
+function checkLoginState() {
+  FB.getLoginStatus(function(response) {
+    statusChangeCallback(response);
+  });
+}
+</script>
+	</head>
+	<body>
+		<fb:login-button
+  scope="public_profile,email"
+  onlogin="checkLoginState();">
+</fb:login-button>
+
+    <div id="viewer"/>
+
+
+	  <script type="text/javascript">
+	var miradorInstance = Mirador.viewer({
+       id: 'viewer',
+       language: 'it',
+      selectedTheme: 'dark',
+
+      window: {
+		  highlightAllAnnotations: true,
+		  forceDrawAnnotations: true,
+		  panels: {
+			layers: true,
+			annotations: true,
+		 },
+		  defaultView:'single',
+				views: [
+						{ key: 'single'},
+						{ key: 'book' },
+						{ key: 'scroll'},
+						{ key: 'gallery' }
+						]
+
+			},
+	  windows: [{
+         manifestId: 'https://parsec2.unicampania.it/~cleopatra/manifests/manifest_cleo_1.json',
+      //   canvasId: 'http://www.dante.unina.it/iiif/ms_jp2/CNMD0000249997/CNMD0000249997_0001.jp1',
+        thumbnailNavigationPosition: 'far-bottom',
+       }],
+       manifestButton: {
+		iconClass: 'fa-file' // Define the icon class of the button
+		},
+
+       requests: {
+         preprocessors: [
+           (url, options) => ({  ...options, headers: {
+             Accept: 'application/ld+json;profile="http://iiif.io/api/presentation/3/context.json"',
+           }})
+         ]
+       }
+     });
+
+    </script>
+	</body>
+</html>

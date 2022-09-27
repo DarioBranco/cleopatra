@@ -1,0 +1,19 @@
+{
+  "name": "Kommunicate Live Chat",
+  "description": "Delight your customers with intelligent chat-based support",
+  "type": "project",
+  "license": "GPL",
+  "authors": [
+    {
+      "name": "Kommunicate",
+      "email": "devashish@kommunicate.io"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Inc\\": "./inc"
+    }
+  }
+}

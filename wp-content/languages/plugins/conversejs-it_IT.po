@@ -1,0 +1,559 @@
+# Translation of Plugins - ConverseJS - Stable (latest release) in Italian
+# This file is distributed under the same license as the Plugins - ConverseJS - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-06-18 13:39:14+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: it\n"
+"Project-Id-Version: Plugins - ConverseJS - Stable (latest release)\n"
+
+#: conversejs.php:430
+msgid "Concord"
+msgstr "Concord"
+
+#: conversejs.php:429
+msgid "Default"
+msgstr "Default"
+
+#: conversejs.php:426
+msgid "Theme"
+msgstr "Tema"
+
+#: conversejs.php:478
+msgid "Romanian"
+msgstr "Rumeno"
+
+#: conversejs.php:470
+msgid "Hindi"
+msgstr "Hindi"
+
+#: conversejs.php:344
+msgid "If you select admin screen converseJS appear also in the main screen if the logged user can publish posts "
+msgstr "Selezionando Schermata Admin converseJS appare anche nella Schermata Pubblica se l'utente loggato può pubblicare articoli su wordpress."
+
+#: conversejs.php:341
+msgid "Both main and admin screen"
+msgstr "Entrambi (Schermata Pubblica e Admin)"
+
+#: conversejs.php:340
+msgid "Admin screen"
+msgstr "Schermata Admin"
+
+#: conversejs.php:339
+msgid "Main screen"
+msgstr "Schermata Pubblica"
+
+#: conversejs.php:336
+msgid "Place where ConverseJS appears"
+msgstr "Dove deve apparire ConverseJS"
+
+#: conversejs.php:82
+msgid ""
+"When you use the Chat service we send the data (username, password and every conversations data) to ChatMe server.\n"
+" \n"
+"                For more details you can see <a href=\"%s\" target=\"_blank\">Privacy Policy of ChatMe</a>."
+msgstr ""
+"Quando usi il servizio di chat i dati (username, password e ogni dato della conversazione) sono inviati al server ChatMe.\n"
+" \n"
+"Per ogni dettaglio puoi vedere la <a href=\"%s\" target=\"_blank\">Privacy Policy di ChatMe</a>."
+
+#: conversejs.php:379
+msgid "Enable the registration from the web of new account, disabled by default for spam reason."
+msgstr "Abilita le registrazioni di nuovi account dal web, disattivato per impostazione predefinita per evitare spam."
+
+#: conversejs.php:377
+msgid "Enable Registration"
+msgstr "Attiva Registrazioni"
+
+#: conversejs.php:411
+msgid "Show Send Button"
+msgstr "Mostra Bottone Invia"
+
+#: conversejs.php:543
+msgid "We suggest chatme.im"
+msgstr "Noi suggeriamo chatme.im"
+
+#: conversejs.php:541 conversejs.php:543
+msgid "Registration Domain"
+msgstr "Dominio per la Registrazione"
+
+#: conversejs.php:535
+msgid "Hight"
+msgstr "Alta"
+
+#: conversejs.php:534
+msgid "Medium (Default)"
+msgstr "Media (Default)"
+
+#: conversejs.php:533
+msgid "Low"
+msgstr "Bassa"
+
+#: conversejs.php:530
+msgid "Priority"
+msgstr "Priorità"
+
+#: conversejs.php:372
+msgid "Link to redirect user when logout from ConverseJs, default: # (current page)"
+msgstr "Link a cui mandare l'utente quando fa il logout da ConverseJs, default: # (pagina in cui è). "
+
+#: conversejs.php:372
+msgid "logout link"
+msgstr "logout link"
+
+#: conversejs.php:370
+msgid "Logout Link"
+msgstr "Logout Link"
+
+#: conversejs.php:357
+msgid "The automatic value of bosh server read from DNS record (if present) of your domain is %s else we use the default value or the value you set in this page."
+msgstr "Il valore selezionato automaticamente del bosh server letto dal record DNS (se presente) del tuo dominio è %s altrimenti viene usato il valore di default o il valore inserito in questa pagina."
+
+#: conversejs.php:354
+msgid "bosh service"
+msgstr "bosh server "
+
+#: conversejs.php:353
+msgid "Automatic Selected or"
+msgstr "Selezionato automaticamente oppure "
+
+#: conversejs.php:106
+msgid "The plugin read automatically the setting from DNS record (_xmppconnect.domain) of domain where is installed, if the record is not present the plugin use default value or read from option setting if you give one."
+msgstr "Il plugin legge automaticamente le impostazione dal record DNS (_xmppconnect.domain) del dominio dov'è installato, se il record non è presente il plugin usa il valore di default o legge dalle impostazioni se ne viene inserito uno. "
+
+#: conversejs.php:127
+msgid "ChatMe Username"
+msgstr "ChatMe Username"
+
+#: conversejs.php:400
+msgid "Auto Join MUC when login"
+msgstr "Entra automaticamente nel gruppo al login"
+
+#: conversejs.php:400
+msgid "piazza@conference.chatme.im"
+msgstr "piazza@conference.chatme.im"
+
+#: conversejs.php:398
+msgid "Auto Join MUC Chat"
+msgstr "Entra automaticamente nel gruppo"
+
+#: conversejs.php:393
+msgid "Default domain for login with username only"
+msgstr "Dominio di default per il login solo con l'username"
+
+#: conversejs.php:393
+msgid "chatme.im"
+msgstr "chatme.im"
+
+#: conversejs.php:391
+msgid "Default Domain"
+msgstr "Dominio di Default"
+
+#: conversejs.php:356
+msgid "We suggest: https://bind.chatme.im (With keepAlive support between wordpress page)"
+msgstr "Noi suggeriamo: https://bind.chatme.im (Con support keepAlive tra le pagine wordpress) "
+
+#: conversejs.php:106
+msgid "With support for keepAlive sessione between wordpress page and post (For example you can chat without relogin in every page of the site)."
+msgstr "Con supporto keepAlive tra le pagine e gli articoli di wordpress (per esempio puoi chattare senza rifare il login ad ogni pagina del sito)."
+
+#: conversejs.php:481
+msgid "Chinese"
+msgstr "Cinese"
+
+#: conversejs.php:480
+msgid "Ukrainian"
+msgstr "Ucraino"
+
+#: conversejs.php:477
+msgid "Polish"
+msgstr "Polacco"
+
+#: conversejs.php:475
+msgid "Norwegian"
+msgstr "Norvegese"
+
+#: conversejs.php:472
+msgid "Indonesian"
+msgstr "Indonesiano"
+
+#: conversejs.php:471
+msgid "Hungarian"
+msgstr "Ungherese"
+
+#: conversejs.php:469
+msgid "Hebrew"
+msgstr "Ebraico"
+
+#: conversejs.php:464
+msgid "Afrikaans"
+msgstr "Afrikaans"
+
+#: conversejs.php:519
+msgid "Auto Extended Away After"
+msgstr "Auto Extended Away Dopo"
+
+#: conversejs.php:515 conversejs.php:526
+msgid "Seconds"
+msgstr "secondi"
+
+#: conversejs.php:511 conversejs.php:522
+msgid "Disabled"
+msgstr "Disattivato"
+
+#: conversejs.php:508
+msgid "Auto Away After"
+msgstr "Auto Away Dopo"
+
+#: conversejs.php:463
+msgid "Some of Site"
+msgstr "La stessa del sito"
+
+#: conversejs.php:441
+msgid "Cache OTR Key"
+msgstr "Cache OTR Key"
+
+#: conversejs.php:122
+msgid "ChatMe Site"
+msgstr "Sito ChatMe"
+
+#: conversejs.php:122
+msgid "XMPP.net"
+msgstr "XMPP.net"
+
+#: conversejs.php:122
+msgid "ConverseJS Official Documentation"
+msgstr "ConverseJS Documentazione Ufficiale"
+
+#: conversejs.php:122
+msgid "ConverseJS Official Site"
+msgstr "ConverseJS Sito Ufficiale"
+
+#: conversejs.php:122
+msgid "Other Resources"
+msgstr "Altre Risorse"
+
+#: conversejs.php:118 conversejs.php:386
+msgid "e.g. chatme.im"
+msgstr "es. chatme.im"
+
+#: conversejs.php:118
+msgid "domain_placeholder"
+msgstr "domain_placeholder"
+
+#: conversejs.php:118
+msgid "The placeholder that show in register page."
+msgstr "Il placeholder che viene mostrato nella pagina di registrazione"
+
+#: conversejs.php:112
+msgid "providers_link"
+msgstr "providers_link"
+
+#: conversejs.php:112
+msgid "http://chatme.im/servizi/domini-disponibili/"
+msgstr "http://chatme.im/servizi/domini-disponibili/"
+
+#: conversejs.php:112
+msgid "The link with XMPP service list, for example:"
+msgstr "Il link alla lista dei server XMPP, per esempio"
+
+#: conversejs.php:106 conversejs.php:112 conversejs.php:118
+msgid "Default value:"
+msgstr "Valore di default:"
+
+#: conversejs.php:106
+msgid "bosh_service_url"
+msgstr "bosh_service_url"
+
+#: conversejs.php:106 conversejs.php:112 conversejs.php:118
+msgid "Variable:"
+msgstr "Variabile"
+
+#: conversejs.php:106
+msgid "for all XMPP service login."
+msgstr "per tutti XMPP server login."
+
+#: conversejs.php:106
+msgid "https://bind.chatme.im"
+msgstr "https://bind.chatme.im"
+
+#: conversejs.php:106
+msgid "The Bind Server used from ConverseJS to connect to XMPP server, you can use"
+msgstr "Il Server Bind usato da ConverseJS per connettersi al server XMPP, puoi usare"
+
+#: conversejs.php:551
+msgid "forum"
+msgstr "forum"
+
+#: conversejs.php:551
+msgid "For each request you can use our"
+msgstr "Per ogni richiesta puoi usare il nostro"
+
+#: conversejs.php:493
+msgid "XEP-0313: Message Archive Management"
+msgstr "XEP-0313: Message Archive Management"
+
+#: conversejs.php:493
+msgid "Provides support for"
+msgstr "Fornisce il supporto per"
+
+#: conversejs.php:455
+msgid "Not Overwrite the varables managed from other options."
+msgstr "Non sovrascrive le variabili gestite dalle altre opzioni."
+
+#: conversejs.php:455
+msgid "Here."
+msgstr "Qui"
+
+#: conversejs.php:455
+msgid "More info"
+msgstr "Ulteriori informazioni"
+
+#: conversejs.php:455
+msgid "Custom Variable"
+msgstr "Variabili personalizzate"
+
+#: conversejs.php:330
+msgid "Enable your domain in Chat Service"
+msgstr "Attiva il servizio di chat nel tuo dominio"
+
+#: conversejs.php:330
+msgid "ConverseJS.org"
+msgstr "ConverseJS.org"
+
+#: conversejs.php:330
+msgid "Support Chat Room"
+msgstr "Gruppo Chat di Supporto"
+
+#: conversejs.php:330
+msgid "www.chatme.im"
+msgstr "www.chatme.im"
+
+#: conversejs.php:330
+msgid "For more information visit"
+msgstr "Per maggiori informazioni visita"
+
+#. Author URI of the plugin
+msgid "http://www.chatme.im"
+msgstr "http://www.chatme.im"
+
+#. Author of the plugin
+msgid "camaran"
+msgstr "camaran"
+
+#. Description of the plugin
+msgid "This plugin add the javascript code for Converse.js a Jabber/XMPP chat for your WordPress."
+msgstr "Questo Plugin aggiunge il codice javascript per ConverseJS un Jabber/XMPP client per il tuo wordpress."
+
+#. Plugin URI of the plugin
+msgid "https://conversejs.org/"
+msgstr "https://conversejs.org/"
+
+#: conversejs.php:504
+msgid "Provides support for XEP-0085 Chat State Indication"
+msgstr "Fornisce supporto per XEP-0085 Chat State Indication"
+
+#: conversejs.php:502 conversejs.php:514 conversejs.php:525
+msgid "15"
+msgstr "15"
+
+#: conversejs.php:501 conversejs.php:513 conversejs.php:524
+msgid "10"
+msgstr "10"
+
+#: conversejs.php:500 conversejs.php:512 conversejs.php:523
+msgid "5"
+msgstr "5"
+
+#: conversejs.php:497
+msgid "CSI Wainting Time"
+msgstr "CSI Tempo di Attesa"
+
+#: conversejs.php:490
+msgid "Always"
+msgstr "sempre"
+
+#: conversejs.php:489
+msgid "Never"
+msgstr "Nessuno"
+
+#: conversejs.php:486
+msgid "Message Archive Management"
+msgstr "Gestione Archivio Messaggi"
+
+#: conversejs.php:479
+msgid "Russian"
+msgstr "Russo"
+
+#: conversejs.php:476
+msgid "Nederlands"
+msgstr "Olandese"
+
+#: conversejs.php:474
+msgid "Japan"
+msgstr "Giapponese"
+
+#: conversejs.php:473
+msgid "Italiano"
+msgstr "Italiano"
+
+#: conversejs.php:468
+msgid "Fran&ccedil;ais"
+msgstr "Francese"
+
+#: conversejs.php:467
+msgid "Espa&ntilde;ol"
+msgstr "Spagnolo"
+
+#: conversejs.php:466
+msgid "English"
+msgstr "Inglese"
+
+#: conversejs.php:465
+msgid "Deutsch"
+msgstr "Tedesco"
+
+#: conversejs.php:460
+msgid "Converse language"
+msgstr "Lingua ConverseJS"
+
+#: conversejs.php:456
+msgid "For advance use converse_html hook"
+msgstr "Per un uso avanzato usa converse_html hook"
+
+#: conversejs.php:451
+msgid "Enable Roster Groups"
+msgstr "Attiva Visualizzazione Gruppi"
+
+#: conversejs.php:450 conversejs.php:491
+msgid "Roster"
+msgstr "LIsta Contatti"
+
+#: conversejs.php:445
+msgid "Hide Offline Users"
+msgstr "Nascondi Utenti Offline"
+
+#: conversejs.php:444
+msgid "Auto List Rooms"
+msgstr "Mostra la lista delle stanze"
+
+#: conversejs.php:443
+msgid "Auto Subscribe"
+msgstr "Accetta automaticamente richieste contatto"
+
+#: conversejs.php:442
+msgid "Enable OTR for more security chat conversations"
+msgstr "Attiva OTR per conversazioni di chat più sicure"
+
+#: conversejs.php:441
+msgid "Enable OTR"
+msgstr "Attiva OTR"
+
+#: conversejs.php:440
+msgid "Hide MUC Server"
+msgstr "Nascondi MUC Server"
+
+#: conversejs.php:439
+msgid "Enable Foward Messages"
+msgstr "Attiva Foward Messaggi"
+
+#: conversejs.php:438
+msgid "Enable Messages Carbons"
+msgstr "Attiva Carbons Messaggi"
+
+#: conversejs.php:436
+msgid "Functions"
+msgstr "Funzioni"
+
+#: conversejs.php:422
+msgid "sound patch ./sounds work with mp3 and odg"
+msgstr "path della cartella ./sounds funziona con mp3 e odg"
+
+#: conversejs.php:422
+msgid "./sounds"
+msgstr "./sounds"
+
+#: conversejs.php:422
+msgid "Sounds Path"
+msgstr "Path Cartella Sounds"
+
+#: conversejs.php:422
+msgid "Play Sounds"
+msgstr "Esegui i suoni"
+
+#: conversejs.php:421
+msgid "Sounds"
+msgstr "Suoni"
+
+#: conversejs.php:379 conversejs.php:417
+msgid "Yes"
+msgstr "Sì"
+
+#: conversejs.php:416
+msgid "Hide Chat Panel Open"
+msgstr "Riduci pannello chat"
+
+#: conversejs.php:410
+msgid "Enable toggle participants Button"
+msgstr "Attiva Bottone toggle participants"
+
+#: conversejs.php:409
+msgid "Enable Emoticons"
+msgstr "Attiva emoticons"
+
+#: conversejs.php:408
+msgid "Enable Clear Button"
+msgstr "Attiva Bottone Pulizia"
+
+#: conversejs.php:407
+msgid "Enable Call Button"
+msgstr "Attiva Bottone Chiamate"
+
+#: conversejs.php:405
+msgid "Visible Buttons"
+msgstr "Bottoni Visibili"
+
+#: conversejs.php:386
+msgid "We suggest e.g. chatme.im"
+msgstr "Noi suggeriamo: es. chatme.im"
+
+#: conversejs.php:365
+msgid "We suggest http://chatme.im/servizi/domini-disponibili/"
+msgstr "Noi suggeriamo: http://chatme.im/servizi/domini-disponibili/"
+
+#: conversejs.php:365
+msgid "provider link"
+msgstr "link provider"
+
+#: conversejs.php:325
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Non hai i permessi per accedere a questa pagina."
+
+#. Plugin Name of the plugin
+#: conversejs.php:280
+msgid "ConverseJS"
+msgstr "ConverseJS"
+
+#: conversejs.php:117 conversejs.php:384
+msgid "Register Placeholder"
+msgstr "Placeholder Registrazione"
+
+#: conversejs.php:111 conversejs.php:363
+msgid "Provider Link"
+msgstr "Link Provider"
+
+#: conversejs.php:105 conversejs.php:350
+msgid "Bosh Server"
+msgstr "Bosh Server"
+
+#: conversejs.php:96
+msgid "Enable your Domain for Chat service"
+msgstr "Attiva la chat sul tuo dominio"
+
+#: conversejs.php:96
+msgid "Settings"
+msgstr "Impostazioni"

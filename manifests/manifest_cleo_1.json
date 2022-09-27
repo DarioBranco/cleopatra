@@ -1,0 +1,948 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "http://b72d293a-c308-465b-84d0-904d9ce188c7",
+	"@type": "sc:Manifest",
+	"label": "Institution of Samniti",
+	"metadata": [],
+	"description": [
+		{
+			"@value": "Description",
+			"@language": "en"
+		}
+	],
+	"license": "https://creativecommons.org/licenses/by/3.0/",
+	"attribution": "[Click to edit attribution]",
+	"sequences": [
+		{
+			"@id": "http://5e7b926b-4951-4341-8d45-a92c42124e9a",
+			"@type": "sc:Sequence",
+			"label": [
+				{
+					"@value": "Normal Sequence",
+					"@language": "en"
+				}
+			],
+			"canvases": [
+				{
+					"@id": "http://f1cf4ff3-04a9-4cfe-8123-def64ffc7fbb",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 1678,
+					"width": 3205,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://da22ce12-6eb2-4cbe-a3ce-7dd4393b970b",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://parsec2.unicampania.it/iiif/images/tif/layer1.tif/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://parsec2.unicampania.it/iiif/images/tif/layer1.tif",
+									"profile": [
+										"http://iiif.io/api/image/2/level1",
+										{
+											"formats": [
+												"jpg"
+											],
+											"qualities": [
+												"native",
+												"color",
+												"gray",
+												"bitonal"
+											],
+											"supports": [
+												"regionByPct",
+												"regionSquare",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"sizeAboveFull",
+												"sizeUpscaling",
+												"rotationBy90s",
+												"mirroring"
+											],
+											"maxWidth": 5000,
+											"maxHeight": 5000
+										}
+									]
+								},
+								"height": 1678,
+								"width": 3205
+							},
+							"on": "http://f1cf4ff3-04a9-4cfe-8123-def64ffc7fbb"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://ffd2b07b-2170-4d7e-bce2-f990c863fc4e",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 792,
+					"width": 1105,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://1ba4d8ca-f339-4c6b-8b6d-34dc251dc723",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://parsec2.unicampania.it/iiif/images/tif/layer2.tif/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://parsec2.unicampania.it/iiif/images/tif/layer2.tif",
+									"profile": [
+										"http://iiif.io/api/image/2/level1",
+										{
+											"formats": [
+												"jpg"
+											],
+											"qualities": [
+												"native",
+												"color",
+												"gray",
+												"bitonal"
+											],
+											"supports": [
+												"regionByPct",
+												"regionSquare",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"sizeAboveFull",
+												"sizeUpscaling",
+												"rotationBy90s",
+												"mirroring"
+											],
+											"maxWidth": 5000,
+											"maxHeight": 5000
+										}
+									]
+								},
+								"height": 792,
+								"width": 1105
+							},
+							"on": "http://ffd2b07b-2170-4d7e-bce2-f990c863fc4e"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://80d7df01-74e7-4fb7-9ad9-4ef5585a338e",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 773,
+					"width": 1209,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://f47b32e8-c117-4ee9-835f-0a6520ee4449",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://parsec2.unicampania.it/iiif/images/tif/layer3.tif/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://parsec2.unicampania.it/iiif/images/tif/layer3.tif",
+									"profile": [
+										"http://iiif.io/api/image/2/level1",
+										{
+											"formats": [
+												"jpg"
+											],
+											"qualities": [
+												"native",
+												"color",
+												"gray",
+												"bitonal"
+											],
+											"supports": [
+												"regionByPct",
+												"regionSquare",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"sizeAboveFull",
+												"sizeUpscaling",
+												"rotationBy90s",
+												"mirroring"
+											],
+											"maxWidth": 5000,
+											"maxHeight": 5000
+										}
+									]
+								},
+								"height": 773,
+								"width": 1209
+							},
+							"on": "http://80d7df01-74e7-4fb7-9ad9-4ef5585a338e"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://a98eb727-b63d-426e-aba6-370daffffeea",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 515,
+					"width": 682,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://c29c3f65-94fc-45bc-a3d4-97a4dd864605",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://parsec2.unicampania.it/iiif/images/tif/layer4.tif/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://parsec2.unicampania.it/iiif/images/tif/layer4.tif",
+									"profile": [
+										"http://iiif.io/api/image/2/level1",
+										{
+											"formats": [
+												"jpg"
+											],
+											"qualities": [
+												"native",
+												"color",
+												"gray",
+												"bitonal"
+											],
+											"supports": [
+												"regionByPct",
+												"regionSquare",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"sizeAboveFull",
+												"sizeUpscaling",
+												"rotationBy90s",
+												"mirroring"
+											],
+											"maxWidth": 5000,
+											"maxHeight": 5000
+										}
+									]
+								},
+								"height": 515,
+								"width": 682
+							},
+							"on": "http://a98eb727-b63d-426e-aba6-370daffffeea"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://851a909d-ea5b-4676-9634-fd0565fe1d1f",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 989,
+					"width": 1929,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://d9ab4051-3fa6-45c4-b9b1-7d2971cd992f",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://parsec2.unicampania.it/iiif/images/tif/layer6.tif/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://parsec2.unicampania.it/iiif/images/tif/layer6.tif",
+									"profile": [
+										"http://iiif.io/api/image/2/level1",
+										{
+											"formats": [
+												"jpg"
+											],
+											"qualities": [
+												"native",
+												"color",
+												"gray",
+												"bitonal"
+											],
+											"supports": [
+												"regionByPct",
+												"regionSquare",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"sizeAboveFull",
+												"sizeUpscaling",
+												"rotationBy90s",
+												"mirroring"
+											],
+											"maxWidth": 5000,
+											"maxHeight": 5000
+										}
+									]
+								},
+								"height": 989,
+								"width": 1929
+							},
+							"on": "http://851a909d-ea5b-4676-9634-fd0565fe1d1f"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://ad760380-ca0f-4399-afa7-eba7e0fd15c7",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 795,
+					"width": 2368,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://db00d573-ecff-467b-9d2a-17f1326205a6",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://parsec2.unicampania.it/iiif/images/tif/layer7.tif/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://parsec2.unicampania.it/iiif/images/tif/layer7.tif",
+									"profile": [
+										"http://iiif.io/api/image/2/level1",
+										{
+											"formats": [
+												"jpg"
+											],
+											"qualities": [
+												"native",
+												"color",
+												"gray",
+												"bitonal"
+											],
+											"supports": [
+												"regionByPct",
+												"regionSquare",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"sizeAboveFull",
+												"sizeUpscaling",
+												"rotationBy90s",
+												"mirroring"
+											],
+											"maxWidth": 5000,
+											"maxHeight": 5000
+										}
+									]
+								},
+								"height": 795,
+								"width": 2368
+							},
+							"on": "http://ad760380-ca0f-4399-afa7-eba7e0fd15c7"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://fb13c99b-f114-4c8b-9ad3-0e53469bae1d",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 1208,
+					"width": 1805,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://d7ac799d-d3d5-4f43-9694-dba76c964209",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://parsec2.unicampania.it/iiif/images/tif/layer8.tif/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://parsec2.unicampania.it/iiif/images/tif/layer8.tif",
+									"profile": [
+										"http://iiif.io/api/image/2/level1",
+										{
+											"formats": [
+												"jpg"
+											],
+											"qualities": [
+												"native",
+												"color",
+												"gray",
+												"bitonal"
+											],
+											"supports": [
+												"regionByPct",
+												"regionSquare",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"sizeAboveFull",
+												"sizeUpscaling",
+												"rotationBy90s",
+												"mirroring"
+											],
+											"maxWidth": 5000,
+											"maxHeight": 5000
+										}
+									]
+								},
+								"height": 1208,
+								"width": 1805
+							},
+							"on": "http://fb13c99b-f114-4c8b-9ad3-0e53469bae1d"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://1cb92968-886a-4ba8-8fc1-9c58a5ba054e",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 710,
+					"width": 709,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://da715995-fd27-472b-aac8-9f84fd2ee031",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://parsec2.unicampania.it/iiif/images/tif/layer9.tif/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://parsec2.unicampania.it/iiif/images/tif/layer9.tif",
+									"profile": [
+										"http://iiif.io/api/image/2/level1",
+										{
+											"formats": [
+												"jpg"
+											],
+											"qualities": [
+												"native",
+												"color",
+												"gray",
+												"bitonal"
+											],
+											"supports": [
+												"regionByPct",
+												"regionSquare",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"sizeAboveFull",
+												"sizeUpscaling",
+												"rotationBy90s",
+												"mirroring"
+											],
+											"maxWidth": 5000,
+											"maxHeight": 5000
+										}
+									]
+								},
+								"height": 710,
+								"width": 709
+							},
+							"on": "http://1cb92968-886a-4ba8-8fc1-9c58a5ba054e"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://559c9a93-ff8c-4127-b745-b416e6ae7c77",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 708,
+					"width": 702,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://a6f24a47-f382-4d38-92d2-09e35c2c2dbc",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://parsec2.unicampania.it/iiif/images/tif/layer10.tif/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://parsec2.unicampania.it/iiif/images/tif/layer10.tif",
+									"profile": [
+										"http://iiif.io/api/image/2/level1",
+										{
+											"formats": [
+												"jpg"
+											],
+											"qualities": [
+												"native",
+												"color",
+												"gray",
+												"bitonal"
+											],
+											"supports": [
+												"regionByPct",
+												"regionSquare",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"sizeAboveFull",
+												"sizeUpscaling",
+												"rotationBy90s",
+												"mirroring"
+											],
+											"maxWidth": 5000,
+											"maxHeight": 5000
+										}
+									]
+								},
+								"height": 708,
+								"width": 702
+							},
+							"on": "http://559c9a93-ff8c-4127-b745-b416e6ae7c77"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://ee44baf6-76e8-4bbd-b9a7-f4c8680b3771",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 704,
+					"width": 697,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://46cfdefa-3708-41b4-b9be-340cb96950f5",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://parsec2.unicampania.it/iiif/images/tif/layer11.tif/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://parsec2.unicampania.it/iiif/images/tif/layer11.tif",
+									"profile": [
+										"http://iiif.io/api/image/2/level1",
+										{
+											"formats": [
+												"jpg"
+											],
+											"qualities": [
+												"native",
+												"color",
+												"gray",
+												"bitonal"
+											],
+											"supports": [
+												"regionByPct",
+												"regionSquare",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"sizeAboveFull",
+												"sizeUpscaling",
+												"rotationBy90s",
+												"mirroring"
+											],
+											"maxWidth": 5000,
+											"maxHeight": 5000
+										}
+									]
+								},
+								"height": 704,
+								"width": 697
+							},
+							"on": "http://ee44baf6-76e8-4bbd-b9a7-f4c8680b3771"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://5f3166dd-33d1-4062-bdd4-0d530156ff60",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 578,
+					"width": 791,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://161dd848-af86-4c3b-85de-c58f24e422da",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://parsec2.unicampania.it/iiif/images/tif/layer12.tif/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://parsec2.unicampania.it/iiif/images/tif/layer12.tif",
+									"profile": [
+										"http://iiif.io/api/image/2/level1",
+										{
+											"formats": [
+												"jpg"
+											],
+											"qualities": [
+												"native",
+												"color",
+												"gray",
+												"bitonal"
+											],
+											"supports": [
+												"regionByPct",
+												"regionSquare",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"sizeAboveFull",
+												"sizeUpscaling",
+												"rotationBy90s",
+												"mirroring"
+											],
+											"maxWidth": 5000,
+											"maxHeight": 5000
+										}
+									]
+								},
+								"height": 578,
+								"width": 791
+							},
+							"on": "http://5f3166dd-33d1-4062-bdd4-0d530156ff60"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://ef81cc04-9a12-4110-b935-95d4fb2446c6",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 590,
+					"width": 928,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://6c3387a4-db6e-4bab-b7bc-d193016f05ab",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://parsec2.unicampania.it/iiif/images/tif/layer13.tif/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://parsec2.unicampania.it/iiif/images/tif/layer13.tif",
+									"profile": [
+										"http://iiif.io/api/image/2/level1",
+										{
+											"formats": [
+												"jpg"
+											],
+											"qualities": [
+												"native",
+												"color",
+												"gray",
+												"bitonal"
+											],
+											"supports": [
+												"regionByPct",
+												"regionSquare",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"sizeAboveFull",
+												"sizeUpscaling",
+												"rotationBy90s",
+												"mirroring"
+											],
+											"maxWidth": 5000,
+											"maxHeight": 5000
+										}
+									]
+								},
+								"height": 590,
+								"width": 928
+							},
+							"on": "http://ef81cc04-9a12-4110-b935-95d4fb2446c6"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://403a9896-d774-4556-8a1f-55e9ba8b3289",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 469,
+					"width": 425,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://5c05eaea-5406-4eff-b6ab-563475fd8b23",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://parsec2.unicampania.it/iiif/images/tif/layer14.tif/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://parsec2.unicampania.it/iiif/images/tif/layer14.tif",
+									"profile": [
+										"http://iiif.io/api/image/2/level1",
+										{
+											"formats": [
+												"jpg"
+											],
+											"qualities": [
+												"native",
+												"color",
+												"gray",
+												"bitonal"
+											],
+											"supports": [
+												"regionByPct",
+												"regionSquare",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"sizeAboveFull",
+												"sizeUpscaling",
+												"rotationBy90s",
+												"mirroring"
+											],
+											"maxWidth": 5000,
+											"maxHeight": 5000
+										}
+									]
+								},
+								"height": 469,
+								"width": 425
+							},
+							"on": "http://403a9896-d774-4556-8a1f-55e9ba8b3289"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://c696abcf-2099-4758-8868-577ef651dc45",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 429,
+					"width": 460,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://cd37d6da-2396-44fc-a10c-21e005bb716f",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://parsec2.unicampania.it/iiif/images/tif/layer15.tif/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://parsec2.unicampania.it/iiif/images/tif/layer15.tif",
+									"profile": [
+										"http://iiif.io/api/image/2/level1",
+										{
+											"formats": [
+												"jpg"
+											],
+											"qualities": [
+												"native",
+												"color",
+												"gray",
+												"bitonal"
+											],
+											"supports": [
+												"regionByPct",
+												"regionSquare",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"sizeAboveFull",
+												"sizeUpscaling",
+												"rotationBy90s",
+												"mirroring"
+											],
+											"maxWidth": 5000,
+											"maxHeight": 5000
+										}
+									]
+								},
+								"height": 429,
+								"width": 460
+							},
+							"on": "http://c696abcf-2099-4758-8868-577ef651dc45"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://4eafc0b7-8073-4a60-96c2-e8e093670619",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 427,
+					"width": 466,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://a9303f6e-fe10-42f4-9950-6b689f5862f8",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://parsec2.unicampania.it/iiif/images/tif/layer16.tif/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://parsec2.unicampania.it/iiif/images/tif/layer16.tif",
+									"profile": [
+										"http://iiif.io/api/image/2/level1",
+										{
+											"formats": [
+												"jpg"
+											],
+											"qualities": [
+												"native",
+												"color",
+												"gray",
+												"bitonal"
+											],
+											"supports": [
+												"regionByPct",
+												"regionSquare",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"sizeAboveFull",
+												"sizeUpscaling",
+												"rotationBy90s",
+												"mirroring"
+											],
+											"maxWidth": 5000,
+											"maxHeight": 5000
+										}
+									]
+								},
+								"height": 427,
+								"width": 466
+							},
+							"on": "http://4eafc0b7-8073-4a60-96c2-e8e093670619"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://02b914ca-6999-41c2-bd8d-32fea647c681",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 470,
+					"width": 466,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://226fae33-ac4d-4c7e-9c48-a0ca557350c6",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://parsec2.unicampania.it/iiif/images/tif/layer17.tif/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://parsec2.unicampania.it/iiif/images/tif/layer17.tif",
+									"profile": [
+										"http://iiif.io/api/image/2/level1",
+										{
+											"formats": [
+												"jpg"
+											],
+											"qualities": [
+												"native",
+												"color",
+												"gray",
+												"bitonal"
+											],
+											"supports": [
+												"regionByPct",
+												"regionSquare",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"sizeAboveFull",
+												"sizeUpscaling",
+												"rotationBy90s",
+												"mirroring"
+											],
+											"maxWidth": 5000,
+											"maxHeight": 5000
+										}
+									]
+								},
+								"height": 470,
+								"width": 466
+							},
+							"on": "http://02b914ca-6999-41c2-bd8d-32fea647c681"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://bb805244-c119-4a8b-b1c8-e8ed91b00872",
+					"@type": "sc:Canvas",
+					"label": "Empty canvas",
+					"height": 444,
+					"width": 458,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://314d41a7-839a-4221-a60a-695399cd31d5",
+							"@type": "oa:Annotation",
+							"motivation": "sc:painting",
+							"resource": {
+								"@id": "https://parsec2.unicampania.it/iiif/images/tif/layer18.tif/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://parsec2.unicampania.it/iiif/images/tif/layer18.tif",
+									"profile": [
+										"http://iiif.io/api/image/2/level1",
+										{
+											"formats": [
+												"jpg"
+											],
+											"qualities": [
+												"native",
+												"color",
+												"gray",
+												"bitonal"
+											],
+											"supports": [
+												"regionByPct",
+												"regionSquare",
+												"sizeByForcedWh",
+												"sizeByWh",
+												"sizeAboveFull",
+												"sizeUpscaling",
+												"rotationBy90s",
+												"mirroring"
+											],
+											"maxWidth": 5000,
+											"maxHeight": 5000
+										}
+									]
+								},
+								"height": 444,
+								"width": 458
+							},
+							"on": "http://bb805244-c119-4a8b-b1c8-e8ed91b00872"
+						}
+					],
+					"related": ""
+				}
+			]
+		}
+	],
+	"structures": []
+}
